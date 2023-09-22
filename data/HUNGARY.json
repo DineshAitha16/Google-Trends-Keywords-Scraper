@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 23:54:58",
+  "lastUpdate": "22-09-2023 , 00:56:07",
   "data": [
     {
       "title": "FTC",
@@ -10,11 +10,6 @@
       "title": "Bársony Farkas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A1rsony%20Farkas",
       "pubdate": "Thu, 21 Sep 2023 10:00:00 +0200"
-    },
-    {
-      "title": "Sheriff–roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sheriff%E2%80%93roma",
-      "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
     },
     {
       "title": "Gálvölgyi János",
@@ -47,19 +42,24 @@
       "pubdate": "Thu, 21 Sep 2023 16:00:00 +0200"
     },
     {
+      "title": "Leverkusen–häcken",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen%E2%80%93h%C3%A4cken",
+      "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
+    },
+    {
       "title": "Renoir",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Renoir",
       "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
     },
     {
-      "title": "Szexoktatás",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szexoktat%C3%A1s",
-      "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
-    },
-    {
       "title": "Michael Caine",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Caine",
       "pubdate": "Thu, 21 Sep 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Szexoktatás",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szexoktat%C3%A1s",
+      "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
     },
     {
       "title": "Payday 3",
@@ -72,18 +72,8 @@
       "pubdate": "Thu, 21 Sep 2023 00:00:00 +0200"
     },
     {
-      "title": "Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina",
-      "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
-    },
-    {
       "title": "Az ember tragédiája",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%20ember%20trag%C3%A9di%C3%A1ja",
-      "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
-    },
-    {
-      "title": "Ferencvárosi TC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1rosi%20TC",
       "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
     },
     {
@@ -100,6 +90,16 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
       "pubdate": "Wed, 20 Sep 2023 23:00:00 +0200"
+    },
+    {
+      "title": "Real madrid–union Berlin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93union%20Berlin",
+      "pubdate": "Wed, 20 Sep 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Szoboszlai Dominik barátnője",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik%20bar%C3%A1tn%C5%91je",
+      "pubdate": "Wed, 20 Sep 2023 20:00:00 +0200"
     }
   ]
 }

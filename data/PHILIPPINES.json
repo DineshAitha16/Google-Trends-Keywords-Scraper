@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "21-09-2023 , 23:55:02",
+  "lastUpdate": "22-09-2023 , 00:56:10",
   "data": [
     {
       "title": "Nayeon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nayeon",
       "pubdate": "Fri, 22 Sep 2023 00:00:00 +0800"
-    },
-    {
-      "title": "Smog",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Smog",
-      "pubdate": "Thu, 21 Sep 2023 00:00:00 +0800"
     },
     {
       "title": "Martial law",
@@ -25,6 +20,11 @@
       "title": "Inter Miami vs Toronto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Inter%20Miami%20vs%20Toronto",
       "pubdate": "Thu, 21 Sep 2023 09:00:00 +0800"
+    },
+    {
+      "title": "Smog Taal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Smog%20Taal",
+      "pubdate": "Thu, 21 Sep 2023 23:00:00 +0800"
     },
     {
       "title": "George Clooney",
@@ -62,11 +62,6 @@
       "pubdate": "Thu, 21 Sep 2023 13:00:00 +0800"
     },
     {
-      "title": "Andy Gemao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Andy%20Gemao",
-      "pubdate": "Thu, 21 Sep 2023 14:00:00 +0800"
-    },
-    {
       "title": "Sound Of Freedom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sound%20Of%20Freedom",
       "pubdate": "Thu, 21 Sep 2023 15:00:00 +0800"
@@ -75,6 +70,11 @@
       "title": "Dwight Howard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dwight%20Howard",
       "pubdate": "Thu, 21 Sep 2023 22:00:00 +0800"
+    },
+    {
+      "title": "Andy Gemao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Andy%20Gemao",
+      "pubdate": "Thu, 21 Sep 2023 14:00:00 +0800"
     },
     {
       "title": "Pangina Heals",
@@ -97,8 +97,8 @@
       "pubdate": "Wed, 20 Sep 2023 00:00:00 +0800"
     },
     {
-      "title": "Taal Volcano Update",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taal%20Volcano%20Update",
+      "title": "Taal Volcano update",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taal%20Volcano%20update",
       "pubdate": "Wed, 20 Sep 2023 21:00:00 +0800"
     }
   ]
