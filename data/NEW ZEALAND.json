@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 23:59:21",
+  "lastUpdate": "03-10-2023 , 01:19:09",
   "data": [
     {
       "title": "Simon Barnett",
@@ -12,9 +12,14 @@
       "pubdate": "Tue, 03 Oct 2023 10:00:00 +1300"
     },
     {
-      "title": "Earthquake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-      "pubdate": "Tue, 03 Oct 2023 10:00:00 +1300"
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
+      "pubdate": "Tue, 03 Oct 2023 13:00:00 +1300"
+    },
+    {
+      "title": "Tim Wakefield",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tim%20Wakefield",
+      "pubdate": "Tue, 03 Oct 2023 03:00:00 +1300"
     },
     {
       "title": "Vote NZ",
@@ -42,6 +47,11 @@
       "pubdate": "Mon, 02 Oct 2023 07:00:00 +1300"
     },
     {
+      "title": "Voting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Voting",
+      "pubdate": "Mon, 02 Oct 2023 10:00:00 +1300"
+    },
+    {
       "title": "Ivan Cleary",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ivan%20Cleary",
       "pubdate": "Mon, 02 Oct 2023 00:00:00 +1300"
@@ -67,14 +77,19 @@
       "pubdate": "Mon, 02 Oct 2023 16:00:00 +1300"
     },
     {
-      "title": "Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inter%20Miami",
-      "pubdate": "Mon, 02 Oct 2023 01:00:00 +1300"
+      "title": "How to Vote",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#How%20to%20Vote",
+      "pubdate": "Mon, 02 Oct 2023 19:00:00 +1300"
     },
     {
       "title": "Christopher Luxon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christopher%20Luxon",
       "pubdate": "Mon, 02 Oct 2023 20:00:00 +1300"
+    },
+    {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inter%20Miami",
+      "pubdate": "Mon, 02 Oct 2023 01:00:00 +1300"
     },
     {
       "title": "New Caledonia",
@@ -85,21 +100,6 @@
       "title": "Bradley Lowery",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bradley%20Lowery",
       "pubdate": "Mon, 02 Oct 2023 22:00:00 +1300"
-    },
-    {
-      "title": "NRL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL",
-      "pubdate": "Sun, 01 Oct 2023 23:00:00 +1300"
-    },
-    {
-      "title": "Fiji vs Georgia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fiji%20vs%20Georgia",
-      "pubdate": "Sun, 01 Oct 2023 02:00:00 +1300"
-    },
-    {
-      "title": "Canelo vs Charlo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canelo%20vs%20Charlo",
-      "pubdate": "Sun, 01 Oct 2023 10:00:00 +1300"
     }
   ]
 }
