@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-10-2023 , 16:46:10",
+  "lastUpdate": "04-10-2023 , 16:56:24",
   "data": [
+    {
+      "title": "Luke Combs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Luke%20Combs",
+      "pubdate": "Wed, 04 Oct 2023 11:00:00 +0200"
+    },
     {
       "title": "Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20United",
@@ -17,24 +22,19 @@
       "pubdate": "Tue, 03 Oct 2023 11:00:00 +0200"
     },
     {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
+      "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
+    },
+    {
       "title": "SAS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SAS",
       "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-      "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-    },
-    {
       "title": "Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayern",
       "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
-    },
-    {
-      "title": "Kevin McCarthy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20McCarthy",
-      "pubdate": "Tue, 03 Oct 2023 00:00:00 +0200"
     },
     {
       "title": "Arsenal",
