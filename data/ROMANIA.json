@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 23:59:03",
+  "lastUpdate": "09-10-2023 , 01:18:20",
   "data": [
     {
       "title": "Barcelona",
@@ -42,8 +42,8 @@
       "pubdate": "Sun, 08 Oct 2023 17:00:00 +0300"
     },
     {
-      "title": "Granada-Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Granada-Barcelona",
+      "title": "Granada - Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Granada%20-%20Barcelona",
       "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
     },
     {
@@ -67,11 +67,6 @@
       "pubdate": "Sun, 08 Oct 2023 07:00:00 +0300"
     },
     {
-      "title": "News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#News",
-      "pubdate": "Sun, 08 Oct 2023 07:00:00 +0300"
-    },
-    {
       "title": "Alavés  - Real Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alav%C3%A9s%20%20-%20Real%20Betis",
       "pubdate": "Sun, 08 Oct 2023 21:00:00 +0300"
@@ -80,6 +75,11 @@
       "title": "Iron Dome",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iron%20Dome",
       "pubdate": "Sun, 08 Oct 2023 09:00:00 +0300"
+    },
+    {
+      "title": "Bruno Mars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bruno%20Mars",
+      "pubdate": "Sun, 08 Oct 2023 15:00:00 +0300"
     },
     {
       "title": "Fauda",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 08 Oct 2023 17:00:00 +0300"
     },
     {
-      "title": "Afganistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Afganistan",
-      "pubdate": "Sun, 08 Oct 2023 19:00:00 +0300"
-    },
-    {
       "title": "Lazio  Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lazio%20%20Atalanta",
       "pubdate": "Sun, 08 Oct 2023 20:00:00 +0300"
+    },
+    {
+      "title": "Iga Swiatek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iga%20Swiatek",
+      "pubdate": "Sun, 08 Oct 2023 19:00:00 +0300"
     }
   ]
 }
