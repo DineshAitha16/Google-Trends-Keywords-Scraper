@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-10-2023 , 01:17:59",
+  "lastUpdate": "10-10-2023 , 01:59:44",
   "data": [
     {
       "title": "PSG",
@@ -87,6 +87,11 @@
       "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
     },
     {
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
+      "pubdate": "Sun, 08 Oct 2023 00:00:00 +0300"
+    },
+    {
       "title": "Atletico Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
       "pubdate": "Sun, 08 Oct 2023 18:00:00 +0300"
@@ -95,11 +100,6 @@
       "title": "Israel war today",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Israel%20war%20today",
       "pubdate": "Sun, 08 Oct 2023 13:00:00 +0300"
-    },
-    {
-      "title": "Cagliari vs roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cagliari%20vs%20roma",
-      "pubdate": "Sun, 08 Oct 2023 08:00:00 +0300"
     }
   ]
 }
