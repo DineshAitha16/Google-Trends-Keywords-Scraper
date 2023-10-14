@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2023 , 23:58:29",
+  "lastUpdate": "14-10-2023 , 01:16:21",
   "data": [
     {
       "title": "Jon Hustad",
@@ -52,19 +52,24 @@
       "pubdate": "Fri, 13 Oct 2023 20:00:00 +0200"
     },
     {
-      "title": "Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina",
-      "pubdate": "Fri, 13 Oct 2023 13:00:00 +0200"
-    },
-    {
       "title": "Marius Borg Høiby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marius%20Borg%20H%C3%B8iby",
       "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
     },
     {
+      "title": "Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina",
+      "pubdate": "Fri, 13 Oct 2023 13:00:00 +0200"
+    },
+    {
       "title": "Hamas-Israel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hamas-Israel",
       "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Reuters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reuters",
+      "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
     },
     {
       "title": "Jakob Ingebrigtsen",
@@ -74,12 +79,12 @@
     {
       "title": "Nusa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nusa",
-      "pubdate": "Thu, 12 Oct 2023 19:00:00 +0200"
+      "pubdate": "Thu, 12 Oct 2023 23:00:00 +0200"
     },
     {
-      "title": "Sørloth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#S%C3%B8rloth",
-      "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
+      "title": "Mads Gilbert",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mads%20Gilbert",
+      "pubdate": "Thu, 12 Oct 2023 18:00:00 +0200"
     },
     {
       "title": "Logan Paul vs Dillon Danis",
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 12 Oct 2023 23:00:00 +0200"
     },
     {
-      "title": "Sander Berge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Berge",
+      "title": "Sørloth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#S%C3%B8rloth",
       "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
     },
     {
-      "title": "Kesha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kesha",
-      "pubdate": "Thu, 12 Oct 2023 14:00:00 +0200"
-    },
-    {
-      "title": "Lillian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillian",
-      "pubdate": "Thu, 12 Oct 2023 11:00:00 +0200"
+      "title": "Sander Berge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Berge",
+      "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
     }
   ]
 }

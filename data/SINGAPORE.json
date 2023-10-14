@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "13-10-2023 , 23:58:31",
+  "lastUpdate": "14-10-2023 , 01:16:22",
   "data": [
     {
       "title": "Portugal vs Slovakia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Portugal%20vs%20Slovakia",
-      "pubdate": "Sat, 14 Oct 2023 04:00:00 +0800"
-    },
-    {
-      "title": "Netherlands vs France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Netherlands%20vs%20France",
       "pubdate": "Sat, 14 Oct 2023 04:00:00 +0800"
     },
     {
@@ -47,14 +42,14 @@
       "pubdate": "Fri, 13 Oct 2023 09:00:00 +0800"
     },
     {
-      "title": "White phosphorus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#White%20phosphorus",
-      "pubdate": "Fri, 13 Oct 2023 19:00:00 +0800"
-    },
-    {
       "title": "NZ vs BAN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NZ%20vs%20BAN",
       "pubdate": "Fri, 13 Oct 2023 20:00:00 +0800"
+    },
+    {
+      "title": "White phosphorus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#White%20phosphorus",
+      "pubdate": "Fri, 13 Oct 2023 19:00:00 +0800"
     },
     {
       "title": "Sam Bankman-Fried Caroline Ellison",
@@ -100,6 +95,11 @@
       "title": "Scoot bomb threat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Scoot%20bomb%20threat",
       "pubdate": "Thu, 12 Oct 2023 21:00:00 +0800"
+    },
+    {
+      "title": "Bernie Ecclestone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bernie%20Ecclestone",
+      "pubdate": "Thu, 12 Oct 2023 20:00:00 +0800"
     }
   ]
 }
