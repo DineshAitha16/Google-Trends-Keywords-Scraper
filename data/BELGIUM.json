@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "14-10-2023 , 01:16:12",
+  "lastUpdate": "14-10-2023 , 01:56:55",
   "data": [
     {
       "title": "Maudie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maudie",
+      "pubdate": "Sat, 14 Oct 2023 00:00:00 +0200"
+    },
+    {
+      "title": "Aznavour",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aznavour",
       "pubdate": "Sat, 14 Oct 2023 00:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Vrijdag de 13e",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vrijdag%20de%2013e",
       "pubdate": "Fri, 13 Oct 2023 09:00:00 +0200"
-    },
-    {
-      "title": "Penurie de diesel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Penurie%20de%20diesel",
-      "pubdate": "Fri, 13 Oct 2023 13:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2023 , 01:16:15",
+  "lastUpdate": "14-10-2023 , 01:56:58",
   "data": [
     {
       "title": "Ute Lemper",
@@ -10,11 +10,6 @@
       "title": "El Niño Winter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ni%C3%B1o%20Winter",
       "pubdate": "Fri, 13 Oct 2023 07:00:00 +0200"
-    },
-    {
-      "title": "Ronaldo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ronaldo",
-      "pubdate": "Fri, 13 Oct 2023 20:00:00 +0200"
     },
     {
       "title": "Türkei",
@@ -30,6 +25,11 @@
       "title": "Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal",
       "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
+    },
+    {
+      "title": "Cristiano Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cristiano%20Ronaldo",
+      "pubdate": "Fri, 13 Oct 2023 20:00:00 +0200"
     },
     {
       "title": "Bernie Sanders",
@@ -52,19 +52,24 @@
       "pubdate": "Fri, 13 Oct 2023 19:00:00 +0200"
     },
     {
+      "title": "Rot-Weiss Essen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rot-Weiss%20Essen",
+      "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
+    },
+    {
       "title": "Chemie Leipzig",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chemie%20Leipzig",
       "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
     },
     {
+      "title": "Lords of the Fallen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lords%20of%20the%20Fallen",
+      "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
+    },
+    {
       "title": "Der Untergang des Hauses Usher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Der%20Untergang%20des%20Hauses%20Usher",
       "pubdate": "Thu, 12 Oct 2023 17:00:00 +0200"
-    },
-    {
-      "title": "Ecclestone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ecclestone",
-      "pubdate": "Thu, 12 Oct 2023 19:00:00 +0200"
     },
     {
       "title": "Birkenstock",
@@ -95,11 +100,6 @@
       "title": "Hessen-Wahl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hessen-Wahl",
       "pubdate": "Sun, 08 Oct 2023 03:00:00 +0200"
-    },
-    {
-      "title": "BVB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-      "pubdate": "Sun, 08 Oct 2023 01:00:00 +0200"
     }
   ]
 }

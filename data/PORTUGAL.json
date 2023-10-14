@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "14-10-2023 , 01:16:21",
+  "lastUpdate": "14-10-2023 , 01:57:04",
   "data": [
     {
       "title": "Hezbollah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hezbollah",
+      "pubdate": "Sat, 14 Oct 2023 01:00:00 +0100"
+    },
+    {
+      "title": "Coreia do Norte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coreia%20do%20Norte",
       "pubdate": "Sat, 14 Oct 2023 01:00:00 +0100"
     },
     {
@@ -12,8 +17,8 @@
       "pubdate": "Sat, 14 Oct 2023 00:00:00 +0100"
     },
     {
-      "title": "Coreia do Norte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coreia%20do%20Norte",
+      "title": "Louise gluck",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Louise%20gluck",
       "pubdate": "Sat, 14 Oct 2023 01:00:00 +0100"
     },
     {
@@ -22,14 +27,14 @@
       "pubdate": "Sat, 14 Oct 2023 01:00:00 +0100"
     },
     {
-      "title": "Louise gluck",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Louise%20gluck",
-      "pubdate": "Sat, 14 Oct 2023 01:00:00 +0100"
-    },
-    {
       "title": "Brasil  Venezuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasil%20%20Venezuela",
       "pubdate": "Fri, 13 Oct 2023 01:00:00 +0100"
+    },
+    {
+      "title": "Karol Eller",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Karol%20Eller",
+      "pubdate": "Fri, 13 Oct 2023 07:00:00 +0100"
     },
     {
       "title": "MotoGP",
@@ -40,11 +45,6 @@
       "title": "RTP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
       "pubdate": "Fri, 13 Oct 2023 20:00:00 +0100"
-    },
-    {
-      "title": "EURO 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#EURO%202024",
-      "pubdate": "Fri, 13 Oct 2023 13:00:00 +0100"
     },
     {
       "title": "Montalegre",
@@ -67,19 +67,24 @@
       "pubdate": "Fri, 13 Oct 2023 21:00:00 +0100"
     },
     {
-      "title": "Holanda  França",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Holanda%20%20Fran%C3%A7a",
-      "pubdate": "Fri, 13 Oct 2023 20:00:00 +0100"
-    },
-    {
       "title": "Numeros euromilhoes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Numeros%20euromilhoes",
       "pubdate": "Fri, 13 Oct 2023 22:00:00 +0100"
     },
     {
+      "title": "Holanda  França",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Holanda%20%20Fran%C3%A7a",
+      "pubdate": "Fri, 13 Oct 2023 20:00:00 +0100"
+    },
+    {
       "title": "Bruce Willis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bruce%20Willis",
       "pubdate": "Fri, 13 Oct 2023 13:00:00 +0100"
+    },
+    {
+      "title": "Eclipse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eclipse",
+      "pubdate": "Fri, 13 Oct 2023 15:00:00 +0100"
     },
     {
       "title": "Portugal Sub-21  Bielorrússia Sub-21",
@@ -95,11 +100,6 @@
       "title": "Farofa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Farofa",
       "pubdate": "Fri, 13 Oct 2023 23:00:00 +0100"
-    },
-    {
-      "title": "Queimas e queimadas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Queimas%20e%20queimadas",
-      "pubdate": "Fri, 13 Oct 2023 08:00:00 +0100"
     }
   ]
 }

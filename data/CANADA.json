@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2023 , 01:16:12",
+  "lastUpdate": "14-10-2023 , 01:56:56",
   "data": [
     {
       "title": "Hubert Reeves",
@@ -22,6 +22,11 @@
       "pubdate": "Fri, 13 Oct 2023 10:00:00 -0400"
     },
     {
+      "title": "Netherlands vs France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Netherlands%20vs%20France",
+      "pubdate": "Fri, 13 Oct 2023 16:00:00 -0400"
+    },
+    {
       "title": "White phosphorus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#White%20phosphorus",
       "pubdate": "Fri, 13 Oct 2023 00:00:00 -0400"
@@ -37,24 +42,19 @@
       "pubdate": "Fri, 13 Oct 2023 16:00:00 -0400"
     },
     {
+      "title": "Goosebumps (2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Goosebumps%20(2023",
+      "pubdate": "Fri, 13 Oct 2023 18:00:00 -0400"
+    },
+    {
       "title": "Toronto news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20news",
       "pubdate": "Fri, 13 Oct 2023 11:00:00 -0400"
     },
     {
-      "title": "Netherlands vs France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Netherlands%20vs%20France",
-      "pubdate": "Fri, 13 Oct 2023 16:00:00 -0400"
-    },
-    {
       "title": "Port Dover",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Port%20Dover",
       "pubdate": "Fri, 13 Oct 2023 14:00:00 -0400"
-    },
-    {
-      "title": "Goosebumps 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Goosebumps%202023",
-      "pubdate": "Fri, 13 Oct 2023 18:00:00 -0400"
     },
     {
       "title": "The Burial",
@@ -67,14 +67,14 @@
       "pubdate": "Fri, 13 Oct 2023 01:00:00 -0400"
     },
     {
-      "title": "Tyler Childers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyler%20Childers",
-      "pubdate": "Fri, 13 Oct 2023 16:00:00 -0400"
-    },
-    {
       "title": "Troye Sivan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Troye%20Sivan",
       "pubdate": "Fri, 13 Oct 2023 15:00:00 -0400"
+    },
+    {
+      "title": "Tyler Childers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyler%20Childers",
+      "pubdate": "Fri, 13 Oct 2023 16:00:00 -0400"
     },
     {
       "title": "Syria",
@@ -82,9 +82,9 @@
       "pubdate": "Fri, 13 Oct 2023 05:00:00 -0400"
     },
     {
-      "title": "Jerry Jeudy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jerry%20Jeudy",
-      "pubdate": "Fri, 13 Oct 2023 00:00:00 -0400"
+      "title": "York University",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#York%20University",
+      "pubdate": "Fri, 13 Oct 2023 21:00:00 -0400"
     },
     {
       "title": "Dillon Danis vs Logan Paul",
@@ -92,14 +92,14 @@
       "pubdate": "Fri, 13 Oct 2023 10:00:00 -0400"
     },
     {
+      "title": "Jerry Jeudy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jerry%20Jeudy",
+      "pubdate": "Fri, 13 Oct 2023 00:00:00 -0400"
+    },
+    {
       "title": "Devon Toews",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Devon%20Toews",
       "pubdate": "Fri, 13 Oct 2023 16:00:00 -0400"
-    },
-    {
-      "title": "Bad Bunny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bad%20Bunny",
-      "pubdate": "Fri, 13 Oct 2023 12:00:00 -0400"
     }
   ]
 }
