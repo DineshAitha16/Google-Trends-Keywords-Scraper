@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-10-2023 , 07:48:28",
+  "lastUpdate": "15-10-2023 , 07:58:37",
   "data": [
     {
       "title": "Logan Paul",
@@ -27,6 +27,11 @@
       "pubdate": "Sat, 14 Oct 2023 13:00:00 +0200"
     },
     {
+      "title": "Jakub Prachař",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Pracha%C5%99",
+      "pubdate": "Sat, 14 Oct 2023 22:00:00 +0200"
+    },
+    {
       "title": "Richard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard",
       "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
@@ -47,19 +52,9 @@
       "pubdate": "Sat, 14 Oct 2023 15:00:00 +0200"
     },
     {
-      "title": "Lucie Bílá",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20B%C3%ADl%C3%A1",
-      "pubdate": "Sat, 14 Oct 2023 12:00:00 +0200"
-    },
-    {
       "title": "Angelina Jolie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Angelina%20Jolie",
       "pubdate": "Sat, 14 Oct 2023 07:00:00 +0200"
-    },
-    {
-      "title": "Ct 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ct%201",
-      "pubdate": "Sat, 14 Oct 2023 21:00:00 +0200"
     },
     {
       "title": "Ukrajina – Severní Makedonie",
@@ -100,6 +95,11 @@
       "title": "Pátek třináctého",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C3%A1tek%20t%C5%99in%C3%A1ct%C3%A9ho",
       "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Roger Waters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Roger%20Waters",
+      "pubdate": "Fri, 13 Oct 2023 00:00:00 +0200"
     }
   ]
 }
