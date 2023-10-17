@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 23:59:44",
+  "lastUpdate": "17-10-2023 , 01:19:32",
   "data": [
     {
       "title": "Zeedz",
@@ -37,9 +37,14 @@
       "pubdate": "Mon, 16 Oct 2023 09:00:00 +0200"
     },
     {
-      "title": "Rammstein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein",
-      "pubdate": "Mon, 16 Oct 2023 17:00:00 +0200"
+      "title": "Alvaro Prieto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alvaro%20Prieto",
+      "pubdate": "Mon, 16 Oct 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Axalp Fliegerschiessen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Axalp%20Fliegerschiessen",
+      "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
     },
     {
       "title": "Ecuador",
@@ -57,11 +62,6 @@
       "pubdate": "Mon, 16 Oct 2023 15:00:00 +0200"
     },
     {
-      "title": "Prince Christian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prince%20Christian",
-      "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
-    },
-    {
       "title": "Walt Disney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Walt%20Disney",
       "pubdate": "Mon, 16 Oct 2023 20:00:00 +0200"
@@ -72,14 +72,14 @@
       "pubdate": "Mon, 16 Oct 2023 00:00:00 +0200"
     },
     {
+      "title": "Rammstein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein",
+      "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
+    },
+    {
       "title": "Endometriose was ist das",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Endometriose%20was%20ist%20das",
       "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
-    },
-    {
-      "title": "Axalp fliegerschiessen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Axalp%20fliegerschiessen",
-      "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
     },
     {
       "title": "Nina Kunzendorf",
@@ -87,14 +87,14 @@
       "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
     },
     {
-      "title": "Carouge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carouge",
-      "pubdate": "Mon, 16 Oct 2023 16:00:00 +0200"
-    },
-    {
       "title": "Sherika De Armas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sherika%20De%20Armas",
       "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Carouge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carouge",
+      "pubdate": "Mon, 16 Oct 2023 16:00:00 +0200"
     },
     {
       "title": "Flag Football",

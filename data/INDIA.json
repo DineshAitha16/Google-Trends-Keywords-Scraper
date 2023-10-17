@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 23:59:39",
+  "lastUpdate": "17-10-2023 , 01:19:26",
   "data": [
     {
       "title": "Belgium vs Sweden",
@@ -17,8 +17,8 @@
       "pubdate": "Mon, 16 Oct 2023 14:30:00 +0530"
     },
     {
-      "title": "HDFC Bank Results",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HDFC%20Bank%20Results",
+      "title": "HDFC Bank results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HDFC%20Bank%20results",
       "pubdate": "Mon, 16 Oct 2023 09:30:00 +0530"
     },
     {
@@ -27,14 +27,14 @@
       "pubdate": "Mon, 16 Oct 2023 16:30:00 +0530"
     },
     {
-      "title": "World Food Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#World%20Food%20Day",
-      "pubdate": "Mon, 16 Oct 2023 09:30:00 +0530"
-    },
-    {
       "title": "Canada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Canada",
       "pubdate": "Mon, 16 Oct 2023 04:30:00 +0530"
+    },
+    {
+      "title": "World Food Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#World%20Food%20Day",
+      "pubdate": "Mon, 16 Oct 2023 09:30:00 +0530"
     },
     {
       "title": "Navratri day 2",
@@ -82,11 +82,6 @@
       "pubdate": "Mon, 16 Oct 2023 17:30:00 +0530"
     },
     {
-      "title": "Darshan Hiranandani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Darshan%20Hiranandani",
-      "pubdate": "Mon, 16 Oct 2023 17:30:00 +0530"
-    },
-    {
       "title": "Navratri second day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Navratri%20second%20day",
       "pubdate": "Mon, 16 Oct 2023 10:30:00 +0530"
@@ -100,6 +95,11 @@
       "title": "Big Boss 17",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Big%20Boss%2017",
       "pubdate": "Mon, 16 Oct 2023 17:30:00 +0530"
+    },
+    {
+      "title": "Sri Lanka vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sri%20Lanka%20vs%20Australia",
+      "pubdate": "Sun, 15 Oct 2023 09:30:00 +0530"
     }
   ]
 }
