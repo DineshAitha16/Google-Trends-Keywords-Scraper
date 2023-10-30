@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 23:58:08",
+  "lastUpdate": "30-10-2023 , 01:17:48",
   "data": [
     {
       "title": "Colon",
@@ -7,24 +7,14 @@
       "pubdate": "Sun, 29 Oct 2023 14:00:00 -0300"
     },
     {
-      "title": "Liga Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
-      "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
-    },
-    {
       "title": "Rosario Central",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario%20Central",
       "pubdate": "Sun, 29 Oct 2023 09:00:00 -0300"
     },
     {
-      "title": "Luis diaz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luis%20diaz",
+      "title": "Luis Diaz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luis%20Diaz",
       "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
-    },
-    {
-      "title": "Primera División",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
-      "pubdate": "Sun, 29 Oct 2023 00:00:00 -0300"
     },
     {
       "title": "Inter",
@@ -32,24 +22,19 @@
       "pubdate": "Sun, 29 Oct 2023 14:00:00 -0300"
     },
     {
+      "title": "Primera División",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
+      "pubdate": "Sun, 29 Oct 2023 00:00:00 -0300"
+    },
+    {
+      "title": "San martin de San Juan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20martin%20de%20San%20Juan",
+      "pubdate": "Sun, 29 Oct 2023 13:00:00 -0300"
+    },
+    {
       "title": "Stade Brestois  PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Stade%20Brestois%20%20PSG",
       "pubdate": "Sun, 29 Oct 2023 10:00:00 -0300"
-    },
-    {
-      "title": "Futbol argentino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
-      "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
-    },
-    {
-      "title": "Deportivo Maipú  San Martín",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Maip%C3%BA%20%20San%20Mart%C3%ADn",
-      "pubdate": "Sun, 29 Oct 2023 17:00:00 -0300"
-    },
-    {
-      "title": "L-Gante",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#L-Gante",
-      "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
     },
     {
       "title": "Liverpool  Nottingham Forest",
@@ -57,9 +42,39 @@
       "pubdate": "Sun, 29 Oct 2023 11:00:00 -0300"
     },
     {
-      "title": "Liverpool vs Nottingham Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool%20vs%20Nottingham%20Forest",
-      "pubdate": "Sun, 29 Oct 2023 14:00:00 -0300"
+      "title": "Futbol argentino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
+      "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
+    },
+    {
+      "title": "Atlético Madrid  Alavés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20%20Alav%C3%A9s",
+      "pubdate": "Sun, 29 Oct 2023 18:00:00 -0300"
+    },
+    {
+      "title": "L-Gante",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#L-Gante",
+      "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
+    },
+    {
+      "title": "Juventud Antoniana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventud%20Antoniana",
+      "pubdate": "Sun, 29 Oct 2023 17:00:00 -0300"
+    },
+    {
+      "title": "Olimpia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
+      "pubdate": "Sun, 29 Oct 2023 19:00:00 -0300"
+    },
+    {
+      "title": "Turismo Carretera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Turismo%20Carretera",
+      "pubdate": "Sun, 29 Oct 2023 10:00:00 -0300"
+    },
+    {
+      "title": "F1 mexico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#F1%20mexico",
+      "pubdate": "Sun, 29 Oct 2023 00:00:00 -0300"
     },
     {
       "title": "Zonda en Mendoza",
@@ -72,9 +87,9 @@
       "pubdate": "Sun, 29 Oct 2023 00:00:00 -0300"
     },
     {
-      "title": "Atlético Madrid  Alavés",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20%20Alav%C3%A9s",
-      "pubdate": "Sun, 29 Oct 2023 18:00:00 -0300"
+      "title": "Huracan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Huracan",
+      "pubdate": "Sun, 29 Oct 2023 21:00:00 -0300"
     },
     {
       "title": "Napoli  Milan",
@@ -82,23 +97,8 @@
       "pubdate": "Sun, 29 Oct 2023 17:00:00 -0300"
     },
     {
-      "title": "Brighton  Fulham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brighton%20%20Fulham",
-      "pubdate": "Sun, 29 Oct 2023 12:00:00 -0300"
-    },
-    {
-      "title": "Juventud Antoniana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventud%20Antoniana",
-      "pubdate": "Sun, 29 Oct 2023 17:00:00 -0300"
-    },
-    {
-      "title": "Turismo Carretera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Turismo%20Carretera",
-      "pubdate": "Sun, 29 Oct 2023 10:00:00 -0300"
-    },
-    {
-      "title": "Primera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera",
+      "title": "Torneo Argentino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Torneo%20Argentino",
       "pubdate": "Sun, 29 Oct 2023 01:00:00 -0300"
     }
   ]

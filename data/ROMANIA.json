@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 23:58:18",
+  "lastUpdate": "30-10-2023 , 01:17:55",
   "data": [
     {
       "title": "Haddad Maia",
@@ -12,6 +12,11 @@
       "pubdate": "Sun, 29 Oct 2023 03:00:00 +0200"
     },
     {
+      "title": "Friends",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Friends",
+      "pubdate": "Sun, 29 Oct 2023 06:00:00 +0200"
+    },
+    {
       "title": "Rapid Bucureşti  Universitatea Craiova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20Bucure%C5%9Fti%20%20Universitatea%20Craiova",
       "pubdate": "Sun, 29 Oct 2023 15:00:00 +0200"
@@ -22,9 +27,9 @@
       "pubdate": "Sun, 29 Oct 2023 17:00:00 +0200"
     },
     {
-      "title": "Matt LeBlanc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Matt%20LeBlanc",
-      "pubdate": "Sun, 29 Oct 2023 09:00:00 +0200"
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
+      "pubdate": "Sun, 29 Oct 2023 15:00:00 +0200"
     },
     {
       "title": "PSG",
@@ -32,8 +37,8 @@
       "pubdate": "Sun, 29 Oct 2023 14:00:00 +0200"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
+      "title": "Napoli  Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli%20%20Milan",
       "pubdate": "Sun, 29 Oct 2023 19:00:00 +0200"
     },
     {
@@ -45,16 +50,6 @@
       "title": "UTA Arad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
       "pubdate": "Sun, 29 Oct 2023 16:00:00 +0200"
-    },
-    {
-      "title": "Luis Diaz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luis%20Diaz",
-      "pubdate": "Sun, 29 Oct 2023 15:00:00 +0200"
-    },
-    {
-      "title": "Napoli  Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli%20%20Milan",
-      "pubdate": "Sun, 29 Oct 2023 22:00:00 +0200"
     },
     {
       "title": "Atlético Madrid  alavés",
@@ -75,6 +70,11 @@
       "title": "Ora",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ora",
       "pubdate": "Sun, 29 Oct 2023 03:00:00 +0200"
+    },
+    {
+      "title": "Formula 1 Mexic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201%20Mexic",
+      "pubdate": "Sun, 29 Oct 2023 14:00:00 +0200"
     },
     {
       "title": "Rita Ora",
