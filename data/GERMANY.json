@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "01-11-2023 , 23:56:43",
+  "lastUpdate": "02-11-2023 , 01:08:09",
   "data": [
+    {
+      "title": "Eintracht Frankfurt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+      "pubdate": "Wed, 01 Nov 2023 18:00:00 +0100"
+    },
     {
       "title": "Allerheiligen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Allerheiligen",
       "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
-    },
-    {
-      "title": "Holstein gegen 1. FC Magdeburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20gegen%201.%20FC%20Magdeburg",
-      "pubdate": "Wed, 01 Nov 2023 16:00:00 +0100"
-    },
-    {
-      "title": "Viktoria Köln gegen Eintracht Frankfurt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Viktoria%20K%C3%B6ln%20gegen%20Eintracht%20Frankfurt",
-      "pubdate": "Wed, 01 Nov 2023 18:00:00 +0100"
     },
     {
       "title": "Hertha BSC",
@@ -22,8 +17,8 @@
       "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
     },
     {
-      "title": "Zauberpeter Peter Kersten",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zauberpeter%20Peter%20Kersten",
+      "title": "Holstein gegen 1. FC Magdeburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20gegen%201.%20FC%20Magdeburg",
       "pubdate": "Wed, 01 Nov 2023 16:00:00 +0100"
     },
     {
@@ -37,14 +32,19 @@
       "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
     },
     {
-      "title": "Katja Riemann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katja%20Riemann",
-      "pubdate": "Wed, 01 Nov 2023 09:00:00 +0100"
+      "title": "Hansa Rostock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansa%20Rostock",
+      "pubdate": "Wed, 01 Nov 2023 22:00:00 +0100"
     },
     {
-      "title": "El Ghazi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ghazi",
-      "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+      "title": "Peter Kersten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Kersten",
+      "pubdate": "Wed, 01 Nov 2023 16:00:00 +0100"
+    },
+    {
+      "title": "Afghanen verlassen Pakistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Afghanen%20verlassen%20Pakistan",
+      "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
     },
     {
       "title": "Leverkusen",
@@ -57,14 +57,19 @@
       "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
     },
     {
-      "title": "Afghanen verlassen Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Afghanen%20verlassen%20Pakistan",
-      "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+      "title": "Urs Fischer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Urs%20Fischer",
+      "pubdate": "Wed, 01 Nov 2023 05:00:00 +0100"
+    },
+    {
+      "title": "No nut November",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#No%20nut%20November",
+      "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
     },
     {
       "title": "DFB-Pokal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-      "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+      "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
     },
     {
       "title": "Elmar Wepper",
@@ -90,11 +95,6 @@
       "title": "HSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
       "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
-    },
-    {
-      "title": "VfB Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-      "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
     },
     {
       "title": "Hamburg Halloween-Krawalle",

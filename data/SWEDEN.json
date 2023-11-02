@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-11-2023 , 23:56:50",
+  "lastUpdate": "02-11-2023 , 01:08:15",
   "data": [
+    {
+      "title": "Birria tacos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Birria%20tacos",
+      "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
+    },
     {
       "title": "Hövding 3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%B6vding%203",
@@ -20,6 +25,11 @@
       "title": "Scottish fold",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Scottish%20fold",
       "pubdate": "Wed, 01 Nov 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Lasse Stefanz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lasse%20Stefanz",
+      "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
     },
     {
       "title": "Tyler Christopher",
@@ -87,19 +97,9 @@
       "pubdate": "Tue, 31 Oct 2023 17:00:00 +0100"
     },
     {
-      "title": "Alba August",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alba%20August",
-      "pubdate": "Tue, 31 Oct 2023 09:00:00 +0100"
-    },
-    {
       "title": "IT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IT",
       "pubdate": "Tue, 31 Oct 2023 18:00:00 +0100"
-    },
-    {
-      "title": "Jonas Gardell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20Gardell",
-      "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
     }
   ]
 }

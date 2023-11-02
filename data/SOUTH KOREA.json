@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "01-11-2023 , 23:56:50",
+  "lastUpdate": "02-11-2023 , 01:08:15",
   "data": [
+    {
+      "title": "뮌헨",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AE%8C%ED%97%A8",
+      "pubdate": "Thu, 02 Nov 2023 09:00:00 +0900"
+    },
     {
       "title": "이다인",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EB%8B%A4%EC%9D%B8",
       "pubdate": "Thu, 02 Nov 2023 02:00:00 +0900"
     },
     {
+      "title": "천공",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%9C%EA%B3%B5",
+      "pubdate": "Thu, 02 Nov 2023 08:00:00 +0900"
+    },
+    {
       "title": "김태민",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%83%9C%EB%AF%BC",
       "pubdate": "Wed, 01 Nov 2023 02:00:00 +0900"
-    },
-    {
-      "title": "방시혁",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%A9%EC%8B%9C%ED%98%81",
-      "pubdate": "Wed, 01 Nov 2023 22:00:00 +0900"
     },
     {
       "title": "FOMC",
@@ -62,19 +67,9 @@
       "pubdate": "Tue, 31 Oct 2023 05:00:00 +0900"
     },
     {
-      "title": "김용민",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%9A%A9%EB%AF%BC",
-      "pubdate": "Tue, 31 Oct 2023 23:00:00 +0900"
-    },
-    {
       "title": "페디",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8E%98%EB%94%94",
       "pubdate": "Tue, 31 Oct 2023 04:00:00 +0900"
-    },
-    {
-      "title": "M3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#M3",
-      "pubdate": "Tue, 31 Oct 2023 15:00:00 +0900"
     },
     {
       "title": "오유진",
@@ -100,6 +95,11 @@
       "title": "남현희 전청조",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%A8%ED%98%84%ED%9D%AC%20%EC%A0%84%EC%B2%AD%EC%A1%B0",
       "pubdate": "Mon, 30 Oct 2023 15:00:00 +0900"
+    },
+    {
+      "title": "합참의장에 김명수",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%A9%EC%B0%B8%EC%9D%98%EC%9E%A5%EC%97%90%20%EA%B9%80%EB%AA%85%EC%88%98",
+      "pubdate": "Mon, 30 Oct 2023 00:00:00 +0900"
     }
   ]
 }
