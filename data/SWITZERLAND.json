@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-11-2023 , 23:56:00",
+  "lastUpdate": "03-11-2023 , 01:03:44",
   "data": [
+    {
+      "title": "Anja Leuenberger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anja%20Leuenberger",
+      "pubdate": "Fri, 03 Nov 2023 00:00:00 +0100"
+    },
     {
       "title": "Beatles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beatles",
@@ -10,11 +15,6 @@
       "title": "FC Basel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
       "pubdate": "Thu, 02 Nov 2023 13:00:00 +0100"
-    },
-    {
-      "title": "Sturmtief Ciaran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sturmtief%20Ciaran",
-      "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
     },
     {
       "title": "Ralf Schumacher",
@@ -27,19 +27,14 @@
       "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
     },
     {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20Munich",
-      "pubdate": "Thu, 02 Nov 2023 08:00:00 +0100"
-    },
-    {
       "title": "Jutta Müller",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jutta%20M%C3%BCller",
       "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
     },
     {
-      "title": "Yannick Rathgeb",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yannick%20Rathgeb",
-      "pubdate": "Thu, 02 Nov 2023 13:00:00 +0100"
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20Munich",
+      "pubdate": "Thu, 02 Nov 2023 08:00:00 +0100"
     },
     {
       "title": "Rene Benko",
@@ -72,14 +67,9 @@
       "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
     },
     {
-      "title": "GRIEKSPOOR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GRIEKSPOOR",
-      "pubdate": "Thu, 02 Nov 2023 23:00:00 +0100"
-    },
-    {
-      "title": "Fed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fed",
-      "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
+      "title": "Sylvie Bonvin-Sansonnens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sylvie%20Bonvin-Sansonnens",
+      "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
     },
     {
       "title": "Pakistan",
@@ -87,9 +77,9 @@
       "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
     },
     {
-      "title": "Sylvie Bonvin-Sansonnens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sylvie%20Bonvin-Sansonnens",
-      "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
+      "title": "Fed",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fed",
+      "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
     },
     {
       "title": "Copa del Rey",
@@ -100,6 +90,16 @@
       "title": "Medvedev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Medvedev",
       "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
+    },
+    {
+      "title": "Afghanistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Afghanistan",
+      "pubdate": "Thu, 02 Nov 2023 23:00:00 +0100"
+    },
+    {
+      "title": "DFB-Pokal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
+      "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
     }
   ]
 }

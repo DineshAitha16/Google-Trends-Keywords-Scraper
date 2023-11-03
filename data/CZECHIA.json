@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 23:55:53",
+  "lastUpdate": "03-11-2023 , 01:03:35",
   "data": [
     {
       "title": "Dominik Feri",
@@ -12,14 +12,19 @@
       "pubdate": "Thu, 02 Nov 2023 20:00:00 +0100"
     },
     {
-      "title": "Beatles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Beatles",
+      "title": "Now and Then Beatles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Now%20and%20Then%20Beatles",
       "pubdate": "Thu, 02 Nov 2023 20:00:00 +0100"
     },
     {
       "title": "Gal Gadot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gal%20Gadot",
       "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
+    },
+    {
+      "title": "Kabát",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kab%C3%A1t",
+      "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
     },
     {
       "title": "Ciaran",
@@ -95,11 +100,6 @@
       "title": "Rock for People",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rock%20for%20People",
       "pubdate": "Wed, 01 Nov 2023 12:00:00 +0100"
-    },
-    {
-      "title": "Milan Lasica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20Lasica",
-      "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
     }
   ]
 }
