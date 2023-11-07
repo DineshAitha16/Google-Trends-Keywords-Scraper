@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2023 , 23:57:11",
+  "lastUpdate": "07-11-2023 , 01:13:30",
   "data": [
     {
       "title": "Bruce Springsteen",
@@ -7,14 +7,14 @@
       "pubdate": "Mon, 06 Nov 2023 13:00:00 +0200"
     },
     {
-      "title": "Jay Weinberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jay%20Weinberg",
-      "pubdate": "Mon, 06 Nov 2023 00:00:00 +0200"
-    },
-    {
       "title": "Tottenham – Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Chelsea",
       "pubdate": "Mon, 06 Nov 2023 23:00:00 +0200"
+    },
+    {
+      "title": "Jay Weinberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jay%20Weinberg",
+      "pubdate": "Mon, 06 Nov 2023 00:00:00 +0200"
     },
     {
       "title": "Lee Harvey Oswald",
@@ -35,11 +35,6 @@
       "title": "Arnold Schwarzenegger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arnold%20Schwarzenegger",
       "pubdate": "Mon, 06 Nov 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Jimmy Page",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jimmy%20Page",
-      "pubdate": "Mon, 06 Nov 2023 16:00:00 +0200"
     },
     {
       "title": "Pop",
@@ -72,11 +67,6 @@
       "pubdate": "Sun, 05 Nov 2023 23:00:00 +0200"
     },
     {
-      "title": "RSV virus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RSV%20virus",
-      "pubdate": "Sun, 05 Nov 2023 21:00:00 +0200"
-    },
-    {
       "title": "India vs South Africa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#India%20vs%20South%20Africa",
       "pubdate": "Sun, 05 Nov 2023 12:00:00 +0200"
@@ -100,6 +90,16 @@
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
       "pubdate": "Sun, 05 Nov 2023 18:00:00 +0200"
+    },
+    {
+      "title": "RSV virus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RSV%20virus",
+      "pubdate": "Sun, 05 Nov 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Add",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Add",
+      "pubdate": "Sun, 05 Nov 2023 12:00:00 +0200"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "06-11-2023 , 23:57:16",
+  "lastUpdate": "07-11-2023 , 01:13:34",
   "data": [
     {
-      "title": "SSS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#SSS",
-      "pubdate": "Tue, 07 Nov 2023 00:00:00 +0800"
+      "title": "Conrado de Quiros",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Conrado%20de%20Quiros",
+      "pubdate": "Tue, 07 Nov 2023 04:00:00 +0800"
     },
     {
       "title": "CSC",
@@ -12,19 +12,14 @@
       "pubdate": "Tue, 07 Nov 2023 02:00:00 +0800"
     },
     {
-      "title": "Excessive heat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Excessive%20heat",
-      "pubdate": "Tue, 07 Nov 2023 00:00:00 +0800"
-    },
-    {
       "title": "Iga świątek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Iga%20%C5%9Bwi%C4%85tek",
       "pubdate": "Tue, 07 Nov 2023 00:00:00 +0800"
     },
     {
-      "title": "Nostradamus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nostradamus",
-      "pubdate": "Tue, 07 Nov 2023 01:00:00 +0800"
+      "title": "Excessive heat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Excessive%20heat",
+      "pubdate": "Tue, 07 Nov 2023 00:00:00 +0800"
     },
     {
       "title": "Communication",
@@ -32,14 +27,34 @@
       "pubdate": "Tue, 07 Nov 2023 01:00:00 +0800"
     },
     {
-      "title": "Citibank",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Citibank",
+      "title": "Nostradamus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nostradamus",
       "pubdate": "Tue, 07 Nov 2023 01:00:00 +0800"
+    },
+    {
+      "title": "Meet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Meet",
+      "pubdate": "Tue, 07 Nov 2023 07:00:00 +0800"
     },
     {
       "title": "Dropbox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dropbox",
       "pubdate": "Tue, 07 Nov 2023 05:00:00 +0800"
+    },
+    {
+      "title": "Demand",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Demand",
+      "pubdate": "Tue, 07 Nov 2023 07:00:00 +0800"
+    },
+    {
+      "title": "Citibank",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Citibank",
+      "pubdate": "Tue, 07 Nov 2023 01:00:00 +0800"
+    },
+    {
+      "title": "Check",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Check",
+      "pubdate": "Tue, 07 Nov 2023 07:00:00 +0800"
     },
     {
       "title": "Cavaliers vs Warriors",
@@ -82,24 +97,9 @@
       "pubdate": "Mon, 06 Nov 2023 15:00:00 +0800"
     },
     {
-      "title": "Microsoft 365",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Microsoft%20365",
-      "pubdate": "Mon, 06 Nov 2023 15:00:00 +0800"
-    },
-    {
       "title": "Earthquake",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake",
       "pubdate": "Mon, 06 Nov 2023 11:00:00 +0800"
-    },
-    {
-      "title": "Collapsed lung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Collapsed%20lung",
-      "pubdate": "Mon, 06 Nov 2023 10:00:00 +0800"
-    },
-    {
-      "title": "DST",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#DST",
-      "pubdate": "Mon, 06 Nov 2023 05:00:00 +0800"
     }
   ]
 }

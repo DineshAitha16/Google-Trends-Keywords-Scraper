@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2023 , 23:57:15",
+  "lastUpdate": "07-11-2023 , 01:13:33",
   "data": [
     {
       "title": "Chelsea FC",
@@ -27,6 +27,16 @@
       "pubdate": "Mon, 06 Nov 2023 09:00:00 +0300"
     },
     {
+      "title": "Spurs vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Spurs%20vs%20Chelsea",
+      "pubdate": "Mon, 06 Nov 2023 23:00:00 +0300"
+    },
+    {
+      "title": "Getafe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Getafe",
+      "pubdate": "Mon, 06 Nov 2023 17:00:00 +0300"
+    },
+    {
       "title": "Sri Lanka vs Bangladesh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sri%20Lanka%20vs%20Bangladesh",
       "pubdate": "Mon, 06 Nov 2023 14:00:00 +0300"
@@ -42,14 +52,9 @@
       "pubdate": "Mon, 06 Nov 2023 19:00:00 +0300"
     },
     {
-      "title": "St Mirren vs Hibernian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#St%20Mirren%20vs%20Hibernian",
-      "pubdate": "Mon, 06 Nov 2023 13:00:00 +0300"
-    },
-    {
-      "title": "Mumbai City vs al-hilal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mumbai%20City%20vs%20al-hilal",
-      "pubdate": "Mon, 06 Nov 2023 19:00:00 +0300"
+      "title": "PSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSC",
+      "pubdate": "Mon, 06 Nov 2023 14:00:00 +0300"
     },
     {
       "title": "Cavaliers vs Warriors",
@@ -69,11 +74,6 @@
     {
       "title": "Diwali",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Diwali",
-      "pubdate": "Mon, 06 Nov 2023 22:00:00 +0300"
-    },
-    {
-      "title": "Dnipro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dnipro",
       "pubdate": "Mon, 06 Nov 2023 22:00:00 +0300"
     },
     {
