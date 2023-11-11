@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "10-11-2023 , 23:56:22",
+  "lastUpdate": "11-11-2023 , 02:09:25",
   "data": [
+    {
+      "title": "Mönchengladbach gegen Wolfsburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%B6nchengladbach%20gegen%20Wolfsburg",
+      "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
+    },
     {
       "title": "Schalke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
       "pubdate": "Fri, 10 Nov 2023 19:00:00 +0100"
-    },
-    {
-      "title": "Tuvalu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuvalu",
-      "pubdate": "Fri, 10 Nov 2023 09:00:00 +0100"
     },
     {
       "title": "St. Pauli",
@@ -17,9 +17,9 @@
       "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
     },
     {
-      "title": "Borussia Mönchengladbach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20M%C3%B6nchengladbach",
-      "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
+      "title": "Tuvalu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuvalu",
+      "pubdate": "Fri, 10 Nov 2023 09:00:00 +0100"
     },
     {
       "title": "Chimären Affen",
@@ -37,29 +37,24 @@
       "pubdate": "Fri, 10 Nov 2023 14:00:00 +0100"
     },
     {
-      "title": "Marvin Ducksch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marvin%20Ducksch",
+      "title": "Schalke 04",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%2004",
+      "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
+    },
+    {
+      "title": "Ducksch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ducksch",
       "pubdate": "Fri, 10 Nov 2023 14:00:00 +0100"
-    },
-    {
-      "title": "Plug Power",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Plug%20Power",
-      "pubdate": "Fri, 10 Nov 2023 09:00:00 +0100"
-    },
-    {
-      "title": "Steam Deck OLED",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steam%20Deck%20OLED",
-      "pubdate": "Fri, 10 Nov 2023 00:00:00 +0100"
-    },
-    {
-      "title": "Martinstag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martinstag",
-      "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
     },
     {
       "title": "Offenburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Offenburg",
       "pubdate": "Thu, 09 Nov 2023 14:00:00 +0100"
+    },
+    {
+      "title": "Eintracht Frankfurt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+      "pubdate": "Thu, 09 Nov 2023 23:00:00 +0100"
     },
     {
       "title": "Europa Conference League",
@@ -99,6 +94,11 @@
     {
       "title": "Conference League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conference%20League",
+      "pubdate": "Tue, 07 Nov 2023 23:00:00 +0100"
+    },
+    {
+      "title": "Reichspogromnacht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reichspogromnacht",
       "pubdate": "Tue, 07 Nov 2023 23:00:00 +0100"
     }
   ]

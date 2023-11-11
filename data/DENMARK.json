@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "10-11-2023 , 23:56:21",
+  "lastUpdate": "11-11-2023 , 02:09:24",
   "data": [
+    {
+      "title": "Prime Video",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prime%20Video",
+      "pubdate": "Sat, 11 Nov 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Driven",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Driven",
+      "pubdate": "Sat, 11 Nov 2023 00:00:00 +0100"
+    },
+    {
+      "title": "In time",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#In%20time",
+      "pubdate": "Sat, 11 Nov 2023 01:00:00 +0100"
+    },
     {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
@@ -67,6 +82,11 @@
       "pubdate": "Fri, 10 Nov 2023 11:00:00 +0100"
     },
     {
+      "title": "UFC 295",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC%20295",
+      "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
+    },
+    {
       "title": "Toulouse  Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Toulouse%20%20Liverpool",
       "pubdate": "Thu, 09 Nov 2023 19:00:00 +0100"
@@ -80,26 +100,6 @@
       "title": "Omegle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Omegle",
       "pubdate": "Thu, 09 Nov 2023 10:00:00 +0100"
-    },
-    {
-      "title": "The sun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20sun",
-      "pubdate": "Thu, 09 Nov 2023 00:00:00 +0100"
-    },
-    {
-      "title": "Eli Lilly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eli%20Lilly",
-      "pubdate": "Thu, 09 Nov 2023 10:00:00 +0100"
-    },
-    {
-      "title": "Spartak Trnava",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spartak%20Trnava",
-      "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
-    },
-    {
-      "title": "The Marvels",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Marvels",
-      "pubdate": "Thu, 09 Nov 2023 09:00:00 +0100"
     }
   ]
 }

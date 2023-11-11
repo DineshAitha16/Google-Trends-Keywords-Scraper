@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-11-2023 , 23:56:27",
+  "lastUpdate": "11-11-2023 , 02:09:32",
   "data": [
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham",
+      "pubdate": "Sat, 11 Nov 2023 02:00:00 +0200"
+    },
     {
       "title": "Blackburn Rovers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blackburn%20Rovers",
@@ -12,14 +17,9 @@
       "pubdate": "Fri, 10 Nov 2023 11:00:00 +0200"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-      "pubdate": "Fri, 10 Nov 2023 00:00:00 +0200"
-    },
-    {
-      "title": "Cricket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket",
-      "pubdate": "Fri, 10 Nov 2023 21:00:00 +0200"
+      "title": "Sassuolo vs Salernitana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sassuolo%20vs%20Salernitana",
+      "pubdate": "Fri, 10 Nov 2023 20:00:00 +0200"
     },
     {
       "title": "Diwali",
@@ -37,11 +37,6 @@
       "pubdate": "Fri, 10 Nov 2023 09:00:00 +0200"
     },
     {
-      "title": "Sassuolo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sassuolo",
-      "pubdate": "Fri, 10 Nov 2023 22:00:00 +0200"
-    },
-    {
       "title": "The Killer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Killer",
       "pubdate": "Fri, 10 Nov 2023 19:00:00 +0200"
@@ -57,13 +52,8 @@
       "pubdate": "Fri, 10 Nov 2023 15:00:00 +0200"
     },
     {
-      "title": "Andile Phehlukwayo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andile%20Phehlukwayo",
-      "pubdate": "Fri, 10 Nov 2023 19:00:00 +0200"
-    },
-    {
-      "title": "Grammy Nominations 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Grammy%20Nominations%202024",
+      "title": "Grammy nominations 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Grammy%20nominations%202024",
       "pubdate": "Fri, 10 Nov 2023 22:00:00 +0200"
     },
     {
@@ -75,6 +65,11 @@
       "title": "Temba Bavuma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Temba%20Bavuma",
       "pubdate": "Fri, 10 Nov 2023 19:00:00 +0200"
+    },
+    {
+      "title": "Maya Kowalski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Maya%20Kowalski",
+      "pubdate": "Fri, 10 Nov 2023 21:00:00 +0200"
     },
     {
       "title": "Toulouse vs Liverpool",
@@ -100,6 +95,11 @@
       "title": "West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
       "pubdate": "Thu, 09 Nov 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma",
+      "pubdate": "Thu, 09 Nov 2023 15:00:00 +0200"
     }
   ]
 }
