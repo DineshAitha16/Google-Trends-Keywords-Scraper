@@ -1,1 +1,1 @@
-Cesko Moldavsko,Jiří Dušek herec,Už zase skáču přes kaluže,Monika Bagárová,The Rock,Lucie Vondráčková,Shakira,Terminal,KOZUB,Stanislava Jachnická,EPH,MotoGP,Jiří Svoboda,Assassin's Creed,Mezinárodní den mužů,Jan Hrušínský,Javier Milei,Vladimír Mišík,Banger,Martina Sáblíková
+Cesko Moldavsko,Jiří Dušek herec,Už zase skáču přes kaluže,Monika Bagárová,The Rock,Česká fotbalová reprezentace,Extraliga,Lucie Vondráčková,Shakira,Terminal,Stanislava Jachnická,EPH,Řidičský průkaz,MotoGP,Jiří Svoboda,Assassin's Creed,Mezinárodní den mužů,Javier Milei,Jan Hrušínský,Vladimír Mišík

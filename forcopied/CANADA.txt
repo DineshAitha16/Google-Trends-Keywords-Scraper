@@ -1,1 +1,1 @@
-OpenAI,Raptors,Ape,Baboon,Joss Ackland,Josh Dobbs,North Macedonia vs England,Shakira,MSFT,Ukraine vs Italy,Joe Biden,Knix,Joshua Dobbs,Gavi,Tool,Grève enseignants,Scottie Barnes,Solo Stove,Harold LeBel,Joe Flacco
+OpenAI,Raptors,FIGS,PowerSchool,Baboon,Joss Ackland,North Macedonia vs England,Josh Dobbs,Grève enseignants,Shakira,MSFT,Vikings,Ukraine vs Italy,Joe Biden,Knix,Cardinal,Joshua Dobbs,Gavi,Harold LeBel,Tool

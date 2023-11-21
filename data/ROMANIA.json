@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 23:57:29",
+  "lastUpdate": "21-11-2023 , 01:19:23",
   "data": [
     {
       "title": "Joe Biden",
@@ -27,24 +27,19 @@
       "pubdate": "Mon, 20 Nov 2023 02:00:00 +0200"
     },
     {
-      "title": "Legea pensiilor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20pensiilor",
-      "pubdate": "Mon, 20 Nov 2023 20:00:00 +0200"
-    },
-    {
       "title": "Gavi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gavi",
       "pubdate": "Mon, 20 Nov 2023 01:00:00 +0200"
     },
     {
-      "title": "CSM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM",
-      "pubdate": "Mon, 20 Nov 2023 11:00:00 +0200"
-    },
-    {
       "title": "Sam Altman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sam%20Altman",
       "pubdate": "Mon, 20 Nov 2023 17:00:00 +0200"
+    },
+    {
+      "title": "CSM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM",
+      "pubdate": "Mon, 20 Nov 2023 11:00:00 +0200"
     },
     {
       "title": "Capul Verde",
@@ -57,19 +52,14 @@
       "pubdate": "Mon, 20 Nov 2023 15:00:00 +0200"
     },
     {
-      "title": "Shakira",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Shakira",
-      "pubdate": "Mon, 20 Nov 2023 21:00:00 +0200"
-    },
-    {
       "title": "Suki Waterhouse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Suki%20Waterhouse",
       "pubdate": "Mon, 20 Nov 2023 13:00:00 +0200"
     },
     {
-      "title": "Erling Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Erling%20Haaland",
-      "pubdate": "Mon, 20 Nov 2023 10:00:00 +0200"
+      "title": "Shakira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Shakira",
+      "pubdate": "Mon, 20 Nov 2023 21:00:00 +0200"
     },
     {
       "title": "Yemen",
@@ -77,14 +67,19 @@
       "pubdate": "Mon, 20 Nov 2023 11:00:00 +0200"
     },
     {
+      "title": "Erling Haaland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Erling%20Haaland",
+      "pubdate": "Mon, 20 Nov 2023 10:00:00 +0200"
+    },
+    {
+      "title": "Legea pensiilor 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20pensiilor%202024",
+      "pubdate": "Mon, 20 Nov 2023 21:00:00 +0200"
+    },
+    {
       "title": "Moldova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Moldova",
       "pubdate": "Mon, 20 Nov 2023 23:00:00 +0200"
-    },
-    {
-      "title": "Meci romania elvetia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meci%20romania%20elvetia",
-      "pubdate": "Mon, 20 Nov 2023 19:00:00 +0200"
     },
     {
       "title": "Drepturile Copilului",
@@ -100,6 +95,11 @@
       "title": "Calendar creștin ortodox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calendar%20cre%C8%99tin%20ortodox",
       "pubdate": "Mon, 20 Nov 2023 16:00:00 +0200"
+    },
+    {
+      "title": "Andrew Tate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrew%20Tate",
+      "pubdate": "Mon, 20 Nov 2023 21:00:00 +0200"
     }
   ]
 }

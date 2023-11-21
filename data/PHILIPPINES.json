@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 23:57:28",
+  "lastUpdate": "21-11-2023 , 01:19:22",
   "data": [
     {
       "title": "Thanksgiving 2023",
@@ -10,6 +10,11 @@
       "title": "Thanksgiving",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Thanksgiving",
       "pubdate": "Tue, 21 Nov 2023 01:00:00 +0800"
+    },
+    {
+      "title": "Maya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Maya",
+      "pubdate": "Tue, 21 Nov 2023 08:00:00 +0800"
     },
     {
       "title": "Lakers vs Rockets",
@@ -47,18 +52,23 @@
       "pubdate": "Mon, 20 Nov 2023 10:00:00 +0800"
     },
     {
-      "title": "Grizzlies vs Celtics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Grizzlies%20vs%20Celtics",
-      "pubdate": "Mon, 20 Nov 2023 11:00:00 +0800"
-    },
-    {
       "title": "Suki Waterhouse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Suki%20Waterhouse",
       "pubdate": "Mon, 20 Nov 2023 14:00:00 +0800"
     },
     {
+      "title": "Grizzlies vs Celtics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Grizzlies%20vs%20Celtics",
+      "pubdate": "Mon, 20 Nov 2023 11:00:00 +0800"
+    },
+    {
       "title": "Civil Service",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Civil%20Service",
+      "pubdate": "Mon, 20 Nov 2023 12:00:00 +0800"
+    },
+    {
+      "title": "Justin Bieber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Justin%20Bieber",
       "pubdate": "Mon, 20 Nov 2023 12:00:00 +0800"
     },
     {
@@ -67,19 +77,9 @@
       "pubdate": "Mon, 20 Nov 2023 07:00:00 +0800"
     },
     {
-      "title": "Justin Bieber",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Justin%20Bieber",
-      "pubdate": "Mon, 20 Nov 2023 12:00:00 +0800"
-    },
-    {
       "title": "Trail Blazers vs Thunder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Trail%20Blazers%20vs%20Thunder",
       "pubdate": "Mon, 20 Nov 2023 12:00:00 +0800"
-    },
-    {
-      "title": "Jimmy Carter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jimmy%20Carter",
-      "pubdate": "Mon, 20 Nov 2023 13:00:00 +0800"
     },
     {
       "title": "Joss Ackland",
@@ -87,8 +87,8 @@
       "pubdate": "Mon, 20 Nov 2023 17:00:00 +0800"
     },
     {
-      "title": "Bruce Rivera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bruce%20Rivera",
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jimmy%20Carter",
       "pubdate": "Mon, 20 Nov 2023 13:00:00 +0800"
     },
     {

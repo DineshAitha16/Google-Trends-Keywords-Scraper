@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "20-11-2023 , 23:57:31",
+  "lastUpdate": "21-11-2023 , 01:19:25",
   "data": [
     {
       "title": "OpenAI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#OpenAI",
+      "pubdate": "Tue, 21 Nov 2023 01:00:00 +0800"
+    },
+    {
+      "title": "超派炸雞",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B6%85%E6%B4%BE%E7%82%B8%E9%9B%9E",
+      "pubdate": "Tue, 21 Nov 2023 05:00:00 +0800"
+    },
+    {
+      "title": "反町隆史",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%8D%E7%94%BA%E9%9A%86%E5%8F%B2",
       "pubdate": "Tue, 21 Nov 2023 01:00:00 +0800"
     },
     {
@@ -32,14 +42,14 @@
       "pubdate": "Mon, 20 Nov 2023 19:00:00 +0800"
     },
     {
-      "title": "鴻華先進",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E8%8F%AF%E5%85%88%E9%80%B2",
-      "pubdate": "Mon, 20 Nov 2023 11:00:00 +0800"
-    },
-    {
       "title": "陳漢章",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E6%BC%A2%E7%AB%A0",
       "pubdate": "Mon, 20 Nov 2023 19:00:00 +0800"
+    },
+    {
+      "title": "鴻華先進",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E8%8F%AF%E5%85%88%E9%80%B2",
+      "pubdate": "Mon, 20 Nov 2023 11:00:00 +0800"
     },
     {
       "title": "阿根廷",
@@ -67,29 +77,9 @@
       "pubdate": "Mon, 20 Nov 2023 16:00:00 +0800"
     },
     {
-      "title": "柯郭配",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E9%83%AD%E9%85%8D",
-      "pubdate": "Mon, 20 Nov 2023 21:00:00 +0800"
-    },
-    {
       "title": "Crash Fever",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Crash%20Fever",
       "pubdate": "Mon, 20 Nov 2023 23:00:00 +0800"
-    },
-    {
-      "title": "敦泰",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%95%A6%E6%B3%B0",
-      "pubdate": "Mon, 20 Nov 2023 20:00:00 +0800"
-    },
-    {
-      "title": "衛福部",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%A1%9B%E7%A6%8F%E9%83%A8",
-      "pubdate": "Mon, 20 Nov 2023 08:00:00 +0800"
-    },
-    {
-      "title": "葛來儀",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%91%9B%E4%BE%86%E5%84%80",
-      "pubdate": "Sun, 19 Nov 2023 20:00:00 +0800"
     },
     {
       "title": "地震",
@@ -97,9 +87,19 @@
       "pubdate": "Sun, 19 Nov 2023 18:00:00 +0800"
     },
     {
+      "title": "葛來儀",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%91%9B%E4%BE%86%E5%84%80",
+      "pubdate": "Sun, 19 Nov 2023 20:00:00 +0800"
+    },
+    {
       "title": "T1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#T1",
       "pubdate": "Sun, 19 Nov 2023 14:00:00 +0800"
+    },
+    {
+      "title": "好市多黑五",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%BB%91%E4%BA%94",
+      "pubdate": "Sun, 19 Nov 2023 18:00:00 +0800"
     }
   ]
 }

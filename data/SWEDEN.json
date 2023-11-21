@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "20-11-2023 , 23:57:30",
+  "lastUpdate": "21-11-2023 , 01:19:24",
   "data": [
+    {
+      "title": "Sam Altman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sam%20Altman",
+      "pubdate": "Mon, 20 Nov 2023 16:00:00 +0100"
+    },
     {
       "title": "Joss Ackland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joss%20Ackland",
       "pubdate": "Mon, 20 Nov 2023 02:00:00 +0100"
-    },
-    {
-      "title": "Ludvig Åberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
-      "pubdate": "Mon, 20 Nov 2023 12:00:00 +0100"
     },
     {
       "title": "Lasse Berghagen",
@@ -17,9 +17,9 @@
       "pubdate": "Mon, 20 Nov 2023 13:00:00 +0100"
     },
     {
-      "title": "OpenAI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OpenAI",
-      "pubdate": "Mon, 20 Nov 2023 16:00:00 +0100"
+      "title": "Ludvig Åberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
+      "pubdate": "Mon, 20 Nov 2023 12:00:00 +0100"
     },
     {
       "title": "Toronto Maple Leafs",
@@ -42,14 +42,14 @@
       "pubdate": "Mon, 20 Nov 2023 10:00:00 +0100"
     },
     {
-      "title": "Gavi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gavi",
-      "pubdate": "Mon, 20 Nov 2023 15:00:00 +0100"
-    },
-    {
       "title": "Kick",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kick",
       "pubdate": "Mon, 20 Nov 2023 14:00:00 +0100"
+    },
+    {
+      "title": "Gavi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gavi",
+      "pubdate": "Mon, 20 Nov 2023 15:00:00 +0100"
     },
     {
       "title": "Brynäs",
@@ -77,6 +77,11 @@
       "pubdate": "Sun, 19 Nov 2023 20:00:00 +0100"
     },
     {
+      "title": "Salming",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Salming",
+      "pubdate": "Sun, 19 Nov 2023 17:00:00 +0100"
+    },
+    {
       "title": "Jesper Parnevik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jesper%20Parnevik",
       "pubdate": "Sun, 19 Nov 2023 21:00:00 +0100"
@@ -87,18 +92,13 @@
       "pubdate": "Sun, 19 Nov 2023 21:00:00 +0100"
     },
     {
+      "title": "PFAS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PFAS",
+      "pubdate": "Sun, 19 Nov 2023 15:00:00 +0100"
+    },
+    {
       "title": "Ozempic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ozempic",
-      "pubdate": "Sun, 19 Nov 2023 21:00:00 +0100"
-    },
-    {
-      "title": "Emil Forsberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emil%20Forsberg",
-      "pubdate": "Sun, 19 Nov 2023 13:00:00 +0100"
-    },
-    {
-      "title": "Börje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%B6rje",
       "pubdate": "Sun, 19 Nov 2023 21:00:00 +0100"
     }
   ]

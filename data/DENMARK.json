@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 23:57:23",
+  "lastUpdate": "21-11-2023 , 01:19:17",
   "data": [
     {
       "title": "Sam Altman",
@@ -67,14 +67,19 @@
       "pubdate": "Mon, 20 Nov 2023 15:00:00 +0100"
     },
     {
+      "title": "Fusion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fusion",
+      "pubdate": "Mon, 20 Nov 2023 17:00:00 +0100"
+    },
+    {
       "title": "Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
       "pubdate": "Mon, 20 Nov 2023 07:00:00 +0100"
     },
     {
-      "title": "Fusion",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fusion",
-      "pubdate": "Mon, 20 Nov 2023 17:00:00 +0100"
+      "title": "Northern Ireland vs Denmark",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Northern%20Ireland%20vs%20Denmark",
+      "pubdate": "Mon, 20 Nov 2023 23:00:00 +0100"
     },
     {
       "title": "Erling Haaland",
@@ -85,11 +90,6 @@
       "title": "The Revenant",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Revenant",
       "pubdate": "Mon, 20 Nov 2023 21:00:00 +0100"
-    },
-    {
-      "title": "Northern Ireland vs Denmark",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Northern%20Ireland%20vs%20Denmark",
-      "pubdate": "Mon, 20 Nov 2023 23:00:00 +0100"
     },
     {
       "title": "Grooming",
