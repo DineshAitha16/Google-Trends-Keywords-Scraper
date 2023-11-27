@@ -1,1 +1,1 @@
-Boca,Estudiantes,Boca Juniors,Atletico tucuman,Alberto fernandez,Gimnasia y Tiro,Roma  Udinese,Arsenal de sarandi,Ushuaia,Robbie Williams,Futbol,Estela de Carlotto,Real Sociedad - Sevilla,Cristo-Rey,Milei es judio,Vasco da Gama,Abu Dhabi,Lakers,Andres Ibarra,Colon
+Boca,Talleres  Independiente,Estudiantes,Gimnasia y Tiro,Alberto fernandez,Belgrano,Roma  Udinese,Partido de Boca,Palmeiras,Ushuaia,Robbie Williams,Futbol,Milei es judio,Estela de Carlotto,Real Sociedad - Sevilla,Cristo Rey,Torneo Federal A,Vasco da Gama,Abu Dhabi,Central cordoba

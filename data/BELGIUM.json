@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 23:55:03",
+  "lastUpdate": "27-11-2023 , 01:00:30",
   "data": [
     {
       "title": "Anderlecht",
@@ -12,24 +12,24 @@
       "pubdate": "Sun, 26 Nov 2023 13:00:00 +0100"
     },
     {
-      "title": "Star Academy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Star%20Academy",
-      "pubdate": "Sun, 26 Nov 2023 10:00:00 +0100"
-    },
-    {
       "title": "Club Brugge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
       "pubdate": "Sun, 26 Nov 2023 18:00:00 +0100"
     },
     {
-      "title": "KV Mechelen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
-      "pubdate": "Sun, 26 Nov 2023 19:00:00 +0100"
+      "title": "Star Academy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Star%20Academy",
+      "pubdate": "Sun, 26 Nov 2023 10:00:00 +0100"
     },
     {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
       "pubdate": "Sun, 26 Nov 2023 21:00:00 +0100"
+    },
+    {
+      "title": "KV Mechelen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
+      "pubdate": "Sun, 26 Nov 2023 19:00:00 +0100"
     },
     {
       "title": "La Gantoise – Union Saint-Gilloise",
@@ -52,19 +52,14 @@
       "pubdate": "Sun, 26 Nov 2023 21:00:00 +0100"
     },
     {
-      "title": "Beerschot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
-      "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
-    },
-    {
       "title": "Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham",
       "pubdate": "Sun, 26 Nov 2023 16:00:00 +0100"
     },
     {
-      "title": "Veldrijden Dublin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Veldrijden%20Dublin",
-      "pubdate": "Sun, 26 Nov 2023 16:00:00 +0100"
+      "title": "Beerschot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
+      "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
     },
     {
       "title": "Roma – Udinese",
@@ -72,8 +67,8 @@
       "pubdate": "Sun, 26 Nov 2023 19:00:00 +0100"
     },
     {
-      "title": "Jupiler Pro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20Pro",
+      "title": "Jupiler pro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20pro",
       "pubdate": "Sun, 26 Nov 2023 22:00:00 +0100"
     },
     {
@@ -87,14 +82,19 @@
       "pubdate": "Sun, 26 Nov 2023 00:00:00 +0100"
     },
     {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
-      "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
+      "title": "Tout pour Agnès",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tout%20pour%20Agn%C3%A8s",
+      "pubdate": "Sun, 26 Nov 2023 22:00:00 +0100"
     },
     {
       "title": "AS Roma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AS%20Roma",
       "pubdate": "Sun, 26 Nov 2023 18:00:00 +0100"
+    },
+    {
+      "title": "Lucinda Brand",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lucinda%20Brand",
+      "pubdate": "Sun, 26 Nov 2023 16:00:00 +0100"
     },
     {
       "title": "OHL",
