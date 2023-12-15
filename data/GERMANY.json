@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2023 , 01:24:24",
+  "lastUpdate": "15-12-2023 , 02:09:16",
   "data": [
     {
       "title": "Europa League",
@@ -40,6 +40,11 @@
       "title": "Frankfurt Hauptbahnhof",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Hauptbahnhof",
       "pubdate": "Thu, 14 Dec 2023 15:00:00 +0100"
+    },
+    {
+      "title": "Camden Toy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Camden%20Toy",
+      "pubdate": "Thu, 14 Dec 2023 12:00:00 +0100"
     },
     {
       "title": "E-Rezept",
@@ -95,11 +100,6 @@
       "title": "Jeremy Fragrance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jeremy%20Fragrance",
       "pubdate": "Mon, 11 Dec 2023 00:00:00 +0100"
-    },
-    {
-      "title": "Anne Ratte-Polle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anne%20Ratte-Polle",
-      "pubdate": "Mon, 11 Dec 2023 10:00:00 +0100"
     }
   ]
 }
