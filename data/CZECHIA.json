@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "17-12-2023 , 23:59:14",
+  "lastUpdate": "18-12-2023 , 01:23:38",
   "data": [
+    {
+      "title": "Daniel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel",
+      "pubdate": "Mon, 18 Dec 2023 00:00:00 +0100"
+    },
     {
       "title": "Baník – Slavia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ban%C3%ADk%20%E2%80%93%20Slavia",
@@ -12,14 +17,14 @@
       "pubdate": "Sun, 17 Dec 2023 19:00:00 +0100"
     },
     {
-      "title": "Olomouc – Plzeň",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc%20%E2%80%93%20Plze%C5%88",
-      "pubdate": "Sun, 17 Dec 2023 15:00:00 +0100"
-    },
-    {
       "title": "Jak se krotí krokodýli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jak%20se%20krot%C3%AD%20krokod%C3%BDli",
       "pubdate": "Sun, 17 Dec 2023 18:00:00 +0100"
+    },
+    {
+      "title": "Babiš Fiala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Babi%C5%A1%20Fiala",
+      "pubdate": "Sun, 17 Dec 2023 16:00:00 +0100"
     },
     {
       "title": "Colin Burgess",
@@ -42,24 +47,24 @@
       "pubdate": "Sun, 17 Dec 2023 20:00:00 +0100"
     },
     {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
+      "pubdate": "Sun, 17 Dec 2023 16:00:00 +0100"
+    },
+    {
       "title": "UFC 296",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20296",
       "pubdate": "Sun, 17 Dec 2023 19:00:00 +0100"
     },
     {
-      "title": "Hokej",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej",
-      "pubdate": "Sun, 17 Dec 2023 15:00:00 +0100"
-    },
-    {
-      "title": "Za pět minut dvanáct",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Za%20p%C4%9Bt%20minut%20dvan%C3%A1ct",
-      "pubdate": "Sun, 17 Dec 2023 16:00:00 +0100"
-    },
-    {
       "title": "Brad Pitt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brad%20Pitt",
       "pubdate": "Sun, 17 Dec 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Milan Petržela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20Petr%C5%BEela",
+      "pubdate": "Sun, 17 Dec 2023 09:00:00 +0100"
     },
     {
       "title": "Třetí adventní neděle",
@@ -70,11 +75,6 @@
       "title": "Andrea Černá",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrea%20%C4%8Cern%C3%A1",
       "pubdate": "Sun, 17 Dec 2023 09:00:00 +0100"
-    },
-    {
-      "title": "Arsenal – Brighton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal%20%E2%80%93%20Brighton",
-      "pubdate": "Sun, 17 Dec 2023 16:00:00 +0100"
     },
     {
       "title": "Manchester United",

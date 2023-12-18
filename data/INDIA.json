@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 23:59:17",
+  "lastUpdate": "18-12-2023 , 01:23:41",
   "data": [
     {
       "title": "Nathan Lyon",
@@ -32,19 +32,19 @@
       "pubdate": "Sun, 17 Dec 2023 13:30:00 +0530"
     },
     {
-      "title": "Srii Murali",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Srii%20Murali",
-      "pubdate": "Sun, 17 Dec 2023 10:30:00 +0530"
-    },
-    {
-      "title": "Wi vs eng",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Wi%20vs%20eng",
+      "title": "WI vs ENG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WI%20vs%20ENG",
       "pubdate": "Sun, 17 Dec 2023 10:30:00 +0530"
     },
     {
       "title": "Shreyas Iyer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shreyas%20Iyer",
       "pubdate": "Sun, 17 Dec 2023 18:30:00 +0530"
+    },
+    {
+      "title": "Srii Murali",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Srii%20Murali",
+      "pubdate": "Sun, 17 Dec 2023 12:30:00 +0530"
     },
     {
       "title": "Arsenal vs Brighton",
@@ -57,24 +57,29 @@
       "pubdate": "Sun, 17 Dec 2023 13:30:00 +0530"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
-      "pubdate": "Sun, 17 Dec 2023 05:30:00 +0530"
-    },
-    {
-      "title": "Rubina Dilaik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rubina%20Dilaik",
-      "pubdate": "Sun, 17 Dec 2023 16:30:00 +0530"
-    },
-    {
       "title": "Surat Diamond Bourse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Surat%20Diamond%20Bourse",
       "pubdate": "Sun, 17 Dec 2023 12:30:00 +0530"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
+      "pubdate": "Sun, 17 Dec 2023 05:30:00 +0530"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
+      "pubdate": "Sun, 17 Dec 2023 00:30:00 +0530"
+    },
+    {
       "title": "Article 370",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Article%20370",
       "pubdate": "Sun, 17 Dec 2023 20:30:00 +0530"
+    },
+    {
+      "title": "Vijay Hazare Trophy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vijay%20Hazare%20Trophy",
+      "pubdate": "Sun, 17 Dec 2023 08:30:00 +0530"
     },
     {
       "title": "Sachin Tendulkar",
@@ -95,11 +100,6 @@
       "title": "Liverpool FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liverpool%20FC",
       "pubdate": "Sun, 17 Dec 2023 22:30:00 +0530"
-    },
-    {
-      "title": "Covid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Covid",
-      "pubdate": "Sun, 17 Dec 2023 21:30:00 +0530"
     }
   ]
 }
