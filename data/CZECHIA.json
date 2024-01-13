@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2024 , 06:43:52",
+  "lastUpdate": "13-01-2024 , 06:54:19",
   "data": [
     {
       "title": "Prachař",
@@ -7,14 +7,14 @@
       "pubdate": "Sat, 13 Jan 2024 00:00:00 +0100"
     },
     {
+      "title": "Dua Lipa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dua%20Lipa",
+      "pubdate": "Sat, 13 Jan 2024 07:00:00 +0100"
+    },
+    {
       "title": "Jan Koller",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Koller",
       "pubdate": "Sat, 13 Jan 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Bayern – Hoffenheim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bayern%20%E2%80%93%20Hoffenheim",
-      "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
     },
     {
       "title": "Alain Delon",
@@ -32,11 +32,6 @@
       "pubdate": "Fri, 12 Jan 2024 16:00:00 +0100"
     },
     {
-      "title": "Jan Linhart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Linhart",
-      "pubdate": "Fri, 12 Jan 2024 14:00:00 +0100"
-    },
-    {
       "title": "Prince of Persia: The Lost Crown",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prince%20of%20Persia:%20The%20Lost%20Crown",
       "pubdate": "Fri, 12 Jan 2024 08:00:00 +0100"
@@ -45,6 +40,11 @@
       "title": "Rudé moře",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rud%C3%A9%20mo%C5%99e",
       "pubdate": "Fri, 12 Jan 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bundesliga",
+      "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
     },
     {
       "title": "Bankovní identita",
@@ -57,13 +57,18 @@
       "pubdate": "Fri, 12 Jan 2024 00:00:00 +0100"
     },
     {
+      "title": "Důl Jeroným",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D%C5%AFl%20Jeron%C3%BDm",
+      "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
+    },
+    {
       "title": "Jodie Foster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jodie%20Foster",
       "pubdate": "Fri, 12 Jan 2024 13:00:00 +0100"
     },
     {
-      "title": "Důl Jeroným",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D%C5%AFl%20Jeron%C3%BDm",
+      "title": "Pustevny Ledové sochy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pustevny%20Ledov%C3%A9%20sochy",
       "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
     },
     {
@@ -94,11 +99,6 @@
     {
       "title": "Poco X6 Pro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poco%20X6%20Pro",
-      "pubdate": "Thu, 11 Jan 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Andrzej Duda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrzej%20Duda",
       "pubdate": "Thu, 11 Jan 2024 19:00:00 +0100"
     }
   ]

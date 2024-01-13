@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "13-01-2024 , 06:43:58",
+  "lastUpdate": "13-01-2024 , 06:54:23",
   "data": [
     {
       "title": "Marseille",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marseille",
       "pubdate": "Sat, 13 Jan 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Asake Only Me",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Asake%20Only%20Me",
+      "pubdate": "Sat, 13 Jan 2024 06:00:00 +0100"
     },
     {
       "title": "Nations Cup",
@@ -77,14 +82,14 @@
       "pubdate": "Fri, 12 Jan 2024 20:00:00 +0100"
     },
     {
-      "title": "Sven göran Eriksson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sven%20g%C3%B6ran%20Eriksson",
-      "pubdate": "Fri, 12 Jan 2024 15:00:00 +0100"
-    },
-    {
       "title": "Chelsea vs Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Fulham",
       "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Sven göran Eriksson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sven%20g%C3%B6ran%20Eriksson",
+      "pubdate": "Fri, 12 Jan 2024 15:00:00 +0100"
     },
     {
       "title": "Role Play movie",
@@ -95,11 +100,6 @@
       "title": "21 Savage",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#21%20Savage",
       "pubdate": "Fri, 12 Jan 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Amaram Onyewem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Amaram%20Onyewem",
-      "pubdate": "Fri, 12 Jan 2024 20:00:00 +0100"
     }
   ]
 }
