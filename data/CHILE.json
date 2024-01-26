@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "25-01-2024 , 23:57:58",
+  "lastUpdate": "26-01-2024 , 01:17:20",
   "data": [
     {
-      "title": "Atlético Madrid  Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20%20Sevilla",
+      "title": "Atlético Madrid - Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20-%20Sevilla",
       "pubdate": "Thu, 25 Jan 2024 17:00:00 -0300"
     },
     {
@@ -12,14 +12,14 @@
       "pubdate": "Thu, 25 Jan 2024 10:00:00 -0300"
     },
     {
-      "title": "Michelle Silva",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michelle%20Silva",
-      "pubdate": "Thu, 25 Jan 2024 13:00:00 -0300"
-    },
-    {
       "title": "Jesse Jane",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jesse%20Jane",
       "pubdate": "Thu, 25 Jan 2024 16:00:00 -0300"
+    },
+    {
+      "title": "Michelle Silva",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michelle%20Silva",
+      "pubdate": "Thu, 25 Jan 2024 13:00:00 -0300"
     },
     {
       "title": "Paolo Guerrero",
@@ -32,14 +32,19 @@
       "pubdate": "Thu, 25 Jan 2024 00:00:00 -0300"
     },
     {
+      "title": "Museo britanico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Museo%20britanico",
+      "pubdate": "Thu, 25 Jan 2024 18:00:00 -0300"
+    },
+    {
       "title": "Naya facil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Naya%20facil",
       "pubdate": "Thu, 25 Jan 2024 10:00:00 -0300"
     },
     {
-      "title": "Museo britanico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Museo%20britanico",
-      "pubdate": "Thu, 25 Jan 2024 18:00:00 -0300"
+      "title": "ITZY",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ITZY",
+      "pubdate": "Thu, 25 Jan 2024 20:00:00 -0300"
     },
     {
       "title": "Elias Figueroa",
@@ -47,19 +52,19 @@
       "pubdate": "Thu, 25 Jan 2024 19:00:00 -0300"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+      "title": "Copa del Rey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20del%20Rey",
+      "pubdate": "Wed, 24 Jan 2024 14:00:00 -0300"
+    },
+    {
+      "title": "Alison Muñoz desaparecida",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alison%20Mu%C3%B1oz%20desaparecida",
       "pubdate": "Wed, 24 Jan 2024 14:00:00 -0300"
     },
     {
       "title": "Coquimbo Unido",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
       "pubdate": "Wed, 24 Jan 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Alison Muñoz desaparecida",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alison%20Mu%C3%B1oz%20desaparecida",
-      "pubdate": "Wed, 24 Jan 2024 14:00:00 -0300"
     },
     {
       "title": "Fulham  Liverpool",
@@ -95,11 +100,6 @@
       "title": "Ignacio corvalan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ignacio%20corvalan",
       "pubdate": "Wed, 24 Jan 2024 14:00:00 -0300"
-    },
-    {
-      "title": "Greta Gerwig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Greta%20Gerwig",
-      "pubdate": "Wed, 24 Jan 2024 02:00:00 -0300"
     }
   ]
 }
