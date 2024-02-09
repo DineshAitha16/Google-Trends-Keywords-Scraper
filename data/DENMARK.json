@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2024 , 12:28:13",
+  "lastUpdate": "09-02-2024 , 12:47:07",
   "data": [
     {
       "title": "Joe Biden",
@@ -32,14 +32,14 @@
       "pubdate": "Thu, 08 Feb 2024 00:00:00 +0100"
     },
     {
-      "title": "Mærsk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#M%C3%A6rsk",
-      "pubdate": "Thu, 08 Feb 2024 11:00:00 +0100"
-    },
-    {
       "title": "Nations League 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nations%20League%202024",
       "pubdate": "Thu, 08 Feb 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Mærsk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#M%C3%A6rsk",
+      "pubdate": "Thu, 08 Feb 2024 11:00:00 +0100"
     },
     {
       "title": "Helldivers 2",
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 07 Feb 2024 10:00:00 +0100"
     },
     {
-      "title": "Drake leaked video",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Drake%20leaked%20video",
-      "pubdate": "Wed, 07 Feb 2024 01:00:00 +0100"
-    },
-    {
       "title": "Gina Carano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gina%20Carano",
       "pubdate": "Wed, 07 Feb 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
+      "pubdate": "Wed, 07 Feb 2024 11:00:00 +0100"
     }
   ]
 }
