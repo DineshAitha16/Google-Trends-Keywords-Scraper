@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 11:46:17",
+  "lastUpdate": "06-03-2024 , 11:56:24",
   "data": [
     {
       "title": "Flipping",
@@ -7,14 +7,14 @@
       "pubdate": "Wed, 06 Mar 2024 07:00:00 +0100"
     },
     {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joe%20Biden",
+      "pubdate": "Wed, 06 Mar 2024 06:00:00 +0100"
+    },
+    {
       "title": "Garrison Brown",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Garrison%20Brown",
       "pubdate": "Wed, 06 Mar 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Edvin Ryding",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Ryding",
-      "pubdate": "Wed, 06 Mar 2024 01:00:00 +0100"
     },
     {
       "title": "Anders Borg",
@@ -22,14 +22,14 @@
       "pubdate": "Wed, 06 Mar 2024 05:00:00 +0100"
     },
     {
-      "title": "CL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
-      "pubdate": "Wed, 06 Mar 2024 06:00:00 +0100"
-    },
-    {
       "title": "Melinda Lindmark",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melinda%20Lindmark",
       "pubdate": "Wed, 06 Mar 2024 09:00:00 +0100"
+    },
+    {
+      "title": "CL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
+      "pubdate": "Wed, 06 Mar 2024 06:00:00 +0100"
     },
     {
       "title": "Europa League",
@@ -47,9 +47,9 @@
       "pubdate": "Tue, 05 Mar 2024 15:00:00 +0100"
     },
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joe%20Biden",
-      "pubdate": "Tue, 05 Mar 2024 22:00:00 +0100"
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+      "pubdate": "Tue, 05 Mar 2024 00:00:00 +0100"
     },
     {
       "title": "Allmänna arvsfonden",
@@ -62,16 +62,6 @@
       "pubdate": "Tue, 05 Mar 2024 21:00:00 +0100"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
-      "pubdate": "Tue, 05 Mar 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
-      "pubdate": "Tue, 05 Mar 2024 00:00:00 +0100"
-    },
-    {
       "title": "Brad Paisley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brad%20Paisley",
       "pubdate": "Tue, 05 Mar 2024 18:00:00 +0100"
@@ -80,6 +70,11 @@
       "title": "Yuzu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yuzu",
       "pubdate": "Tue, 05 Mar 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Biden",
+      "pubdate": "Tue, 05 Mar 2024 22:00:00 +0100"
     },
     {
       "title": "Jason Kelce",
@@ -100,6 +95,11 @@
       "title": "Rebecca Stella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rebecca%20Stella",
       "pubdate": "Tue, 05 Mar 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Swish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Swish",
+      "pubdate": "Tue, 05 Mar 2024 12:00:00 +0100"
     }
   ]
 }
