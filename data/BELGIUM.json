@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "11-03-2024 , 23:59:58",
+  "lastUpdate": "12-03-2024 , 01:16:44",
   "data": [
+    {
+      "title": "Brigitte Macron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
+      "pubdate": "Tue, 12 Mar 2024 00:00:00 +0100"
+    },
     {
       "title": "TEC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TEC",
@@ -32,6 +37,11 @@
       "pubdate": "Mon, 11 Mar 2024 08:00:00 +0100"
     },
     {
+      "title": "Standard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
+      "pubdate": "Mon, 11 Mar 2024 09:00:00 +0100"
+    },
+    {
       "title": "Cillian Murphy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cillian%20Murphy",
       "pubdate": "Mon, 11 Mar 2024 09:00:00 +0100"
@@ -57,14 +67,14 @@
       "pubdate": "Mon, 11 Mar 2024 06:00:00 +0100"
     },
     {
-      "title": "AA Gent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
-      "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
-    },
-    {
       "title": "Al-Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
       "pubdate": "Mon, 11 Mar 2024 23:00:00 +0100"
+    },
+    {
+      "title": "AA Gent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+      "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
     },
     {
       "title": "Ben Attal",
@@ -77,29 +87,19 @@
       "pubdate": "Mon, 11 Mar 2024 23:00:00 +0100"
     },
     {
+      "title": "Yvan Attal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yvan%20Attal",
+      "pubdate": "Mon, 11 Mar 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Nina Derwael",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nina%20Derwael",
+      "pubdate": "Mon, 11 Mar 2024 10:00:00 +0100"
+    },
+    {
       "title": "Aya Nakamura",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aya%20Nakamura",
       "pubdate": "Mon, 11 Mar 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Brahim Diaz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brahim%20Diaz",
-      "pubdate": "Mon, 11 Mar 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Shaun King",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shaun%20King",
-      "pubdate": "Mon, 11 Mar 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Tom Lanoye",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Lanoye",
-      "pubdate": "Mon, 11 Mar 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Flakka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Flakka",
-      "pubdate": "Mon, 11 Mar 2024 17:00:00 +0100"
     }
   ]
 }
