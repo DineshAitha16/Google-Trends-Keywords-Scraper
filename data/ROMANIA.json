@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "17-03-2024 , 07:45:23",
+  "lastUpdate": "17-03-2024 , 07:55:46",
   "data": [
+    {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Carlos%20Alcaraz",
+      "pubdate": "Sun, 17 Mar 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20City",
+      "pubdate": "Sun, 17 Mar 2024 00:00:00 +0200"
+    },
     {
       "title": "CSA Steaua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSA%20Steaua",
       "pubdate": "Sun, 17 Mar 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Radu Drăgușin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radu%20Dr%C4%83gu%C8%99in",
+      "pubdate": "Sun, 17 Mar 2024 09:00:00 +0200"
     },
     {
       "title": "CFR Cluj - Universitatea Craiova",
@@ -27,11 +42,6 @@
       "pubdate": "Sat, 16 Mar 2024 17:00:00 +0200"
     },
     {
-      "title": "Man City  Newcastle United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20%20Newcastle%20United",
-      "pubdate": "Sat, 16 Mar 2024 19:00:00 +0200"
-    },
-    {
       "title": "Ucl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ucl",
       "pubdate": "Sat, 16 Mar 2024 08:00:00 +0200"
@@ -52,9 +62,9 @@
       "pubdate": "Sat, 16 Mar 2024 08:00:00 +0200"
     },
     {
-      "title": "Madame Web",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Madame%20Web",
-      "pubdate": "Sat, 16 Mar 2024 00:00:00 +0200"
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City",
+      "pubdate": "Sat, 16 Mar 2024 22:00:00 +0200"
     },
     {
       "title": "Bayern",
@@ -62,8 +72,18 @@
       "pubdate": "Sat, 16 Mar 2024 13:00:00 +0200"
     },
     {
+      "title": "Madame Web",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Madame%20Web",
+      "pubdate": "Sat, 16 Mar 2024 00:00:00 +0200"
+    },
+    {
       "title": "Piton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Piton",
+      "pubdate": "Sat, 16 Mar 2024 23:00:00 +0200"
+    },
+    {
+      "title": "CSM bucuresti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
       "pubdate": "Sat, 16 Mar 2024 23:00:00 +0200"
     },
     {
@@ -72,34 +92,14 @@
       "pubdate": "Sat, 16 Mar 2024 22:00:00 +0200"
     },
     {
-      "title": "Manchester city–newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20city%E2%80%93newcastle",
-      "pubdate": "Sat, 16 Mar 2024 22:00:00 +0200"
-    },
-    {
-      "title": "WTA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#WTA",
-      "pubdate": "Sat, 16 Mar 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Cara Delevingne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cara%20Delevingne",
-      "pubdate": "Sat, 16 Mar 2024 18:00:00 +0200"
-    },
-    {
-      "title": "OLAV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#OLAV",
-      "pubdate": "Sat, 16 Mar 2024 18:00:00 +0200"
-    },
-    {
-      "title": "CSM bucuresti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
+      "title": "Bilbao,  alavés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bilbao,%20%20alav%C3%A9s",
       "pubdate": "Sat, 16 Mar 2024 23:00:00 +0200"
     },
     {
-      "title": "Rapid Bucureşti  Farul Constanța",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20Bucure%C5%9Fti%20%20Farul%20Constan%C8%9Ba",
-      "pubdate": "Fri, 15 Mar 2024 17:00:00 +0200"
+      "title": "Manchester city–newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20city%E2%80%93newcastle",
+      "pubdate": "Sat, 16 Mar 2024 22:00:00 +0200"
     }
   ]
 }

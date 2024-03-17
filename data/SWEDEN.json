@@ -1,16 +1,6 @@
 {
-  "lastUpdate": "17-03-2024 , 07:45:24",
+  "lastUpdate": "17-03-2024 , 07:55:47",
   "data": [
-    {
-      "title": "FA-cupen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-cupen",
-      "pubdate": "Sun, 17 Mar 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Fångarna på Fortet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A5ngarna%20p%C3%A5%20Fortet",
-      "pubdate": "Sat, 16 Mar 2024 09:00:00 +0100"
-    },
     {
       "title": "Malmö FF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
@@ -25,6 +15,11 @@
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
       "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Fångarna på Fortet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A5ngarna%20p%C3%A5%20Fortet",
+      "pubdate": "Sat, 16 Mar 2024 09:00:00 +0100"
     },
     {
       "title": "Kolai",
@@ -52,11 +47,6 @@
       "pubdate": "Sat, 16 Mar 2024 01:00:00 +0100"
     },
     {
-      "title": "Karlskrona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Karlskrona",
-      "pubdate": "Sat, 16 Mar 2024 11:00:00 +0100"
-    },
-    {
       "title": "Hasse Aro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hasse%20Aro",
       "pubdate": "Sat, 16 Mar 2024 15:00:00 +0100"
@@ -75,6 +65,11 @@
       "title": "Darmstadt mot bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Darmstadt%20mot%20bayern",
       "pubdate": "Sat, 16 Mar 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Jeff Bezos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jeff%20Bezos",
+      "pubdate": "Sat, 16 Mar 2024 00:00:00 +0100"
     },
     {
       "title": "HBK",
@@ -100,6 +95,11 @@
       "title": "McDonalds",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#McDonalds",
       "pubdate": "Fri, 15 Mar 2024 12:00:00 +0100"
+    },
+    {
+      "title": "HV71",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
+      "pubdate": "Fri, 15 Mar 2024 20:00:00 +0100"
     }
   ]
 }
