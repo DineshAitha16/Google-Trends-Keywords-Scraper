@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 10:41:55",
+  "lastUpdate": "26-03-2024 , 10:52:26",
   "data": [
     {
       "title": "Baltimore",
@@ -10,6 +10,11 @@
       "title": "Diana Ross",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Diana%20Ross",
       "pubdate": "Tue, 26 Mar 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Diddy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Diddy",
+      "pubdate": "Tue, 26 Mar 2024 10:00:00 +0100"
     },
     {
       "title": "Beatrice de Graaf",
@@ -35,6 +40,11 @@
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
       "pubdate": "Mon, 25 Mar 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Boekel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boekel",
+      "pubdate": "Mon, 25 Mar 2024 14:00:00 +0100"
     },
     {
       "title": "Roethof",
@@ -72,6 +82,11 @@
       "pubdate": "Sat, 23 Mar 2024 00:00:00 +0100"
     },
     {
+      "title": "Aanslag Moskou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Aanslag%20Moskou",
+      "pubdate": "Fri, 22 Mar 2024 22:00:00 +0100"
+    },
+    {
       "title": "Kate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kate",
       "pubdate": "Fri, 22 Mar 2024 20:00:00 +0100"
@@ -85,21 +100,6 @@
       "title": "Baristina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Baristina",
       "pubdate": "Thu, 21 Mar 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Lente",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lente",
-      "pubdate": "Wed, 20 Mar 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Gaslighting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaslighting",
-      "pubdate": "Wed, 20 Mar 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Van Zwol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Zwol",
-      "pubdate": "Wed, 20 Mar 2024 14:00:00 +0100"
     }
   ]
 }
