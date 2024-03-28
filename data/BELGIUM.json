@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-03-2024 , 06:38:06",
+  "lastUpdate": "28-03-2024 , 06:48:36",
   "data": [
     {
       "title": "Armand",
@@ -15,11 +15,6 @@
       "title": "Bent Van Looy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bent%20Van%20Looy",
       "pubdate": "Wed, 27 Mar 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Frank Vercruyssen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frank%20Vercruyssen",
-      "pubdate": "Wed, 27 Mar 2024 17:00:00 +0100"
     },
     {
       "title": "Richard Serra",
@@ -67,19 +62,24 @@
       "pubdate": "Wed, 27 Mar 2024 00:00:00 +0100"
     },
     {
-      "title": "L'ÉQUIPE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%89QUIPE",
-      "pubdate": "Wed, 27 Mar 2024 00:00:00 +0100"
-    },
-    {
       "title": "Mathieu van der Poel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20van%20der%20Poel",
       "pubdate": "Wed, 27 Mar 2024 23:00:00 +0100"
     },
     {
+      "title": "L'équipe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%A9quipe",
+      "pubdate": "Wed, 27 Mar 2024 00:00:00 +0100"
+    },
+    {
       "title": "Equipe de France",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Equipe%20de%20France",
       "pubdate": "Wed, 27 Mar 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Wielerclub Wattage",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wielerclub%20Wattage",
+      "pubdate": "Wed, 27 Mar 2024 23:00:00 +0100"
     },
     {
       "title": "Bad Boys 4",

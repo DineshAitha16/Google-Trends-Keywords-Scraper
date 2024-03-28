@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "28-03-2024 , 06:38:13",
+  "lastUpdate": "28-03-2024 , 06:48:40",
   "data": [
     {
-      "title": "FIN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FIN",
-      "pubdate": "Thu, 28 Mar 2024 12:00:00 +1300"
+      "title": "Good Friday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Good%20Friday",
+      "pubdate": "Thu, 28 Mar 2024 19:00:00 +1300"
     },
     {
-      "title": "Easter bunny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Easter%20bunny",
+      "title": "Easter Bunny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Easter%20Bunny",
       "pubdate": "Thu, 28 Mar 2024 13:00:00 +1300"
-    },
-    {
-      "title": "Verity Johnson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Verity%20Johnson",
-      "pubdate": "Thu, 28 Mar 2024 12:00:00 +1300"
     },
     {
       "title": "Hot cross bun recipe",
@@ -27,9 +22,19 @@
       "pubdate": "Thu, 28 Mar 2024 13:00:00 +1300"
     },
     {
+      "title": "Bible",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bible",
+      "pubdate": "Thu, 28 Mar 2024 18:00:00 +1300"
+    },
+    {
       "title": "Sanitarium",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sanitarium",
       "pubdate": "Thu, 28 Mar 2024 12:00:00 +1300"
+    },
+    {
+      "title": "Gray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gray",
+      "pubdate": "Thu, 28 Mar 2024 19:00:00 +1300"
     },
     {
       "title": "England vs Belgium",
@@ -55,6 +60,11 @@
       "title": "TIFF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TIFF",
       "pubdate": "Wed, 27 Mar 2024 11:00:00 +1300"
+    },
+    {
+      "title": "Penny Simmonds",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Penny%20Simmonds",
+      "pubdate": "Wed, 27 Mar 2024 13:00:00 +1300"
     },
     {
       "title": "Ronna McDaniel",
@@ -90,16 +100,6 @@
       "title": "Coronation Street",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coronation%20Street",
       "pubdate": "Wed, 27 Mar 2024 17:00:00 +1300"
-    },
-    {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
-      "pubdate": "Wed, 27 Mar 2024 21:00:00 +1300"
-    },
-    {
-      "title": "Bucks vs Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bucks%20vs%20Lakers",
-      "pubdate": "Wed, 27 Mar 2024 19:00:00 +1300"
     }
   ]
 }
