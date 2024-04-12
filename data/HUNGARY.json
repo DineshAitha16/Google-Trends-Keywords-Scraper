@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2024 , 15:40:36",
+  "lastUpdate": "12-04-2024 , 15:50:40",
   "data": [
     {
       "title": "Gulyás Gergely",
@@ -37,11 +37,6 @@
       "pubdate": "Fri, 12 Apr 2024 13:00:00 +0200"
     },
     {
-      "title": "Sarka Kata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sarka%20Kata",
-      "pubdate": "Fri, 12 Apr 2024 08:00:00 +0200"
-    },
-    {
       "title": "L.L. Junior",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L.L.%20Junior",
       "pubdate": "Fri, 12 Apr 2024 06:00:00 +0200"
@@ -60,6 +55,11 @@
       "title": "Kormányinfó",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
       "pubdate": "Thu, 11 Apr 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Fallout",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fallout",
+      "pubdate": "Thu, 11 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "LEVERKUSEN–WEST HAM",

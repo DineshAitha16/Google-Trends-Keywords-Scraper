@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2024 , 15:40:39",
+  "lastUpdate": "12-04-2024 , 15:50:44",
   "data": [
     {
       "title": "Fallout",
@@ -47,9 +47,14 @@
       "pubdate": "Fri, 12 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "PGE ekstraliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGE%20ekstraliga",
+      "title": "PGE Ekstraliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGE%20Ekstraliga",
       "pubdate": "Fri, 12 Apr 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Park Boram",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Park%20Boram",
+      "pubdate": "Fri, 12 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Gorzów Wielkopolski",
@@ -92,14 +97,9 @@
       "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Jarosław Kaczyński",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kaczy%C5%84ski",
-      "pubdate": "Thu, 11 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Bilety Puchar Polski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bilety%20Puchar%20Polski",
-      "pubdate": "Thu, 11 Apr 2024 14:00:00 +0200"
+      "title": "Marta Lempart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marta%20Lempart",
+      "pubdate": "Thu, 11 Apr 2024 19:00:00 +0200"
     }
   ]
 }

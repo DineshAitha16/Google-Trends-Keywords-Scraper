@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2024 , 15:40:32",
+  "lastUpdate": "12-04-2024 , 15:50:36",
   "data": [
     {
       "title": "Celtics",
@@ -12,9 +12,9 @@
       "pubdate": "Fri, 12 Apr 2024 06:00:00 -0700"
     },
     {
-      "title": "Red Wings",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Red%20Wings",
-      "pubdate": "Fri, 12 Apr 2024 04:00:00 -0700"
+      "title": "Pelicans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pelicans",
+      "pubdate": "Fri, 12 Apr 2024 06:00:00 -0700"
     },
     {
       "title": "We Still Don't Trust You",
@@ -22,9 +22,19 @@
       "pubdate": "Fri, 12 Apr 2024 02:00:00 -0700"
     },
     {
+      "title": "Red Wings",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Red%20Wings",
+      "pubdate": "Fri, 12 Apr 2024 04:00:00 -0700"
+    },
+    {
       "title": "Jason Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jason%20Day",
       "pubdate": "Fri, 12 Apr 2024 06:00:00 -0700"
+    },
+    {
+      "title": "Kris Jenner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kris%20Jenner",
+      "pubdate": "Fri, 12 Apr 2024 02:00:00 -0700"
     },
     {
       "title": "Prostate cancer",
@@ -42,8 +52,8 @@
       "pubdate": "Thu, 11 Apr 2024 05:00:00 -0700"
     },
     {
-      "title": "Masters leaderboard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Masters%20leaderboard",
+      "title": "Masters 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Masters%202024",
       "pubdate": "Thu, 11 Apr 2024 06:00:00 -0700"
     },
     {
@@ -59,22 +69,17 @@
     {
       "title": "Bryson DeChambeau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bryson%20DeChambeau",
-      "pubdate": "Thu, 11 Apr 2024 12:00:00 -0700"
+      "pubdate": "Thu, 11 Apr 2024 11:00:00 -0700"
+    },
+    {
+      "title": "Jack Nicklaus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jack%20Nicklaus",
+      "pubdate": "Thu, 11 Apr 2024 02:00:00 -0700"
     },
     {
       "title": "National Pet Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20Pet%20Day",
       "pubdate": "Thu, 11 Apr 2024 09:00:00 -0700"
-    },
-    {
-      "title": "Bridgerton Season 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bridgerton%20Season%203",
-      "pubdate": "Thu, 11 Apr 2024 17:00:00 -0700"
-    },
-    {
-      "title": "Frozen Four",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frozen%20Four",
-      "pubdate": "Thu, 11 Apr 2024 15:00:00 -0700"
     },
     {
       "title": "Tom Brady",
@@ -95,11 +100,6 @@
       "title": "Ben McLemore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ben%20McLemore",
       "pubdate": "Thu, 11 Apr 2024 00:00:00 -0700"
-    },
-    {
-      "title": "Morgan Stanley wealth management",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Morgan%20Stanley%20wealth%20management",
-      "pubdate": "Thu, 11 Apr 2024 23:00:00 -0700"
     }
   ]
 }
