@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2024 , 00:45:28",
+  "lastUpdate": "07-05-2024 , 01:43:08",
   "data": [
     {
       "title": "Magda Gessler",
@@ -12,13 +12,13 @@
       "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
     },
     {
-      "title": "1984",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#1984",
-      "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
+      "title": "Vogue MET Gala 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vogue%20MET%20Gala%202024",
+      "pubdate": "Tue, 07 May 2024 01:00:00 +0200"
     },
     {
-      "title": "Vogue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vogue",
+      "title": "1984",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#1984",
       "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
     },
     {
@@ -57,6 +57,11 @@
       "pubdate": "Mon, 06 May 2024 12:00:00 +0200"
     },
     {
+      "title": "Wakacje kredytowe 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wakacje%20kredytowe%202024",
+      "pubdate": "Mon, 06 May 2024 13:00:00 +0200"
+    },
+    {
       "title": "Pogoń Szczecin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogo%C5%84%20Szczecin",
       "pubdate": "Mon, 06 May 2024 20:00:00 +0200"
@@ -77,11 +82,6 @@
       "pubdate": "Mon, 06 May 2024 21:00:00 +0200"
     },
     {
-      "title": "Francja wysłała żołnierzy na Ukrainę",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Francja%20wys%C5%82a%C5%82a%20%C5%BCo%C5%82nierzy%20na%20Ukrain%C4%99",
-      "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
-    },
-    {
       "title": "Zapiski z wygnania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zapiski%20z%20wygnania",
       "pubdate": "Mon, 06 May 2024 21:00:00 +0200"
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Płaca minimalna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#P%C5%82aca%20minimalna",
-      "pubdate": "Mon, 06 May 2024 20:00:00 +0200"
+      "title": "Wesele",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wesele",
+      "pubdate": "Mon, 06 May 2024 21:00:00 +0200"
     }
   ]
 }
