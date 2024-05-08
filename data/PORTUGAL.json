@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2024 , 02:40:00",
+  "lastUpdate": "08-05-2024 , 02:50:16",
   "data": [
     {
       "title": "Corinthians",
@@ -57,6 +57,11 @@
       "pubdate": "Tue, 07 May 2024 00:00:00 +0100"
     },
     {
+      "title": "Vogue Met Gala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vogue%20Met%20Gala",
+      "pubdate": "Tue, 07 May 2024 00:00:00 +0100"
+    },
+    {
       "title": "Mona Patel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mona%20Patel",
       "pubdate": "Tue, 07 May 2024 14:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sabrina%20Carpenter",
       "pubdate": "Tue, 07 May 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Lagoa dos Patos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lagoa%20dos%20Patos",
-      "pubdate": "Tue, 07 May 2024 14:00:00 +0100"
     }
   ]
 }
