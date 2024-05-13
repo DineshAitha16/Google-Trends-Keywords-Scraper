@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2024 , 15:52:11",
+  "lastUpdate": "13-05-2024 , 16:12:02",
   "data": [
     {
       "title": "Bayern München",
@@ -47,19 +47,9 @@
       "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Gulyás márton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20m%C3%A1rton",
-      "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
-    },
-    {
       "title": "FTC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
       "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Lottó nyerőszámai Ötöslottó nyerőszámai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lott%C3%B3%20nyer%C5%91sz%C3%A1mai%20%C3%96t%C3%B6slott%C3%B3%20nyer%C5%91sz%C3%A1mai",
-      "pubdate": "Sun, 12 May 2024 05:00:00 +0200"
     },
     {
       "title": "PSG",
@@ -100,6 +90,16 @@
       "title": "Hertha BSC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hertha%20BSC",
       "pubdate": "Sun, 12 May 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Charlie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Charlie",
+      "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Választási vita",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1laszt%C3%A1si%20vita",
+      "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
     }
   ]
 }

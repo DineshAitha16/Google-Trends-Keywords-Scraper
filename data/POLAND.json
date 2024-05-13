@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2024 , 15:52:15",
+  "lastUpdate": "13-05-2024 , 16:12:06",
   "data": [
     {
       "title": "Siergiej Szojgu",
@@ -25,11 +25,6 @@
       "title": "Bytom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bytom",
       "pubdate": "Mon, 13 May 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Bytom pożar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bytom%20po%C5%BCar",
-      "pubdate": "Mon, 13 May 2024 11:00:00 +0200"
     },
     {
       "title": "Pożary w Polsce",
@@ -95,6 +90,11 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
       "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Lech Poznań",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lech%20Pozna%C5%84",
+      "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
     },
     {
       "title": "KSW",

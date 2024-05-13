@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2024 , 15:52:08",
+  "lastUpdate": "13-05-2024 , 16:11:57",
   "data": [
     {
       "title": "FC Bayern",
@@ -52,6 +52,11 @@
       "pubdate": "Mon, 13 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Muttertag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Muttertag",
+      "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
+    },
+    {
       "title": "LASK gegen Sturm Graz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20gegen%20Sturm%20Graz",
       "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
@@ -72,11 +77,6 @@
       "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Philipp Jelinek krone.tv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philipp%20Jelinek%20krone.tv",
-      "pubdate": "Sun, 12 May 2024 11:00:00 +0200"
-    },
-    {
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
       "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
@@ -87,19 +87,19 @@
       "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
     },
     {
-      "title": "BVB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BVB",
-      "pubdate": "Sun, 12 May 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Gefragt - Gejagt Klaus Otto Nagorsnik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gefragt%20-%20Gejagt%20Klaus%20Otto%20Nagorsnik",
-      "pubdate": "Sun, 12 May 2024 08:00:00 +0200"
+      "title": "Philipp Jelinek krone.tv",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philipp%20Jelinek%20krone.tv",
+      "pubdate": "Sun, 12 May 2024 11:00:00 +0200"
     },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal",
       "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
+    },
+    {
+      "title": "BVB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BVB",
+      "pubdate": "Sun, 12 May 2024 07:00:00 +0200"
     }
   ]
 }

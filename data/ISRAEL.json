@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2024 , 15:52:12",
+  "lastUpdate": "13-05-2024 , 16:12:03",
   "data": [
     {
       "title": "אורן זמיר",
@@ -77,6 +77,11 @@
       "pubdate": "Sun, 12 May 2024 14:00:00 +0300"
     },
     {
+      "title": "הרצי הלוי",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A8%D7%A6%D7%99%20%D7%94%D7%9C%D7%95%D7%99",
+      "pubdate": "Sun, 12 May 2024 21:00:00 +0300"
+    },
+    {
       "title": "נועה מרציאנו",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%95%D7%A2%D7%94%20%D7%9E%D7%A8%D7%A6%D7%99%D7%90%D7%A0%D7%95",
       "pubdate": "Sun, 12 May 2024 19:00:00 +0300"
@@ -92,13 +97,8 @@
       "pubdate": "Sun, 12 May 2024 19:00:00 +0300"
     },
     {
-      "title": "מתכון עם זיכרון",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%AA%D7%9B%D7%95%D7%9F%20%D7%A2%D7%9D%20%D7%96%D7%99%D7%9B%D7%A8%D7%95%D7%9F",
-      "pubdate": "Sun, 12 May 2024 16:00:00 +0300"
-    },
-    {
-      "title": "נועה קירל",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%95%D7%A2%D7%94%20%D7%A7%D7%99%D7%A8%D7%9C",
+      "title": "אירועי יום העצמאות 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%20%D7%99%D7%95%D7%9D%20%D7%94%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA%202024",
       "pubdate": "Sun, 12 May 2024 15:00:00 +0300"
     }
   ]

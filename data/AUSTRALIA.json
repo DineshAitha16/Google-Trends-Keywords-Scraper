@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "13-05-2024 , 15:52:08",
+  "lastUpdate": "13-05-2024 , 16:11:57",
   "data": [
     {
       "title": "Jerry Seinfeld",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jerry%20Seinfeld",
       "pubdate": "Tue, 14 May 2024 00:00:00 +1000"
+    },
+    {
+      "title": "Katz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katz",
+      "pubdate": "Mon, 13 May 2024 02:00:00 +1000"
     },
     {
       "title": "Arsenal",
@@ -95,11 +100,6 @@
       "title": "Childish Gambino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Childish%20Gambino",
       "pubdate": "Mon, 13 May 2024 22:00:00 +1000"
-    },
-    {
-      "title": "La Roche-Posay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20Roche-Posay",
-      "pubdate": "Mon, 13 May 2024 16:00:00 +1000"
     }
   ]
 }

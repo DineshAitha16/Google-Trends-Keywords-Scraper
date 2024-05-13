@@ -1,1 +1,1 @@
-ΤΖΟΚΕΡ,Καιροσ ΘΕΣΣΑΛΟΝΙΚΗ,Εθνικη τραπεζα,Gov.gr,ACS,Capital,Vodafone,Ete,LinkedIn,ΑΣΕΠ,Nova,Gov,Η Γη της ελιασ,Ligue 1,TEE,myDATA,Alpha,Σεισμοσ τωρα,Σεργκέι Σοϊγκού,Σκοπια
+ΤΖΟΚΕΡ,Εθνικη τραπεζα,Gov.gr,ACS,Capital,Vodafone,Ete,LinkedIn,ΑΣΕΠ,Nova,Gov,Η Γη της ελιασ,Σκοπια,Ligue 1,TEE,myDATA,Alpha,Σεισμοσ τωρα,Σεργκέι Σοϊγκού,Τελικοσ κυπελλου

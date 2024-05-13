@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "13-05-2024 , 15:52:12",
+  "lastUpdate": "13-05-2024 , 16:12:03",
   "data": [
     {
       "title": "Sveva Alviti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sveva%20Alviti",
       "pubdate": "Mon, 13 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Lorella Cuccarini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorella%20Cuccarini",
+      "pubdate": "Mon, 13 May 2024 00:00:00 +0200"
     },
     {
       "title": "Madonna di Fatima",
@@ -95,11 +100,6 @@
       "title": "Fiorentina-Monza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina-Monza",
       "pubdate": "Mon, 13 May 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Francesco Renga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesco%20Renga",
-      "pubdate": "Mon, 13 May 2024 14:00:00 +0200"
     }
   ]
 }

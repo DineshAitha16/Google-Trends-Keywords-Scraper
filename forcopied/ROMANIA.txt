@@ -1,1 +1,1 @@
-WhatsApp,Maps,ANAF,Raiffeisen,BCR,PPC,ZF,Andrei Belousov,Electrica,Ani,MedLife,U Cluj,Radio,CEC Bank,Accident Podul Basarab,Curs euro,Hermannstadt,Bayern,CSM,AEP
+WhatsApp,Maps,ANAF,Raiffeisen,BCR,PPC,Andrei Belousov,Electrica,Ani,MedLife,U Cluj,Radio,CEC Bank,Accident Podul Basarab,Curs euro,Hermannstadt,Bayern,CSM,AEP,Virgin Radio
