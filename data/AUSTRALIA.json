@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 00:00:06",
+  "lastUpdate": "24-05-2024 , 01:24:22",
   "data": [
     {
       "title": "SAP",
@@ -40,6 +40,11 @@
       "title": "Bulldogs vs Sydney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs%20vs%20Sydney",
       "pubdate": "Thu, 23 May 2024 20:00:00 +1000"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
+      "pubdate": "Thu, 23 May 2024 06:00:00 +1000"
     },
     {
       "title": "Nvidia share price",
@@ -95,11 +100,6 @@
       "title": "Kyrie Irving",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kyrie%20Irving",
       "pubdate": "Thu, 23 May 2024 13:00:00 +1000"
-    },
-    {
-      "title": "Barry Davis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barry%20Davis",
-      "pubdate": "Thu, 23 May 2024 20:00:00 +1000"
     }
   ]
 }

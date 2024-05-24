@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 00:00:13",
+  "lastUpdate": "24-05-2024 , 01:24:29",
   "data": [
     {
       "title": "West Indies vs South Africa",
@@ -32,11 +32,6 @@
       "pubdate": "Thu, 23 May 2024 19:00:00 +1200"
     },
     {
-      "title": "GeoNet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
-      "pubdate": "Thu, 23 May 2024 02:00:00 +1200"
-    },
-    {
       "title": "RCB vs RR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RCB%20vs%20RR",
       "pubdate": "Thu, 23 May 2024 06:00:00 +1200"
@@ -55,11 +50,6 @@
       "title": "Dunedin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dunedin",
       "pubdate": "Thu, 23 May 2024 23:00:00 +1200"
-    },
-    {
-      "title": "Earthquake Wellington",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20Wellington",
-      "pubdate": "Thu, 23 May 2024 03:00:00 +1200"
     },
     {
       "title": "Rob Penney",
@@ -99,6 +89,16 @@
     {
       "title": "Charlie Colin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Charlie%20Colin",
+      "pubdate": "Thu, 23 May 2024 23:00:00 +1200"
+    },
+    {
+      "title": "Avian influenza Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Avian%20influenza%20Australia",
+      "pubdate": "Thu, 23 May 2024 20:00:00 +1200"
+    },
+    {
+      "title": "Supper",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Supper",
       "pubdate": "Thu, 23 May 2024 23:00:00 +1200"
     }
   ]
