@@ -1,9 +1,29 @@
 {
-  "lastUpdate": "02-06-2024 , 00:45:10",
+  "lastUpdate": "02-06-2024 , 01:51:42",
   "data": [
     {
-      "title": "Fluminense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Djokovic",
+      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Brasileirão Série a",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasileir%C3%A3o%20S%C3%A9rie%20a",
+      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Inter Miami  St. Louis City SC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami%20%20St.%20Louis%20City%20SC",
+      "pubdate": "Sun, 02 Jun 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Francisco Paupério",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Francisco%20Paup%C3%A9rio",
+      "pubdate": "Sun, 02 Jun 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Dani Carvajal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dani%20Carvajal",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0100"
     },
     {
@@ -22,6 +42,11 @@
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0100"
     },
     {
+      "title": "Bancada Estádio Universitário Lisboa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bancada%20Est%C3%A1dio%20Universit%C3%A1rio%20Lisboa",
+      "pubdate": "Sat, 01 Jun 2024 18:00:00 +0100"
+    },
+    {
       "title": "Lenny Kravitz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lenny%20Kravitz",
       "pubdate": "Sat, 01 Jun 2024 20:00:00 +0100"
@@ -30,11 +55,6 @@
       "title": "Sergio Godinho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sergio%20Godinho",
       "pubdate": "Sat, 01 Jun 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Estadio universitario Lisboa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estadio%20universitario%20Lisboa",
-      "pubdate": "Sat, 01 Jun 2024 18:00:00 +0100"
     },
     {
       "title": "Saul",
@@ -52,9 +72,9 @@
       "pubdate": "Sat, 01 Jun 2024 03:00:00 +0100"
     },
     {
-      "title": "Corinthians",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
-      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0100"
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
+      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0100"
     },
     {
       "title": "Kate",
@@ -62,19 +82,9 @@
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0100"
     },
     {
-      "title": "Marco Paulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marco%20Paulo",
-      "pubdate": "Sat, 01 Jun 2024 16:00:00 +0100"
-    },
-    {
       "title": "Complemento Solidário para Idosos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Complemento%20Solid%C3%A1rio%20para%20Idosos",
       "pubdate": "Sat, 01 Jun 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Eminem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eminem",
-      "pubdate": "Sat, 01 Jun 2024 00:00:00 +0100"
     },
     {
       "title": "Coala Festival",
@@ -82,24 +92,14 @@
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0100"
     },
     {
-      "title": "Courtois",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Courtois",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0100"
-    },
-    {
       "title": "Zverev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zverev",
       "pubdate": "Sat, 01 Jun 2024 20:00:00 +0100"
     },
     {
-      "title": "Agata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agata",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Sabalenka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sabalenka",
-      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0100"
+      "title": "Eminem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eminem",
+      "pubdate": "Sat, 01 Jun 2024 00:00:00 +0100"
     }
   ]
 }
