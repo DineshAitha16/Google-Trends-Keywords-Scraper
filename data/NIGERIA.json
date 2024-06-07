@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "07-06-2024 , 00:53:00",
+  "lastUpdate": "07-06-2024 , 01:57:14",
   "data": [
+    {
+      "title": "Ethereum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ethereum",
+      "pubdate": "Fri, 07 Jun 2024 01:00:00 +0100"
+    },
     {
       "title": "Mali vs Ghana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mali%20vs%20Ghana",
@@ -17,9 +22,14 @@
       "pubdate": "Thu, 06 Jun 2024 17:00:00 +0100"
     },
     {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nvidia",
-      "pubdate": "Thu, 06 Jun 2024 09:00:00 +0100"
+      "title": "NIBSS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NIBSS",
+      "pubdate": "Thu, 06 Jun 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Minimum wage news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Minimum%20wage%20news",
+      "pubdate": "Thu, 06 Jun 2024 11:00:00 +0100"
     },
     {
       "title": "Under Paris",
@@ -90,16 +100,6 @@
       "title": "France",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France",
       "pubdate": "Wed, 05 Jun 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Tosin Adarabioyo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tosin%20Adarabioyo",
-      "pubdate": "Wed, 05 Jun 2024 12:00:00 +0100"
-    },
-    {
-      "title": "World Environment Day 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#World%20Environment%20Day%202024",
-      "pubdate": "Wed, 05 Jun 2024 10:00:00 +0100"
     }
   ]
 }

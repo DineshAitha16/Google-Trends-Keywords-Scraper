@@ -1,1 +1,1 @@
-Zverev,Putin,Alexander Zverev,SpaceX,Nvidia,Laura Siegemund,Jonathan Tah,Matthias Reim,Swiatek,EZB-Zinsentscheid,The Acolyte,D-Day,D-Day,TU Berlin, Geraldine Rauch,Zverev,De Minaur,Kafka,Nagelsmann,Lars Windhorst,DFB
+Zverev,SpaceX,Zverev French Open,Nvidia,Laura Siegemund,Jonathan Tah,Matthias Reim,Swiatek,EZB zinsentscheid,D-Day,TU Berlin, Geraldine Rauch,Zverev,De Minaur,Kafka,Nagelsmann,Lars Windhorst,DFB,Manfred Wolke,Polizei,FTI

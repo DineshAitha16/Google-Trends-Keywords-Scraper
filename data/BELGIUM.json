@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "07-06-2024 , 00:52:53",
+  "lastUpdate": "07-06-2024 , 01:57:07",
   "data": [
-    {
-      "title": "BRUZZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BRUZZ",
-      "pubdate": "Fri, 07 Jun 2024 00:00:00 +0200"
-    },
     {
       "title": "Pays-Bas – Canada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pays-Bas%20%E2%80%93%20Canada",
@@ -22,14 +17,14 @@
       "pubdate": "Thu, 06 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Il faut sauver le soldat Ryan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Il%20faut%20sauver%20le%20soldat%20Ryan",
-      "pubdate": "Thu, 06 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
       "pubdate": "Thu, 06 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Il faut sauver le soldat Ryan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Il%20faut%20sauver%20le%20soldat%20Ryan",
+      "pubdate": "Thu, 06 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "SpaceX",
@@ -87,11 +82,6 @@
       "pubdate": "Thu, 06 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Biden",
-      "pubdate": "Thu, 06 Jun 2024 15:00:00 +0200"
-    },
-    {
       "title": "Georges-Louis Bouchez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Georges-Louis%20Bouchez",
       "pubdate": "Thu, 06 Jun 2024 22:00:00 +0200"
@@ -100,6 +90,16 @@
       "title": "Raymond",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Raymond",
       "pubdate": "Thu, 06 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Colleville-sur-Mer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Colleville-sur-Mer",
+      "pubdate": "Thu, 06 Jun 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Belgium",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgium",
+      "pubdate": "Thu, 06 Jun 2024 12:00:00 +0200"
     }
   ]
 }
