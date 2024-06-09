@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-06-2024 , 18:57:19",
+  "lastUpdate": "09-06-2024 , 19:15:06",
   "data": [
     {
       "title": "India vs Pakistan",
@@ -52,19 +52,14 @@
       "pubdate": "Sat, 08 Jun 2024 18:00:00 -0700"
     },
     {
-      "title": "México  Brasil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#M%C3%A9xico%20%20Brasil",
-      "pubdate": "Sat, 08 Jun 2024 17:00:00 -0700"
+      "title": "Caitlin Clark",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Caitlin%20Clark",
+      "pubdate": "Sat, 08 Jun 2024 11:00:00 -0700"
     },
     {
       "title": "Noa Argamani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Noa%20Argamani",
       "pubdate": "Sat, 08 Jun 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Iga Swiatek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iga%20Swiatek",
-      "pubdate": "Sat, 08 Jun 2024 14:00:00 -0700"
     },
     {
       "title": "Ryan Garcia",
@@ -100,6 +95,11 @@
       "title": "Phillies vs Mets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phillies%20vs%20Mets",
       "pubdate": "Sat, 08 Jun 2024 17:00:00 -0700"
+    },
+    {
+      "title": "Portugal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Portugal",
+      "pubdate": "Sat, 08 Jun 2024 14:00:00 -0700"
     }
   ]
 }

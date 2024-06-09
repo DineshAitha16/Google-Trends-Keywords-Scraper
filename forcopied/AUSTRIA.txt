@@ -1,1 +1,1 @@
-EU-Wahl Hochrechnung,Europawahl,Sebastian Kurz,Neos,Vilimsky,Michael Mosley,Wahllokale Öffnungszeiten,Andreas Schieder,Su-57,Grüne,Mondfisch,Helene Fischer,Alisha Lehmann,Eu parlament,BSW,Van der Bellen,Autoball EM 2024,H.P. Baxxter,Hartberg,iVote
+Europawahl,Sebastian Kurz,Vilimsky,Michael Mosley,Wahllokale Öffnungszeiten,Su-57,Grüne,Mondfisch,Helene Fischer,Alisha Lehmann,Eu parlament,Van der Bellen,Autoball EM 2024,H.P. Baxxter,iVote,Ralf Rangnick,Philipp Mickenbecker,Eddie Hall,Tirol,EU-Wahl österreich
