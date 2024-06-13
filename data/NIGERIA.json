@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 03:22:49",
+  "lastUpdate": "13-06-2024 , 03:34:26",
   "data": [
     {
       "title": "Malawi",
@@ -12,9 +12,14 @@
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0100"
     },
     {
-      "title": "Netherlands",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Netherlands",
-      "pubdate": "Tue, 11 Jun 2024 02:00:00 +0100"
+      "title": "June 12 holiday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#June%2012%20holiday",
+      "pubdate": "Tue, 11 Jun 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Ben Potter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ben%20Potter",
+      "pubdate": "Tue, 11 Jun 2024 11:00:00 +0100"
     },
     {
       "title": "CBN",
@@ -22,9 +27,9 @@
       "pubdate": "Tue, 11 Jun 2024 11:00:00 +0100"
     },
     {
-      "title": "Ben Potter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ben%20Potter",
-      "pubdate": "Tue, 11 Jun 2024 11:00:00 +0100"
+      "title": "Netherlands",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Netherlands",
+      "pubdate": "Tue, 11 Jun 2024 02:00:00 +0100"
     },
     {
       "title": "Michael Rainey Jr",
@@ -94,11 +99,6 @@
     {
       "title": "Rangers vs Enyimba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers%20vs%20Enyimba",
-      "pubdate": "Sun, 09 Jun 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Carlos%20Alcaraz",
       "pubdate": "Sun, 09 Jun 2024 19:00:00 +0100"
     }
   ]
