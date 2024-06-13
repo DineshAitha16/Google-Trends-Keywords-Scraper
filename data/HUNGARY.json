@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-06-2024 , 06:42:02",
+  "lastUpdate": "13-06-2024 , 06:52:11",
   "data": [
+    {
+      "title": "Hundred Sins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hundred%20Sins",
+      "pubdate": "Tue, 11 Jun 2024 01:00:00 +0200"
+    },
     {
       "title": "Vecsei H. Miklós",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vecsei%20H.%20Mikl%C3%B3s",
@@ -52,14 +57,9 @@
       "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "iOS 18",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iOS%2018",
-      "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
-    },
-    {
-      "title": "24.hu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#24.hu",
-      "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
+      "title": "Tiszapárt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tiszap%C3%A1rt",
+      "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Fővárosi Közgyűlés összetétele",
@@ -67,14 +67,19 @@
       "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
     },
     {
+      "title": "24.hu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#24.hu",
+      "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
+    },
+    {
       "title": "24",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#24",
       "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "MBH",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MBH",
-      "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
+      "title": "Apple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Apple",
+      "pubdate": "Mon, 10 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Miskolc",
@@ -82,23 +87,18 @@
       "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
     },
     {
+      "title": "MBH",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MBH",
+      "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
+    },
+    {
       "title": "Origo.hu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Origo.hu",
       "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "444.hu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#444.hu",
-      "pubdate": "Mon, 10 Jun 2024 03:00:00 +0200"
-    },
-    {
       "title": "Friss hírek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Friss%20h%C3%ADrek",
-      "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Németh Szilárd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9meth%20Szil%C3%A1rd",
       "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
     }
   ]
