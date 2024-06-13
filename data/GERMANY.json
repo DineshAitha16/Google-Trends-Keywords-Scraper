@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 17:37:07",
+  "lastUpdate": "13-06-2024 , 17:47:23",
   "data": [
     {
       "title": "BVB",
@@ -37,14 +37,14 @@
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "DFB-Pokal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-      "pubdate": "Thu, 13 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Xavier Naidoo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xavier%20Naidoo",
       "pubdate": "Thu, 13 Jun 2024 15:00:00 +0200"
+    },
+    {
+      "title": "DFB-Pokal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+      "pubdate": "Thu, 13 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Döbeln",
