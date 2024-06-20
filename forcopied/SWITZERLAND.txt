@@ -1,1 +1,1 @@
-McDonald's,Courbevoie,Zeki Amdouni,Ilkay Gündogan,FC Lugano,Albanien Kroatien,Suisse Ecosse,Albanie Croatie,Kinderfest St.Gallen,Allemagne-Hongrie,Yann Sommer,Rodriguez,Akanji,SRF Play,Nvidia,Toni Kroos,Dintikon,Vollmond,Manuel Neuer,Schweinsteiger
+McDonald's,Sports,Ilkay Gündogan,Courbevoie,Zeki Amdouni,FC Lugano,Schweiz Schottland,Albanien Kroatien,SRF Sport,Albanie Croatie,Allemagne-Hongrie,Kinderfest St.Gallen,Fabian Schär,Yann Sommer,Schweiz,Rodriguez,Akanji,SRF Play,Nvidia,Dan Ndoye
