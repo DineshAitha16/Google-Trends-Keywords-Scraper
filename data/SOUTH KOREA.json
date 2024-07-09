@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-07-2024 , 23:44:21",
+  "lastUpdate": "09-07-2024 , 23:54:45",
   "data": [
+    {
+      "title": "스페인 프랑스",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8A%A4%ED%8E%98%EC%9D%B8%20%ED%94%84%EB%9E%91%EC%8A%A4",
+      "pubdate": "Wed, 10 Jul 2024 04:00:00 +0900"
+    },
     {
       "title": "음주운전 연예인 40대",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84%20%EC%97%B0%EC%98%88%EC%9D%B8%2040%EB%8C%80",
@@ -47,11 +52,6 @@
       "pubdate": "Tue, 09 Jul 2024 21:00:00 +0900"
     },
     {
-      "title": "최동석",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EB%8F%99%EC%84%9D",
-      "pubdate": "Tue, 09 Jul 2024 23:00:00 +0900"
-    },
-    {
       "title": "맥키넌",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A5%ED%82%A4%EB%84%8C",
       "pubdate": "Tue, 09 Jul 2024 21:00:00 +0900"
@@ -72,6 +72,16 @@
       "pubdate": "Tue, 09 Jul 2024 18:00:00 +0900"
     },
     {
+      "title": "이진숙",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A7%84%EC%88%99",
+      "pubdate": "Tue, 09 Jul 2024 03:00:00 +0900"
+    },
+    {
+      "title": "애쉬 아일랜드 임신",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%A0%EC%89%AC%20%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%20%EC%9E%84%EC%8B%A0",
+      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0900"
+    },
+    {
       "title": "현아 용준형",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%98%84%EC%95%84%20%EC%9A%A9%EC%A4%80%ED%98%95",
       "pubdate": "Mon, 08 Jul 2024 13:00:00 +0900"
@@ -82,24 +92,14 @@
       "pubdate": "Mon, 08 Jul 2024 20:00:00 +0900"
     },
     {
+      "title": "이임생",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9E%84%EC%83%9D",
+      "pubdate": "Mon, 08 Jul 2024 01:00:00 +0900"
+    },
+    {
       "title": "탄핵",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%83%84%ED%95%B5",
       "pubdate": "Mon, 08 Jul 2024 21:00:00 +0900"
-    },
-    {
-      "title": "임성근",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%84%EC%84%B1%EA%B7%BC",
-      "pubdate": "Mon, 08 Jul 2024 18:00:00 +0900"
-    },
-    {
-      "title": "연판장",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%B0%ED%8C%90%EC%9E%A5",
-      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0900"
-    },
-    {
-      "title": "프랑스 총선",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%94%84%EB%9E%91%EC%8A%A4%20%EC%B4%9D%EC%84%A0",
-      "pubdate": "Mon, 08 Jul 2024 13:00:00 +0900"
     }
   ]
 }
