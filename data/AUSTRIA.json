@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 00:31:52",
+  "lastUpdate": "14-07-2024 , 01:53:46",
   "data": [
     {
       "title": "Andreas Gabalier",
@@ -7,13 +7,18 @@
       "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Michelle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michelle",
-      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+      "title": "Richard Simmons",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Richard%20Simmons",
+      "pubdate": "Sun, 14 Jul 2024 03:00:00 +0200"
     },
     {
-      "title": "Starnacht am Wörthersee",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Starnacht%20am%20W%C3%B6rthersee",
+      "title": "Copa America Finale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Copa%20America%20Finale",
+      "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Michelle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michelle",
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
     },
     {
@@ -37,6 +42,11 @@
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
     },
     {
+      "title": "Schöneberger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sch%C3%B6neberger",
+      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+    },
+    {
       "title": "Semino Rossi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Semino%20Rossi",
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
@@ -55,6 +65,11 @@
       "title": "Abnehmspritze",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Abnehmspritze",
       "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Ben Zucker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ben%20Zucker",
+      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Eric Philippi",
@@ -85,21 +100,6 @@
       "title": "Pogacar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pogacar",
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "RB17",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB17",
-      "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Mohammed Deif",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mohammed%20Deif",
-      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
-      "pubdate": "Fri, 12 Jul 2024 16:00:00 +0200"
     }
   ]
 }
