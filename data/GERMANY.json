@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "15-07-2024 , 07:46:39",
+  "lastUpdate": "15-07-2024 , 07:57:04",
   "data": [
     {
-      "title": "Messi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
+      "title": "Copa America",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Copa%20America",
       "pubdate": "Mon, 15 Jul 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Fussball EM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20EM",
+      "pubdate": "Mon, 15 Jul 2024 03:00:00 +0200"
     },
     {
       "title": "Argentinien",
@@ -42,13 +47,18 @@
       "pubdate": "Sun, 14 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Cucurella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cucurella",
+      "title": "Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
       "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Dani Olmo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dani%20Olmo",
+      "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Cucurella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cucurella",
       "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
     },
     {
@@ -65,11 +75,6 @@
       "title": "Baden-Württemberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baden-W%C3%BCrttemberg",
       "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Kane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
-      "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Helene Fischer",
@@ -95,11 +100,6 @@
       "title": "Unwetter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
       "pubdate": "Sat, 13 Jul 2024 04:00:00 +0200"
-    },
-    {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biden",
-      "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
     }
   ]
 }
