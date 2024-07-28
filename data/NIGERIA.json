@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "28-07-2024 , 00:33:45",
+  "lastUpdate": "28-07-2024 , 01:53:44",
   "data": [
     {
       "title": "Man city",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20city",
       "pubdate": "Sun, 28 Jul 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Football Olympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Football%20Olympics",
+      "pubdate": "Sun, 28 Jul 2024 01:00:00 +0100"
     },
     {
       "title": "Skateboarding Olympics",
@@ -17,19 +22,19 @@
       "pubdate": "Sat, 27 Jul 2024 11:00:00 +0100"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea",
+      "title": "Arsenal vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Man%20United",
+      "pubdate": "Sat, 27 Jul 2024 04:00:00 +0100"
+    },
+    {
+      "title": "Man City vs Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Milan",
       "pubdate": "Sat, 27 Jul 2024 23:00:00 +0100"
     },
     {
       "title": "Liverpool vs Real Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Real%20Betis",
       "pubdate": "Sat, 27 Jul 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Man City vs Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Milan",
-      "pubdate": "Sat, 27 Jul 2024 23:00:00 +0100"
     },
     {
       "title": "Vissel Kobe vs Tottenham",
@@ -40,11 +45,6 @@
       "title": "Chelsea FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20FC",
       "pubdate": "Sat, 27 Jul 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Arsenal vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Man%20United",
-      "pubdate": "Sat, 27 Jul 2024 04:00:00 +0100"
     },
     {
       "title": "Celine Dion",
@@ -77,11 +77,6 @@
       "pubdate": "Sat, 27 Jul 2024 20:00:00 +0100"
     },
     {
-      "title": "Olympics 2024 schedule and results",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Olympics%202024%20schedule%20and%20results",
-      "pubdate": "Sat, 27 Jul 2024 23:00:00 +0100"
-    },
-    {
       "title": "India vs Sri Lanka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#India%20vs%20Sri%20Lanka",
       "pubdate": "Sat, 27 Jul 2024 20:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "NNPC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NNPC",
       "pubdate": "Fri, 26 Jul 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Sinaloa Cartel Ismael Zambada Garcia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sinaloa%20Cartel%20Ismael%20Zambada%20Garcia",
+      "pubdate": "Fri, 26 Jul 2024 21:00:00 +0100"
     }
   ]
 }

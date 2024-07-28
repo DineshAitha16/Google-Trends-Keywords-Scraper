@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "28-07-2024 , 00:33:47",
+  "lastUpdate": "28-07-2024 , 01:53:46",
   "data": [
     {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
       "pubdate": "Sun, 28 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "OS-handboll 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OS-handboll%202024",
+      "pubdate": "Sun, 28 Jul 2024 00:00:00 +0200"
     },
     {
       "title": "Babulfath",
@@ -27,19 +32,14 @@
       "pubdate": "Sat, 27 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "OS idag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OS%20idag",
-      "pubdate": "Sat, 27 Jul 2024 15:00:00 +0200"
-    },
-    {
       "title": "Stefan Larsson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stefan%20Larsson",
       "pubdate": "Sat, 27 Jul 2024 10:00:00 +0200"
     },
     {
-      "title": "Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nadal",
-      "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
+      "title": "Judo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Judo",
+      "pubdate": "Sat, 27 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "IFK Norrköping",
@@ -47,14 +47,9 @@
       "pubdate": "Sat, 27 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "UFC 304",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20304",
-      "pubdate": "Sat, 27 Jul 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Andreas Palicka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Palicka",
-      "pubdate": "Sat, 27 Jul 2024 20:00:00 +0200"
+      "title": "Disney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Disney",
+      "pubdate": "Sat, 27 Jul 2024 23:00:00 +0200"
     },
     {
       "title": "Sotenäs",
@@ -97,9 +92,14 @@
       "pubdate": "Fri, 26 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Frankrike",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frankrike",
-      "pubdate": "Fri, 26 Jul 2024 22:00:00 +0200"
+      "title": "Ice Spice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ice%20Spice",
+      "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "OS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OS",
+      "pubdate": "Thu, 25 Jul 2024 23:00:00 +0200"
     }
   ]
 }
