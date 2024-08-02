@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-08-2024 , 23:53:10",
+  "lastUpdate": "02-08-2024 , 00:52:50",
   "data": [
+    {
+      "title": "Surfing olympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Surfing%20olympics",
+      "pubdate": "Thu, 01 Aug 2024 00:30:00 +0530"
+    },
     {
       "title": "Anshuman Gaekwad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anshuman%20Gaekwad",
@@ -22,6 +27,11 @@
       "pubdate": "Thu, 01 Aug 2024 15:30:00 +0530"
     },
     {
+      "title": "Nikhat Zareen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nikhat%20Zareen",
+      "pubdate": "Thu, 01 Aug 2024 15:30:00 +0530"
+    },
+    {
       "title": "Yusuf dikeç",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Yusuf%20dike%C3%A7",
       "pubdate": "Thu, 01 Aug 2024 13:30:00 +0530"
@@ -32,19 +42,9 @@
       "pubdate": "Thu, 01 Aug 2024 05:30:00 +0530"
     },
     {
-      "title": "Shivratri 2024 Sawan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shivratri%202024%20Sawan",
-      "pubdate": "Thu, 01 Aug 2024 17:30:00 +0530"
-    },
-    {
       "title": "Infosys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Infosys",
       "pubdate": "Thu, 01 Aug 2024 10:30:00 +0530"
-    },
-    {
-      "title": "Delhi Rain",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20Rain",
-      "pubdate": "Thu, 01 Aug 2024 02:30:00 +0530"
     },
     {
       "title": "Wayanad death toll",
@@ -52,9 +52,9 @@
       "pubdate": "Thu, 01 Aug 2024 09:30:00 +0530"
     },
     {
-      "title": "Fed meeting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Fed%20meeting",
-      "pubdate": "Thu, 01 Aug 2024 00:30:00 +0530"
+      "title": "Delhi Rain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20Rain",
+      "pubdate": "Thu, 01 Aug 2024 02:30:00 +0530"
     },
     {
       "title": "Satwiksairaj Rankireddy",
@@ -64,6 +64,11 @@
     {
       "title": "Moto Edge 50",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Moto%20Edge%2050",
+      "pubdate": "Thu, 01 Aug 2024 17:30:00 +0530"
+    },
+    {
+      "title": "Sawan Shivratri 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sawan%20Shivratri%202024",
       "pubdate": "Thu, 01 Aug 2024 17:30:00 +0530"
     },
     {
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 01 Aug 2024 10:30:00 +0530"
     },
     {
-      "title": "POCO M6 Plus 5G",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#POCO%20M6%20Plus%205G",
+      "title": "Poco M6 Plus 5G",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Poco%20M6%20Plus%205G",
       "pubdate": "Thu, 01 Aug 2024 20:30:00 +0530"
     },
     {
       "title": "Cricket",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
       "pubdate": "Wed, 31 Jul 2024 05:30:00 +0530"
-    },
-    {
-      "title": "PV Sindhu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PV%20Sindhu",
-      "pubdate": "Wed, 31 Jul 2024 14:30:00 +0530"
     }
   ]
 }
