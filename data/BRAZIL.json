@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2024 , 18:46:31",
+  "lastUpdate": "12-08-2024 , 18:56:49",
   "data": [
     {
       "title": "Delfim Netto",
@@ -7,14 +7,19 @@
       "pubdate": "Mon, 12 Aug 2024 06:00:00 -0500"
     },
     {
-      "title": "CNU",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNU",
+      "title": "Concurso unificado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Concurso%20unificado",
       "pubdate": "Mon, 12 Aug 2024 09:00:00 -0500"
     },
     {
-      "title": "15 de agosto feriado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#15%20de%20agosto%20feriado",
-      "pubdate": "Mon, 12 Aug 2024 05:00:00 -0500"
+      "title": "Vini Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vini%20Jr",
+      "pubdate": "Mon, 12 Aug 2024 11:00:00 -0500"
+    },
+    {
+      "title": "Aeroporto de Florianópolis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aeroporto%20de%20Florian%C3%B3polis",
+      "pubdate": "Mon, 12 Aug 2024 11:00:00 -0500"
     },
     {
       "title": "Greve onibus Recife",
@@ -27,19 +32,14 @@
       "pubdate": "Mon, 12 Aug 2024 11:00:00 -0500"
     },
     {
-      "title": "Monte Verde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monte%20Verde",
-      "pubdate": "Mon, 12 Aug 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Vini Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vini%20Jr",
-      "pubdate": "Mon, 12 Aug 2024 11:00:00 -0500"
-    },
-    {
       "title": "Luciano Huck",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciano%20Huck",
       "pubdate": "Mon, 12 Aug 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Monte Verde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monte%20Verde",
+      "pubdate": "Mon, 12 Aug 2024 10:00:00 -0500"
     },
     {
       "title": "ITR 2024",
@@ -47,9 +47,24 @@
       "pubdate": "Mon, 12 Aug 2024 10:00:00 -0500"
     },
     {
-      "title": "Aeroporto de Florianópolis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aeroporto%20de%20Florian%C3%B3polis",
-      "pubdate": "Mon, 12 Aug 2024 11:00:00 -0500"
+      "title": "Cristina Pereira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cristina%20Pereira",
+      "pubdate": "Mon, 12 Aug 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Greve Correios",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Greve%20Correios",
+      "pubdate": "Mon, 12 Aug 2024 12:00:00 -0500"
+    },
+    {
+      "title": "Areia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Areia",
+      "pubdate": "Mon, 12 Aug 2024 10:00:00 -0500"
+    },
+    {
+      "title": "Cebolinha Flamengo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cebolinha%20Flamengo",
+      "pubdate": "Mon, 12 Aug 2024 12:00:00 -0500"
     },
     {
       "title": "Flamengo x Palmeiras",
@@ -67,14 +82,14 @@
       "pubdate": "Sun, 11 Aug 2024 09:00:00 -0500"
     },
     {
+      "title": "Sao Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+      "pubdate": "Sun, 11 Aug 2024 22:00:00 -0500"
+    },
+    {
       "title": "Bahia x EC Vitória",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20EC%20Vit%C3%B3ria",
       "pubdate": "Sun, 11 Aug 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Mensagem Dia dos Pais",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mensagem%20Dia%20dos%20Pais",
-      "pubdate": "Sun, 11 Aug 2024 04:00:00 -0500"
     },
     {
       "title": "Internacional x Athletico-PR",
@@ -85,21 +100,6 @@
       "title": "Tom Cruise",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tom%20Cruise",
       "pubdate": "Sun, 11 Aug 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Libertadores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertadores",
-      "pubdate": "Sun, 11 Aug 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Coritiba",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba",
-      "pubdate": "Sun, 11 Aug 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Liverpool x Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool%20x%20Sevilla",
-      "pubdate": "Sun, 11 Aug 2024 07:00:00 -0500"
     }
   ]
 }
