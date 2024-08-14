@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2024 , 00:32:45",
+  "lastUpdate": "14-08-2024 , 01:50:03",
   "data": [
     {
       "title": "Marie Antoinette",
@@ -15,11 +15,6 @@
       "title": "Mpox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mpox",
       "pubdate": "Tue, 13 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Abacus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Abacus",
-      "pubdate": "Tue, 13 Aug 2024 10:00:00 +0200"
     },
     {
       "title": "Duolingo",
@@ -45,11 +40,6 @@
       "title": "Docs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
       "pubdate": "Mon, 12 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "OneDrive",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OneDrive",
-      "pubdate": "Mon, 12 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Snoop Dogg",
@@ -100,6 +90,16 @@
       "title": "Santorini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Santorini",
       "pubdate": "Mon, 12 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Rachael Lillis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rachael%20Lillis",
+      "pubdate": "Mon, 12 Aug 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Leon Marchand",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leon%20Marchand",
+      "pubdate": "Mon, 12 Aug 2024 01:00:00 +0200"
     }
   ]
 }

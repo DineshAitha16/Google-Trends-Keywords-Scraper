@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "14-08-2024 , 00:32:49",
+  "lastUpdate": "14-08-2024 , 01:50:07",
   "data": [
+    {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami",
+      "pubdate": "Wed, 14 Aug 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Tracy Chapman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tracy%20Chapman",
+      "pubdate": "Wed, 14 Aug 2024 01:00:00 +0100"
+    },
     {
       "title": "Aduke Gold",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aduke%20Gold",
@@ -27,9 +37,9 @@
       "pubdate": "Tue, 13 Aug 2024 12:00:00 +0100"
     },
     {
-      "title": "3MTT",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#3MTT",
-      "pubdate": "Tue, 13 Aug 2024 09:00:00 +0100"
+      "title": "Omoni Oboli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omoni%20Oboli",
+      "pubdate": "Tue, 13 Aug 2024 22:00:00 +0100"
     },
     {
       "title": "Tom Brady",
@@ -37,34 +47,19 @@
       "pubdate": "Tue, 13 Aug 2024 19:00:00 +0100"
     },
     {
-      "title": "Omoni Oboli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omoni%20Oboli",
-      "pubdate": "Tue, 13 Aug 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
-      "pubdate": "Tue, 13 Aug 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Kola Adesina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kola%20Adesina",
-      "pubdate": "Tue, 13 Aug 2024 02:00:00 +0100"
-    },
-    {
       "title": "Luis Diaz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luis%20Diaz",
       "pubdate": "Tue, 13 Aug 2024 18:00:00 +0100"
     },
     {
-      "title": "Cole Palmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cole%20Palmer",
-      "pubdate": "Tue, 13 Aug 2024 20:00:00 +0100"
-    },
-    {
       "title": "Skai Jackson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Skai%20Jackson",
       "pubdate": "Tue, 13 Aug 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Cole Palmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cole%20Palmer",
+      "pubdate": "Tue, 13 Aug 2024 20:00:00 +0100"
     },
     {
       "title": "Fenerbahce",
@@ -92,14 +87,19 @@
       "pubdate": "Mon, 12 Aug 2024 03:00:00 +0100"
     },
     {
+      "title": "Super Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Super%20Cup",
+      "pubdate": "Mon, 12 Aug 2024 23:00:00 +0100"
+    },
+    {
       "title": "Peter Okoye",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peter%20Okoye",
       "pubdate": "Mon, 12 Aug 2024 13:00:00 +0100"
     },
     {
-      "title": "Super Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Super%20Cup",
-      "pubdate": "Mon, 12 Aug 2024 23:00:00 +0100"
+      "title": "Nico Williams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nico%20Williams",
+      "pubdate": "Mon, 12 Aug 2024 00:00:00 +0100"
     }
   ]
 }
