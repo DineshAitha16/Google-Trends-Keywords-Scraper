@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2024 , 00:32:33",
+  "lastUpdate": "18-08-2024 , 01:53:48",
   "data": [
     {
       "title": "Ali Koç",
@@ -22,6 +22,16 @@
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0300"
     },
     {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#UFC",
+      "pubdate": "Sun, 18 Aug 2024 04:00:00 +0300"
+    },
+    {
+      "title": "Mahsun Kırmızıgül",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mahsun%20K%C4%B1rm%C4%B1z%C4%B1g%C3%BCl",
+      "pubdate": "Sun, 18 Aug 2024 03:00:00 +0300"
+    },
+    {
       "title": "Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benfica",
       "pubdate": "Sun, 18 Aug 2024 01:00:00 +0300"
@@ -32,18 +42,18 @@
       "pubdate": "Sun, 18 Aug 2024 01:00:00 +0300"
     },
     {
+      "title": "Alex Moreno",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alex%20Moreno",
+      "pubdate": "Sun, 18 Aug 2024 03:00:00 +0300"
+    },
+    {
       "title": "Tuncay Akça",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tuncay%20Ak%C3%A7a",
       "pubdate": "Sat, 17 Aug 2024 14:00:00 +0300"
     },
     {
-      "title": "Sivasspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivasspor",
-      "pubdate": "Sat, 17 Aug 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Adana Demirspor,  Rizespor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20Demirspor,%20%20Rizespor",
+      "title": "Adana Demirspor' Rizespor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20Demirspor'%20Rizespor",
       "pubdate": "Sat, 17 Aug 2024 22:00:00 +0300"
     },
     {
@@ -72,6 +82,11 @@
       "pubdate": "Sat, 17 Aug 2024 08:00:00 +0300"
     },
     {
+      "title": "Kayserispor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor",
+      "pubdate": "Sat, 17 Aug 2024 17:00:00 +0300"
+    },
+    {
       "title": "17 Ağustos Depremi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#17%20A%C4%9Fustos%20Depremi",
       "pubdate": "Sat, 17 Aug 2024 00:00:00 +0300"
@@ -85,21 +100,6 @@
       "title": "Ansu Fati",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ansu%20Fati",
       "pubdate": "Sat, 17 Aug 2024 02:00:00 +0300"
-    },
-    {
-      "title": "Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter",
-      "pubdate": "Sat, 17 Aug 2024 20:00:00 +0300"
-    },
-    {
-      "title": "Wanda Nara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Wanda%20Nara",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Milan",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0300"
     }
   ]
 }

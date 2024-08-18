@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2024 , 00:32:23",
+  "lastUpdate": "18-08-2024 , 01:53:40",
   "data": [
     {
       "title": "Austria Klagenfurt – Sturm Graz",
@@ -9,6 +9,11 @@
     {
       "title": "Leverkusen – VfB Stuttgart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20%E2%80%93%20VfB%20Stuttgart",
+      "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "LASK – RB Salzburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20%E2%80%93%20RB%20Salzburg",
       "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
     },
     {
@@ -32,24 +37,14 @@
       "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "RWE – RB Leipzig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RWE%20%E2%80%93%20RB%20Leipzig",
-      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-    },
-    {
-      "title": "LASK Salzburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20Salzburg",
-      "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
-    },
-    {
       "title": "Nusantara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nusantara",
       "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Clueso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Clueso",
-      "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
+      "title": "Thorsten Legat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Thorsten%20Legat",
+      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
     },
     {
       "title": "Elena Miras",
@@ -77,6 +72,16 @@
       "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
     },
     {
+      "title": "GAK vs Blau-Weiß Linz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK%20vs%20Blau-Wei%C3%9F%20Linz",
+      "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Stirb langsam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stirb%20langsam",
+      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "Cro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cro",
       "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Matterhorn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Matterhorn",
       "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Petra Schaper Rinkel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Petra%20Schaper%20Rinkel",
-      "pubdate": "Sat, 17 Aug 2024 23:00:00 +0200"
     }
   ]
 }

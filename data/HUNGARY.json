@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2024 , 00:32:27",
+  "lastUpdate": "18-08-2024 , 01:53:43",
   "data": [
     {
       "title": "Leverkusen",
@@ -17,11 +17,6 @@
       "pubdate": "Sat, 17 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Arsenal–wolverhampton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93wolverhampton",
-      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-    },
-    {
       "title": "Dvsc–diósgyőr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dvsc%E2%80%93di%C3%B3sgy%C5%91r",
       "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
@@ -32,6 +27,11 @@
       "pubdate": "Sat, 17 Aug 2024 08:00:00 +0200"
     },
     {
+      "title": "Arsenal–wolverhampton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93wolverhampton",
+      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
+    },
+    {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
       "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
@@ -39,7 +39,7 @@
     {
       "title": "West ham–aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#West%20ham%E2%80%93aston%20Villa",
-      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
+      "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "PSG",
@@ -50,6 +50,16 @@
       "title": "Fernando Alonso",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fernando%20Alonso",
       "pubdate": "Sat, 17 Aug 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
+      "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Pl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pl",
+      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
     },
     {
       "title": "Sydney Sweeney",
@@ -90,16 +100,6 @@
       "title": "Sylvester Stallone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sylvester%20Stallone",
       "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "P. Mobil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P.%20Mobil",
-      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Kiss László óbuda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss%20L%C3%A1szl%C3%B3%20%C3%B3buda",
-      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
     }
   ]
 }
