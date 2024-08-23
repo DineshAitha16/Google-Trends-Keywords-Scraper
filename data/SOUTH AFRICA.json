@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-08-2024 , 22:44:51",
+  "lastUpdate": "23-08-2024 , 22:54:58",
   "data": [
+    {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
+      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
+    },
     {
       "title": "Orlando Pirates",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates",
@@ -22,9 +27,9 @@
       "pubdate": "Fri, 23 Aug 2024 15:00:00 +0200"
     },
     {
-      "title": "Mikel Merino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mikel%20Merino",
-      "pubdate": "Fri, 23 Aug 2024 01:00:00 +0200"
+      "title": "Leeds United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+      "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Kamala Harris",
@@ -32,19 +37,29 @@
       "pubdate": "Fri, 23 Aug 2024 18:00:00 +0200"
     },
     {
+      "title": "Mikel Merino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mikel%20Merino",
+      "pubdate": "Fri, 23 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Sporting cp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sporting%20cp",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "Carlo Radebe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlo%20Radebe",
       "pubdate": "Fri, 23 Aug 2024 09:00:00 +0200"
     },
     {
-      "title": "Leeds United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
-      "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sabrina%20Carpenter",
       "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Sheffield Wednesday vs Leeds United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sheffield%20Wednesday%20vs%20Leeds%20United",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Jermaine Jenas",
@@ -57,9 +72,9 @@
       "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
     },
     {
-      "title": "Longlegs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Longlegs",
-      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
+      "title": "SABC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SABC",
+      "pubdate": "Fri, 23 Aug 2024 23:00:00 +0200"
     },
     {
       "title": "The Crow",
@@ -67,8 +82,8 @@
       "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
     },
     {
-      "title": "Ilkay Gündoğan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ilkay%20G%C3%BCndo%C4%9Fan",
+      "title": "Ilkay gündoğan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ilkay%20g%C3%BCndo%C4%9Fan",
       "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
     },
     {
@@ -85,21 +100,6 @@
       "title": "Ndlozi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ndlozi",
       "pubdate": "Thu, 22 Aug 2024 05:00:00 +0200"
-    },
-    {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr",
-      "pubdate": "Thu, 22 Aug 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Chelsea FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
-      "pubdate": "Thu, 22 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jesus Shroud of Turin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jesus%20Shroud%20of%20Turin",
-      "pubdate": "Thu, 22 Aug 2024 09:00:00 +0200"
     }
   ]
 }
