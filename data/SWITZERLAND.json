@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-09-2024 , 00:41:00",
+  "lastUpdate": "01-09-2024 , 02:13:21",
   "data": [
+    {
+      "title": "Sol Bamba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sol%20Bamba",
+      "pubdate": "Sun, 01 Sep 2024 02:00:00 +0200"
+    },
     {
       "title": "Rebecca Balestra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rebecca%20Balestra",
@@ -32,14 +37,14 @@
       "pubdate": "Sat, 31 Aug 2024 09:00:00 +0200"
     },
     {
-      "title": "UTMB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UTMB",
-      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
-    },
-    {
       "title": "Fatman Scoop",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fatman%20Scoop",
       "pubdate": "Sat, 31 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "UTMB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UTMB",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
     },
     {
       "title": "FC Sion",
@@ -47,9 +52,9 @@
       "pubdate": "Sat, 31 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Sporting  Porto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting%20%20Porto",
-      "pubdate": "Sat, 31 Aug 2024 21:00:00 +0200"
+      "title": "Young Boys – Lausanne-Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Young%20Boys%20%E2%80%93%20Lausanne-Sport",
+      "pubdate": "Sat, 31 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Barcelona – Valladolid",
@@ -62,14 +67,14 @@
       "pubdate": "Sat, 31 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Ticketmaster",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ticketmaster",
-      "pubdate": "Sat, 31 Aug 2024 09:00:00 +0200"
-    },
-    {
       "title": "Barcelone – Valladolid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelone%20%E2%80%93%20Valladolid",
       "pubdate": "Sat, 31 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Ticketmaster",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ticketmaster",
+      "pubdate": "Sat, 31 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Leverkusen – RB Leipzig",
@@ -77,29 +82,24 @@
       "pubdate": "Sat, 31 Aug 2024 19:00:00 +0200"
     },
     {
-      "title": "Blauzungenkrankheit Schweiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit%20Schweiz",
-      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
-    },
-    {
       "title": "Meret Schneider",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meret%20Schneider",
       "pubdate": "Sat, 31 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "YB Lausanne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB%20Lausanne",
+      "title": "Sporting  Porto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting%20%20Porto",
       "pubdate": "Sat, 31 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Ben Shelton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben%20Shelton",
-      "pubdate": "Sat, 31 Aug 2024 00:00:00 +0200"
+      "title": "Blauzungenkrankheit Schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit%20Schweiz",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Klewenalp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klewenalp",
-      "pubdate": "Sat, 31 Aug 2024 17:00:00 +0200"
+      "title": "Sido",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sido",
+      "pubdate": "Sat, 31 Aug 2024 19:00:00 +0200"
     }
   ]
 }
