@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "07-09-2024 , 00:35:02",
+  "lastUpdate": "07-09-2024 , 01:53:44",
   "data": [
-    {
-      "title": "Linkin Park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linkin%20Park",
-      "pubdate": "Fri, 06 Sep 2024 01:00:00 +0200"
-    },
     {
       "title": "Airpower 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Airpower%202024",
       "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Linkin Park",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linkin%20Park",
+      "pubdate": "Fri, 06 Sep 2024 01:00:00 +0200"
     },
     {
       "title": "Harvey Weinstein",
@@ -92,14 +92,14 @@
       "pubdate": "Fri, 06 Sep 2024 07:00:00 +0200"
     },
     {
-      "title": "Türkei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei",
-      "pubdate": "Fri, 06 Sep 2024 21:00:00 +0200"
+      "title": "RBI-Aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RBI-Aktie",
+      "pubdate": "Fri, 06 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Nosferatu-Spinne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nosferatu-Spinne",
-      "pubdate": "Fri, 06 Sep 2024 19:00:00 +0200"
+      "title": "Alex Morgan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alex%20Morgan",
+      "pubdate": "Fri, 06 Sep 2024 09:00:00 +0200"
     }
   ]
 }
