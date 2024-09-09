@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 00:35:40",
+  "lastUpdate": "09-09-2024 , 02:02:55",
   "data": [
     {
       "title": "Romania Lituania",
@@ -17,8 +17,8 @@
       "pubdate": "Sun, 08 Sep 2024 09:00:00 +0300"
     },
     {
-      "title": "Elveția  Spania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elve%C8%9Bia%20%20Spania",
+      "title": "Elveția  - Spania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elve%C8%9Bia%20%20-%20Spania",
       "pubdate": "Sun, 08 Sep 2024 21:00:00 +0300"
     },
     {
@@ -72,6 +72,11 @@
       "pubdate": "Sun, 08 Sep 2024 00:00:00 +0300"
     },
     {
+      "title": "Georgescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgescu",
+      "pubdate": "Sun, 08 Sep 2024 23:00:00 +0300"
+    },
+    {
       "title": "Macron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Macron",
       "pubdate": "Sun, 08 Sep 2024 11:00:00 +0300"
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 08 Sep 2024 19:00:00 +0300"
     },
     {
-      "title": "Sfanta Maria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfanta%20Maria",
+      "title": "8 septembrie sarbatoare",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#8%20septembrie%20sarbatoare",
       "pubdate": "Sat, 07 Sep 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Digi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi",
-      "pubdate": "Sat, 07 Sep 2024 10:00:00 +0300"
     }
   ]
 }

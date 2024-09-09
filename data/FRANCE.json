@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 00:35:34",
+  "lastUpdate": "09-09-2024 , 02:02:50",
   "data": [
     {
       "title": "Daft Punk",
@@ -7,9 +7,9 @@
       "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Hugo Auradou",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Auradou",
-      "pubdate": "Mon, 09 Sep 2024 01:00:00 +0200"
+      "title": "Jeux paralympiques",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeux%20paralympiques",
+      "pubdate": "Sun, 08 Sep 2024 00:00:00 +0200"
     },
     {
       "title": "Portugal – Écosse",
@@ -17,14 +17,14 @@
       "pubdate": "Sun, 08 Sep 2024 20:00:00 +0200"
     },
     {
+      "title": "Adjani",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adjani",
+      "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
+    },
+    {
       "title": "Suisse – Espagne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Suisse%20%E2%80%93%20Espagne",
       "pubdate": "Sun, 08 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Isabelle Adjani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Adjani",
-      "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "Sabalenka",
@@ -32,14 +32,14 @@
       "pubdate": "Sun, 08 Sep 2024 02:00:00 +0200"
     },
     {
-      "title": "Grenoble",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble",
-      "pubdate": "Sun, 08 Sep 2024 15:00:00 +0200"
-    },
-    {
       "title": "Vannes Toulouse Rugby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vannes%20Toulouse%20Rugby",
       "pubdate": "Sun, 08 Sep 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Grenoble",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble",
+      "pubdate": "Sun, 08 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Martin Solveig",
@@ -62,6 +62,11 @@
       "pubdate": "Sun, 08 Sep 2024 11:00:00 +0200"
     },
     {
+      "title": "Radio Nova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Radio%20Nova",
+      "pubdate": "Sun, 08 Sep 2024 19:00:00 +0200"
+    },
+    {
       "title": "Trombe marine",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trombe%20marine",
       "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
@@ -70,11 +75,6 @@
       "title": "Marine Le Pen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
       "pubdate": "Sun, 08 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Daniel Auteuil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Daniel%20Auteuil",
-      "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Cassius",
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Vannes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vannes",
-      "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
+      "title": "UBB-Stade Français",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB-Stade%20Fran%C3%A7ais",
+      "pubdate": "Sun, 08 Sep 2024 00:00:00 +0200"
     }
   ]
 }
