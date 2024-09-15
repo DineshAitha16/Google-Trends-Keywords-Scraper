@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "14-09-2024 , 23:59:25",
+  "lastUpdate": "15-09-2024 , 01:54:18",
   "data": [
-    {
-      "title": "Laura Wontorra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Laura%20Wontorra",
-      "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
-    },
     {
       "title": "Springfield",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Springfield",
       "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
+      "pubdate": "Sun, 15 Sep 2024 03:00:00 +0200"
     },
     {
       "title": "Stefan Raab",
@@ -27,6 +27,16 @@
       "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Holstein – Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Holstein%20%E2%80%93%20Bayern",
+      "pubdate": "Sat, 14 Sep 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Vevey-Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vevey-Sport",
+      "pubdate": "Sat, 14 Sep 2024 19:00:00 +0200"
+    },
+    {
       "title": "FC Paradiso",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Paradiso",
       "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
@@ -37,34 +47,24 @@
       "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "FC Winterthur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
-      "pubdate": "Sat, 14 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Vevey-Sports – Young Boys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vevey-Sports%20%E2%80%93%20Young%20Boys",
-      "pubdate": "Sat, 14 Sep 2024 19:00:00 +0200"
-    },
-    {
       "title": "Günter Netzer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#G%C3%BCnter%20Netzer",
       "pubdate": "Sat, 14 Sep 2024 07:00:00 +0200"
     },
     {
-      "title": "Formel 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201",
+      "title": "Formel-1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1",
       "pubdate": "Sat, 14 Sep 2024 07:00:00 +0200"
+    },
+    {
+      "title": "FC Winterthur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
+      "pubdate": "Sat, 14 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
       "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-      "pubdate": "Sat, 14 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Benfica",
@@ -75,6 +75,11 @@
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
       "pubdate": "Sat, 14 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+      "pubdate": "Sat, 14 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Michaela DePrince",
@@ -95,11 +100,6 @@
       "title": "OM",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM",
       "pubdate": "Sat, 14 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Bundesliga-Spiele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesliga-Spiele",
-      "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
     }
   ]
 }

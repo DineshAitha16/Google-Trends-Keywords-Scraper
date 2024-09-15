@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2024 , 23:59:24",
+  "lastUpdate": "15-09-2024 , 01:54:17",
   "data": [
     {
       "title": "AC Milan",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 15 Sep 2024 00:00:00 +0300"
     },
     {
+      "title": "Sinaloa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sinaloa",
+      "pubdate": "Sun, 15 Sep 2024 04:00:00 +0300"
+    },
+    {
       "title": "Petrolul  Farul Constanța",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul%20%20Farul%20Constan%C8%9Ba",
       "pubdate": "Sat, 14 Sep 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
-      "pubdate": "Sat, 14 Sep 2024 01:00:00 +0300"
     },
     {
       "title": "Gloria Buzău - Oțelul",
@@ -37,11 +37,6 @@
       "pubdate": "Sat, 14 Sep 2024 14:00:00 +0300"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20City",
-      "pubdate": "Sat, 14 Sep 2024 18:00:00 +0300"
-    },
-    {
       "title": "Aaron Boupendza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aaron%20Boupendza",
       "pubdate": "Sat, 14 Sep 2024 09:00:00 +0300"
@@ -50,6 +45,11 @@
       "title": "Mircea geoana Traian basescu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20geoana%20Traian%20basescu",
       "pubdate": "Sat, 14 Sep 2024 11:00:00 +0300"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
+      "pubdate": "Sat, 14 Sep 2024 15:00:00 +0300"
     },
     {
       "title": "Galatasaray  Rizespor",
@@ -62,11 +62,6 @@
       "pubdate": "Sat, 14 Sep 2024 09:00:00 +0300"
     },
     {
-      "title": "Barlad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barlad",
-      "pubdate": "Sat, 14 Sep 2024 12:00:00 +0300"
-    },
-    {
       "title": "Fly Lili",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fly%20Lili",
       "pubdate": "Sat, 14 Sep 2024 23:00:00 +0300"
@@ -75,11 +70,6 @@
       "title": "Cinema",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cinema",
       "pubdate": "Sat, 14 Sep 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
-      "pubdate": "Sat, 14 Sep 2024 21:00:00 +0300"
     },
     {
       "title": "Jurilovca",
@@ -100,6 +90,16 @@
       "title": "Claudiu Petrila",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Claudiu%20Petrila",
       "pubdate": "Sat, 14 Sep 2024 12:00:00 +0300"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham",
+      "pubdate": "Sat, 14 Sep 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Irina Fodor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irina%20Fodor",
+      "pubdate": "Sat, 14 Sep 2024 16:00:00 +0300"
     }
   ]
 }
