@@ -1,1 +1,1 @@
-Fed rate announcement,MLSE,Severe thunderstorm warning,Keswick shooting,Shohei Ohtani,Mike Hoffman,PSG,Adrian Wojnarowski,Marc Miller,Mickey 17,Pablo Rodriguez,Hayden Panettiere,Tottenham,Connie Chung,Survivor,Toto' Schillaci,IRCC News,Bruce Willis,JD Souther,Nick Foligno
+Fed rate announcement,MLSE,Keswick,Connie Chung,Shohei Ohtani,Hayden Panettiere,Mike Hoffman,Adrian Wojnarowski,PGWP,PSG,Pablo Rodriguez,Survivor,Mickey 17,Tottenham,IRCC News,Toto' Schillaci,Inter Miami,JD Souther,Bruce Willis,Nick Foligno

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2024 , 00:42:09",
+  "lastUpdate": "19-09-2024 , 02:05:09",
   "data": [
     {
       "title": "UCL",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 19 Sep 2024 01:00:00 +1000"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
-      "pubdate": "Thu, 19 Sep 2024 07:00:00 +1000"
-    },
-    {
       "title": "Nova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nova",
       "pubdate": "Thu, 19 Sep 2024 06:00:00 +1000"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
+      "pubdate": "Thu, 19 Sep 2024 07:00:00 +1000"
     },
     {
       "title": "Fed rate decision",
@@ -27,6 +27,16 @@
       "pubdate": "Thu, 19 Sep 2024 00:00:00 +1000"
     },
     {
+      "title": "Hayden Panettiere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hayden%20Panettiere",
+      "pubdate": "Thu, 19 Sep 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Parkway Drive",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parkway%20Drive",
+      "pubdate": "Thu, 19 Sep 2024 07:00:00 +1000"
+    },
+    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
       "pubdate": "Thu, 19 Sep 2024 09:00:00 +1000"
@@ -35,6 +45,11 @@
       "title": "Hezbollah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hezbollah",
       "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
+      "pubdate": "Wed, 18 Sep 2024 11:00:00 +1000"
     },
     {
       "title": "Luke Combs Australia 2025",
@@ -72,34 +87,19 @@
       "pubdate": "Wed, 18 Sep 2024 09:00:00 +1000"
     },
     {
-      "title": "EFL Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EFL%20Cup",
-      "pubdate": "Wed, 18 Sep 2024 07:00:00 +1000"
-    },
-    {
       "title": "Tupperware",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tupperware",
       "pubdate": "Wed, 18 Sep 2024 20:00:00 +1000"
     },
     {
+      "title": "EFL Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EFL%20Cup",
+      "pubdate": "Wed, 18 Sep 2024 07:00:00 +1000"
+    },
+    {
       "title": "Bayern Munich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
       "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
-    },
-    {
-      "title": "The Office Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Office%20Australia",
-      "pubdate": "Wed, 18 Sep 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-      "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
-    },
-    {
-      "title": "Toto' Schillaci",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Toto'%20Schillaci",
-      "pubdate": "Wed, 18 Sep 2024 21:00:00 +1000"
     }
   ]
 }
