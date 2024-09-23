@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 00:46:01",
+  "lastUpdate": "23-09-2024 , 02:08:29",
   "data": [
     {
       "title": "Man City mot Arsenal",
@@ -47,6 +47,11 @@
       "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Daniel Ricciardo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniel%20Ricciardo",
+      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Cosmopolite",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cosmopolite",
       "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
@@ -55,6 +60,11 @@
       "title": "Astrid Uhrenholdt Jacobsen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20Uhrenholdt%20Jacobsen",
       "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "sykkel-VM 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#sykkel-VM%202024",
+      "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Lando Norris",
@@ -82,24 +92,14 @@
       "pubdate": "Sat, 21 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Meek VS Melhus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Meek%20VS%20Melhus",
+      "title": "Meslinger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Meslinger",
       "pubdate": "Sat, 21 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Fredrikstad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fredrikstad",
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-      "pubdate": "Sat, 21 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "YouTube premium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#YouTube%20premium",
-      "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
     }
   ]
 }

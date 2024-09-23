@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 00:46:02",
+  "lastUpdate": "23-09-2024 , 02:08:30",
   "data": [
     {
       "title": "Brandenburg",
@@ -7,18 +7,18 @@
       "pubdate": "Mon, 23 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "Farul Constanța - Sepsi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Farul%20Constan%C8%9Ba%20-%20Sepsi",
-      "pubdate": "Sun, 22 Sep 2024 16:00:00 +0300"
-    },
-    {
       "title": "„U” Cluj  Universitatea Craiova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%E2%80%9EU%E2%80%9D%20Cluj%20%20Universitatea%20Craiova",
       "pubdate": "Sun, 22 Sep 2024 19:00:00 +0300"
     },
     {
-      "title": "Villarreal - Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Villarreal%20-%20Barcelona",
+      "title": "Farul Constanța - Sepsi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Farul%20Constan%C8%9Ba%20-%20Sepsi",
+      "pubdate": "Sun, 22 Sep 2024 16:00:00 +0300"
+    },
+    {
+      "title": "Villarreal  Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Villarreal%20%20Barcelona",
       "pubdate": "Sun, 22 Sep 2024 19:00:00 +0300"
     },
     {
@@ -27,14 +27,14 @@
       "pubdate": "Sun, 22 Sep 2024 18:00:00 +0300"
     },
     {
-      "title": "Daniel Dubois",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20Dubois",
-      "pubdate": "Sun, 22 Sep 2024 04:00:00 +0300"
-    },
-    {
       "title": "Inter Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Milan",
       "pubdate": "Sun, 22 Sep 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Daniel Dubois",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20Dubois",
+      "pubdate": "Sun, 22 Sep 2024 04:00:00 +0300"
     },
     {
       "title": "Man. City",
@@ -47,6 +47,11 @@
       "pubdate": "Sun, 22 Sep 2024 19:00:00 +0300"
     },
     {
+      "title": "Daniel Ricciardo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20Ricciardo",
+      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0300"
+    },
+    {
       "title": "Steaua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
       "pubdate": "Sun, 22 Sep 2024 06:00:00 +0300"
@@ -57,11 +62,6 @@
       "pubdate": "Sun, 22 Sep 2024 01:00:00 +0300"
     },
     {
-      "title": "Daniel Ricciardo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20Ricciardo",
-      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0300"
-    },
-    {
       "title": "Klaus Iohannis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Klaus%20Iohannis",
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0300"
@@ -70,11 +70,6 @@
       "title": "CSM București",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20Bucure%C8%99ti",
       "pubdate": "Sun, 22 Sep 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Palatul Parlamentului",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Palatul%20Parlamentului",
-      "pubdate": "Sun, 22 Sep 2024 03:00:00 +0300"
     },
     {
       "title": "Brasov Running Festival",
@@ -100,6 +95,11 @@
       "title": "Tottenham - Brentford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20-%20Brentford",
       "pubdate": "Sat, 21 Sep 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Parma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma",
+      "pubdate": "Sat, 21 Sep 2024 22:00:00 +0300"
     }
   ]
 }

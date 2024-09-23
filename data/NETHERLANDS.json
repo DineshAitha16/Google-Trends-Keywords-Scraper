@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "23-09-2024 , 00:46:00",
+  "lastUpdate": "23-09-2024 , 02:08:29",
   "data": [
     {
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-      "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
+      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "PSV",
@@ -42,6 +42,11 @@
       "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Sneeuwval Zuid-Afrika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuwval%20Zuid-Afrika",
+      "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
+    },
+    {
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
       "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
@@ -52,6 +57,11 @@
       "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
     },
     {
+      "title": "Fortuna Sittard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
+      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Ajax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
@@ -60,11 +70,6 @@
       "title": "FC Utrecht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
       "pubdate": "Sat, 21 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Corinthians",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Corinthians",
-      "pubdate": "Sat, 21 Sep 2024 23:00:00 +0200"
     },
     {
       "title": "Junior Songfestival",
@@ -95,11 +100,6 @@
       "title": "Ihattaren",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ihattaren",
       "pubdate": "Thu, 19 Sep 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Schoof",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schoof",
-      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
     }
   ]
 }
