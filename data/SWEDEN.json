@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2024 , 00:38:38",
+  "lastUpdate": "26-09-2024 , 02:06:28",
   "data": [
     {
       "title": "Brand Göteborg",
@@ -17,11 +17,6 @@
       "pubdate": "Wed, 25 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Sirius AIK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20AIK",
-      "pubdate": "Wed, 25 Sep 2024 19:00:00 +0200"
-    },
-    {
       "title": "AIK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
       "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
@@ -30,6 +25,11 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
       "pubdate": "Wed, 25 Sep 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Sirius",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
+      "pubdate": "Wed, 25 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Bonde söker fru",
@@ -77,16 +77,6 @@
       "pubdate": "Wed, 25 Sep 2024 19:00:00 +0200"
     },
     {
-      "title": "SHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
-      "pubdate": "Tue, 24 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Rögle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
-      "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
-    },
-    {
       "title": "Marcellus Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcellus%20Williams",
       "pubdate": "Tue, 24 Sep 2024 21:00:00 +0200"
@@ -100,6 +90,16 @@
       "title": "Landskrona BoIS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landskrona%20BoIS",
       "pubdate": "Tue, 24 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Rögle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
+      "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "HV71",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
+      "pubdate": "Tue, 24 Sep 2024 21:00:00 +0200"
     }
   ]
 }
