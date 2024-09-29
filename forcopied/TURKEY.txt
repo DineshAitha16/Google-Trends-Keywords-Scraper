@@ -1,1 +1,1 @@
-Ediz Ün,Chelsea - Brighton,Benfica,Samsunspor,Newcastle United  Manchester City,Alanyaspor,Arsenal Leicester City,Bayern Münih,Levent Özdilek,Lübnan,Bandırmaspor  Ankaragücü,Heybeliada Ruhban Okulu,Inter,Antalyaspor,Yusuf Yazıcı,Tarık Taşar,Vanspor,Boluspor  Manisa FK,CHP'nin kedisi Şero,Bedri Usta kimdir
+Ediz Ün,Benfica,Chelsea - Brighton,Samsunspor,Alanyaspor,Manchester City,Bayern Münih,Lübnan,Levent Özdilek,Arsenal Leicester City,Bedri Usta,Heybeliada Ruhban Okulu,Inter,Antalyaspor,Yusuf Yazıcı,Tarık Taşar,Vanspor,Hakan Fidan,Boluspor  Manisa FK,CHP'nin kedisi Şero

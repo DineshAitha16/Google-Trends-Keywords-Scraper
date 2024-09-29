@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-09-2024 , 00:43:16",
+  "lastUpdate": "29-09-2024 , 02:14:07",
   "data": [
+    {
+      "title": "Botafogo  Grêmio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo%20%20Gr%C3%AAmio",
+      "pubdate": "Sun, 29 Sep 2024 02:00:00 +0100"
+    },
     {
       "title": "Osasuna  Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Osasuna%20%20Barcelona",
@@ -22,6 +27,11 @@
       "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
     },
     {
+      "title": "Palmeiras",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+      "pubdate": "Sat, 28 Sep 2024 23:00:00 +0100"
+    },
+    {
       "title": "Arsenal  Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20%20Leicester%20City",
       "pubdate": "Sat, 28 Sep 2024 16:00:00 +0100"
@@ -32,18 +42,18 @@
       "pubdate": "Sat, 28 Sep 2024 16:00:00 +0100"
     },
     {
-      "title": "Bayern  Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20%20Leverkusen",
-      "pubdate": "Sat, 28 Sep 2024 18:00:00 +0100"
-    },
-    {
       "title": "Genoa  Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Genoa%20%20Juventus",
       "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
     },
     {
-      "title": "Palmeiras  Atlético-MG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Atl%C3%A9tico-MG",
+      "title": "Bayern  Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20%20Leverkusen",
+      "pubdate": "Sat, 28 Sep 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Sport Lisboa e Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
       "pubdate": "Sat, 28 Sep 2024 23:00:00 +0100"
     },
     {
@@ -52,18 +62,18 @@
       "pubdate": "Sat, 28 Sep 2024 00:00:00 +0100"
     },
     {
-      "title": "Sport Lisboa e Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
-      "pubdate": "Sat, 28 Sep 2024 23:00:00 +0100"
-    },
-    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
       "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
     },
     {
-      "title": "Al Kholood,  Al-Hilal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Kholood,%20%20Al-Hilal",
+      "title": "Al Kholood  Al-Hilal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Kholood%20%20Al-Hilal",
+      "pubdate": "Sat, 28 Sep 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Acidente A25",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20A25",
       "pubdate": "Sat, 28 Sep 2024 20:00:00 +0100"
     },
     {
@@ -77,9 +87,9 @@
       "pubdate": "Sat, 28 Sep 2024 19:00:00 +0100"
     },
     {
-      "title": "Acidente A25",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20A25",
-      "pubdate": "Sat, 28 Sep 2024 20:00:00 +0100"
+      "title": "Ljubomir Stanisic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ljubomir%20Stanisic",
+      "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
     },
     {
       "title": "Benfica B",
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 28 Sep 2024 17:00:00 +0100"
     },
     {
-      "title": "Ljubomir Stanisic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ljubomir%20Stanisic",
-      "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
-    },
-    {
       "title": "Tondela  Académico de Viseu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tondela%20%20Acad%C3%A9mico%20de%20Viseu",
       "pubdate": "Sat, 28 Sep 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Joao Neves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Neves",
-      "pubdate": "Sat, 28 Sep 2024 08:00:00 +0100"
     }
   ]
 }
