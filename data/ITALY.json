@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2024 , 00:41:22",
+  "lastUpdate": "06-10-2024 , 02:13:32",
   "data": [
     {
       "title": "De Rossi",
@@ -7,8 +7,8 @@
       "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Atalanta  Genoa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta%20%20Genoa",
+      "title": "Atalanta-Genoa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta-Genoa",
       "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
@@ -19,6 +19,11 @@
     {
       "title": "D'Urso",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#D'Urso",
+      "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Real Madrid-Villarreal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid-Villarreal",
       "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
     },
     {
@@ -57,11 +62,6 @@
       "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid",
-      "pubdate": "Sat, 05 Oct 2024 23:00:00 +0200"
-    },
-    {
       "title": "Spezia Calcio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Spezia%20Calcio",
       "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
@@ -82,6 +82,11 @@
       "pubdate": "Sat, 05 Oct 2024 08:00:00 +0200"
     },
     {
+      "title": "Arsenal  Southampton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Arsenal%20%20Southampton",
+      "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
+    },
+    {
       "title": "Simona Cavallari",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Simona%20Cavallari",
       "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Giampaolo Morelli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giampaolo%20Morelli",
       "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Lady Gaga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lady%20Gaga",
-      "pubdate": "Sat, 05 Oct 2024 01:00:00 +0200"
     }
   ]
 }
