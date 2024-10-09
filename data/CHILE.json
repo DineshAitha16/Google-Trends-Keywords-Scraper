@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2024 , 00:37:58",
+  "lastUpdate": "09-10-2024 , 02:05:54",
   "data": [
     {
       "title": "Shakira en Chile",
@@ -25,6 +25,11 @@
       "title": "Bastián Bodenhöfer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Basti%C3%A1n%20Bodenh%C3%B6fer",
       "pubdate": "Tue, 08 Oct 2024 17:00:00 -0300"
+    },
+    {
+      "title": "Dia del Profesor de educacion fisica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Profesor%20de%20educacion%20fisica",
+      "pubdate": "Tue, 08 Oct 2024 20:00:00 -0300"
     },
     {
       "title": "Novak Djokovic",
@@ -57,9 +62,9 @@
       "pubdate": "Tue, 08 Oct 2024 14:00:00 -0300"
     },
     {
-      "title": "Dia del Profesor de educacion fisica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Profesor%20de%20educacion%20fisica",
-      "pubdate": "Tue, 08 Oct 2024 20:00:00 -0300"
+      "title": "Marcelo Salas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marcelo%20Salas",
+      "pubdate": "Tue, 08 Oct 2024 00:00:00 -0300"
     },
     {
       "title": "Subsidio de luz",
@@ -77,14 +82,14 @@
       "pubdate": "Mon, 07 Oct 2024 01:00:00 -0300"
     },
     {
-      "title": "CAE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CAE",
-      "pubdate": "Mon, 07 Oct 2024 22:00:00 -0300"
-    },
-    {
       "title": "Huracan Milton trayectoria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huracan%20Milton%20trayectoria",
       "pubdate": "Mon, 07 Oct 2024 23:00:00 -0300"
+    },
+    {
+      "title": "CAE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CAE",
+      "pubdate": "Mon, 07 Oct 2024 22:00:00 -0300"
     },
     {
       "title": "Curicó Unido  Santiago Wanderers",
@@ -95,11 +100,6 @@
       "title": "Dragon Ball: Sparking! Zero",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dragon%20Ball:%20Sparking!%20Zero",
       "pubdate": "Mon, 07 Oct 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Boca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
-      "pubdate": "Mon, 07 Oct 2024 01:00:00 -0300"
     }
   ]
 }
