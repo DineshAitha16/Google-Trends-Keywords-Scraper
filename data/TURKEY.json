@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-10-2024 , 00:41:01",
+  "lastUpdate": "10-10-2024 , 02:07:39",
   "data": [
     {
       "title": "George Baldock",
@@ -47,11 +47,6 @@
       "pubdate": "Wed, 09 Oct 2024 21:00:00 +0300"
     },
     {
-      "title": "Gökhan Dinç",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%B6khan%20Din%C3%A7",
-      "pubdate": "Wed, 09 Oct 2024 18:00:00 +0300"
-    },
-    {
       "title": "Özgür Özel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zg%C3%BCr%20%C3%96zel",
       "pubdate": "Wed, 09 Oct 2024 10:00:00 +0300"
@@ -70,6 +65,11 @@
       "title": "Özgür Çevik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zg%C3%BCr%20%C3%87evik",
       "pubdate": "Wed, 09 Oct 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Türkiye Kupası",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCrkiye%20Kupas%C4%B1",
+      "pubdate": "Wed, 09 Oct 2024 02:00:00 +0300"
     },
     {
       "title": "Osayi-Samuel",
