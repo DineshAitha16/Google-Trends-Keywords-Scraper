@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-10-2024 , 00:36:58",
+  "lastUpdate": "13-10-2024 , 02:11:35",
   "data": [
+    {
+      "title": "Portugália",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Portug%C3%A1lia",
+      "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
+    },
     {
       "title": "Magyar holland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20holland",
@@ -67,6 +72,11 @@
       "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
     },
     {
+      "title": "Kinek mondjam el vétkeimet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kinek%20mondjam%20el%20v%C3%A9tkeimet",
+      "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
+    },
+    {
       "title": "Sztárban Sztár All Stars 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szt%C3%A1rban%20Szt%C3%A1r%20All%20Stars%202024",
       "pubdate": "Sat, 12 Oct 2024 23:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "Ázsia Expressz 2024 nyertese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81zsia%20Expressz%202024%20nyertese",
       "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Azahriah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Azahriah",
-      "pubdate": "Fri, 11 Oct 2024 16:00:00 +0200"
-    },
-    {
-      "title": "M4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-      "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
     }
   ]
 }
