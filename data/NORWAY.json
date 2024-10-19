@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2024 , 23:59:46",
+  "lastUpdate": "19-10-2024 , 01:48:00",
   "data": [
     {
       "title": "Ole Ivars",
@@ -20,6 +20,11 @@
       "title": "Indy NXT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Indy%20NXT",
       "pubdate": "Fri, 18 Oct 2024 17:00:00 +0200"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#F1",
+      "pubdate": "Fri, 18 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Carina Dahl",
@@ -94,11 +99,6 @@
     {
       "title": "Bonnie Blue",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bonnie%20Blue",
-      "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Tom Hagen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Hagen",
       "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
     }
   ]
