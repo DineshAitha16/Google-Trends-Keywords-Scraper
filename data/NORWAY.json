@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 23:59:18",
+  "lastUpdate": "25-10-2024 , 01:50:17",
   "data": [
     {
       "title": "IPSOS",
@@ -15,11 +15,6 @@
       "title": "Fenerbahçe mot Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fenerbah%C3%A7e%20mot%20Man%20United",
       "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Mpox",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mpox",
-      "pubdate": "Thu, 24 Oct 2024 17:00:00 +0200"
     },
     {
       "title": "FN",
@@ -42,14 +37,14 @@
       "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Gisele Pelicot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gisele%20Pelicot",
-      "pubdate": "Thu, 24 Oct 2024 02:00:00 +0200"
-    },
-    {
       "title": "Kong Harald",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
       "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Gisele Pelicot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gisele%20Pelicot",
+      "pubdate": "Thu, 24 Oct 2024 02:00:00 +0200"
     },
     {
       "title": "PKK",
@@ -92,14 +87,19 @@
       "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
     },
     {
-      "title": "Fascist",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fascist",
-      "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
-    },
-    {
       "title": "Bodø/Glimt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
       "pubdate": "Wed, 23 Oct 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+      "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+      "pubdate": "Wed, 23 Oct 2024 23:00:00 +0200"
     }
   ]
 }
