@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "26-10-2024 , 00:42:30",
+  "lastUpdate": "26-10-2024 , 02:05:07",
   "data": [
+    {
+      "title": "McDonald's",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's",
+      "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
+    },
     {
       "title": "Nobilis Kristóf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nobilis%20Krist%C3%B3f",
@@ -17,9 +22,14 @@
       "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "HVG középiskolai rangsor 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#HVG%20k%C3%B6z%C3%A9piskolai%20rangsor%202025",
-      "pubdate": "Fri, 25 Oct 2024 16:00:00 +0200"
+      "title": "Leicester–nottingham Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leicester%E2%80%93nottingham%20Forest",
+      "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Top 100 Gimnázium",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Top%20100%20Gimn%C3%A1zium",
+      "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Téli időszámítás",
@@ -52,11 +62,6 @@
       "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Észak-korea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-korea",
-      "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
-    },
-    {
       "title": "Raskó György",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rask%C3%B3%20Gy%C3%B6rgy",
       "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
@@ -65,11 +70,6 @@
       "title": "Udinese–cagliari",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Udinese%E2%80%93cagliari",
       "pubdate": "Fri, 25 Oct 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Top 100 Gimnázium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Top%20100%20Gimn%C3%A1zium",
-      "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Gémesi György",

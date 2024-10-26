@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "26-10-2024 , 00:42:33",
+  "lastUpdate": "26-10-2024 , 02:05:10",
   "data": [
     {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami",
       "pubdate": "Sat, 26 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Hellbound",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Hellbound",
+      "pubdate": "Sat, 26 Oct 2024 02:00:00 +0100"
     },
     {
       "title": "Leicester City vs nottm Forest",
@@ -67,9 +72,9 @@
       "pubdate": "Fri, 25 Oct 2024 22:00:00 +0100"
     },
     {
-      "title": "Terrifier 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Terrifier%203",
-      "pubdate": "Fri, 25 Oct 2024 21:00:00 +0100"
+      "title": "Man Utd vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20Utd%20vs",
+      "pubdate": "Fri, 25 Oct 2024 10:00:00 +0100"
     },
     {
       "title": "Fenerbahçe vs Man United",
@@ -95,11 +100,6 @@
       "title": "Chelsea FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20FC",
       "pubdate": "Thu, 24 Oct 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Europa League table",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Europa%20League%20table",
-      "pubdate": "Thu, 24 Oct 2024 09:00:00 +0100"
     }
   ]
 }

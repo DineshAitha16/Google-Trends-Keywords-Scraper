@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 00:42:29",
+  "lastUpdate": "26-10-2024 , 02:05:06",
   "data": [
     {
       "title": "Rennes – Le Havre",
@@ -27,19 +27,9 @@
       "pubdate": "Fri, 25 Oct 2024 16:00:00 +0200"
     },
     {
-      "title": "Patrick Bruel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Bruel",
-      "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
-    },
-    {
       "title": "Vidauban",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vidauban",
       "pubdate": "Fri, 25 Oct 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Omar Sy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Omar%20Sy",
-      "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Metz – Guingamp",
@@ -47,9 +37,9 @@
       "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Anissa Bonnefont",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anissa%20Bonnefont",
-      "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
+      "title": "Omar Sy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Omar%20Sy",
+      "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Donald Trump",
@@ -57,14 +47,14 @@
       "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
     },
     {
+      "title": "Anissa Bonnefont",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anissa%20Bonnefont",
+      "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
+    },
+    {
       "title": "Rodez – Lorient",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rodez%20%E2%80%93%20Lorient",
       "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Arthur Fils",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur%20Fils",
-      "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Taratata",
@@ -72,14 +62,19 @@
       "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
     },
     {
-      "title": "Thomas Jolly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Jolly",
-      "pubdate": "Fri, 25 Oct 2024 06:00:00 +0200"
+      "title": "Arthur Fils",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur%20Fils",
+      "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Guadeloupe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guadeloupe",
       "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Thomas Jolly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Jolly",
+      "pubdate": "Fri, 25 Oct 2024 06:00:00 +0200"
     },
     {
       "title": "Coréens",
@@ -100,6 +95,11 @@
       "title": "Vladimir Poutine",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vladimir%20Poutine",
       "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Sandrine Rousseau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sandrine%20Rousseau",
+      "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
     }
   ]
 }

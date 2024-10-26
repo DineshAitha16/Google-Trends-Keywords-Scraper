@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 00:42:28",
+  "lastUpdate": "26-10-2024 , 02:05:06",
   "data": [
     {
       "title": "Menendez brothers",
@@ -45,11 +45,6 @@
       "title": "Kapow",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kapow",
       "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Dina Thorslund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dina%20Thorslund",
-      "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Liam Neeson",
@@ -100,6 +95,11 @@
       "title": "Conference League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Conference%20League",
       "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Fascist",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fascist",
+      "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     }
   ]
 }
