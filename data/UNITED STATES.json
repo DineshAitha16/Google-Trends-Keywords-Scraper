@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "27-10-2024 , 00:47:50",
+  "lastUpdate": "27-10-2024 , 02:14:54",
   "data": [
     {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
       "pubdate": "Sat, 26 Oct 2024 08:00:00 -0700"
-    },
-    {
-      "title": "Real Madrid  Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid%20%20Barcelona",
-      "pubdate": "Sat, 26 Oct 2024 06:00:00 -0700"
     },
     {
       "title": "Texas vs Vanderbilt",
@@ -32,9 +27,24 @@
       "pubdate": "Sat, 26 Oct 2024 10:00:00 -0700"
     },
     {
+      "title": "Missouri vs Alabama",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Missouri%20vs%20Alabama",
+      "pubdate": "Sat, 26 Oct 2024 13:00:00 -0700"
+    },
+    {
+      "title": "Khamzat Chimaev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Khamzat%20Chimaev",
+      "pubdate": "Sat, 26 Oct 2024 13:00:00 -0700"
+    },
+    {
       "title": "Chappell Roan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chappell%20Roan",
       "pubdate": "Sat, 26 Oct 2024 06:00:00 -0700"
+    },
+    {
+      "title": "Barca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barca",
+      "pubdate": "Sat, 26 Oct 2024 13:00:00 -0700"
     },
     {
       "title": "Man City vs Southampton",
@@ -42,9 +52,24 @@
       "pubdate": "Sat, 26 Oct 2024 10:00:00 -0700"
     },
     {
-      "title": "Missouri vs Alabama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Missouri%20vs%20Alabama",
-      "pubdate": "Sat, 26 Oct 2024 13:00:00 -0700"
+      "title": "Michigan vs Michigan State",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20vs%20Michigan%20State",
+      "pubdate": "Sat, 26 Oct 2024 16:00:00 -0700"
+    },
+    {
+      "title": "Bucks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
+      "pubdate": "Sat, 26 Oct 2024 03:00:00 -0700"
+    },
+    {
+      "title": "TCU Football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TCU%20Football",
+      "pubdate": "Sat, 26 Oct 2024 15:00:00 -0700"
+    },
+    {
+      "title": "Holden Trent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Holden%20Trent",
+      "pubdate": "Sat, 26 Oct 2024 14:00:00 -0700"
     },
     {
       "title": "Virginia Tech football",
@@ -52,8 +77,13 @@
       "pubdate": "Sat, 26 Oct 2024 12:00:00 -0700"
     },
     {
-      "title": "Holden Trent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Holden%20Trent",
+      "title": "LSU vs Texas A&M",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20vs%20Texas%20A%26M",
+      "pubdate": "Sat, 26 Oct 2024 17:00:00 -0700"
+    },
+    {
+      "title": "Illinois vs Oregon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20vs%20Oregon",
       "pubdate": "Sat, 26 Oct 2024 14:00:00 -0700"
     },
     {
@@ -62,44 +92,14 @@
       "pubdate": "Sat, 26 Oct 2024 11:00:00 -0700"
     },
     {
-      "title": "Bucks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
-      "pubdate": "Sat, 26 Oct 2024 03:00:00 -0700"
-    },
-    {
-      "title": "Robert Whittaker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Whittaker",
-      "pubdate": "Sat, 26 Oct 2024 14:00:00 -0700"
-    },
-    {
       "title": "UCF football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UCF%20football",
       "pubdate": "Sat, 26 Oct 2024 16:00:00 -0700"
     },
     {
-      "title": "Suns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
-      "pubdate": "Sat, 26 Oct 2024 08:00:00 -0700"
-    },
-    {
-      "title": "Illinois vs Oregon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20vs%20Oregon",
-      "pubdate": "Sat, 26 Oct 2024 14:00:00 -0700"
-    },
-    {
       "title": "Jim Donovan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jim%20Donovan",
       "pubdate": "Sat, 26 Oct 2024 13:00:00 -0700"
-    },
-    {
-      "title": "TCU Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TCU%20Football",
-      "pubdate": "Sat, 26 Oct 2024 15:00:00 -0700"
-    },
-    {
-      "title": "Pacers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pacers",
-      "pubdate": "Sat, 26 Oct 2024 02:00:00 -0700"
     }
   ]
 }

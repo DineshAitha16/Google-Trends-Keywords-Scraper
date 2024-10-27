@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2024 , 00:47:55",
+  "lastUpdate": "27-10-2024 , 02:15:00",
   "data": [
     {
       "title": "Federica Nargi",
@@ -10,6 +10,11 @@
       "title": "Nina Zilli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nina%20Zilli",
       "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Virtus Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Virtus%20Bologna",
+      "pubdate": "Sun, 27 Oct 2024 02:00:00 +0100"
     },
     {
       "title": "Real Madrid  Barcellona",
@@ -27,8 +32,8 @@
       "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
     },
     {
-      "title": "Classifica Serie A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20Serie%20A",
+      "title": "Diego Maradona Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Diego%20Maradona%20Jr",
       "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
     },
     {
@@ -37,9 +42,19 @@
       "pubdate": "Sat, 26 Oct 2024 21:00:00 +0200"
     },
     {
+      "title": "Classifica Serie A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20Serie%20A",
+      "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
+    },
+    {
       "title": "Inter-Juve",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter-Juve",
       "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Sara Centelleghe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sara%20Centelleghe",
+      "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Iran",
@@ -52,19 +67,19 @@
       "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
     },
     {
-      "title": "Sara Centelleghe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sara%20Centelleghe",
-      "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
-    },
-    {
       "title": "Elena Sofia Ricci",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elena%20Sofia%20Ricci",
       "pubdate": "Sat, 26 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Manchester city-southampton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20city-southampton",
+      "title": "Manchester City  Southampton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City%20%20Southampton",
       "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
+    },
+    {
+      "title": "GP Messico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#GP%20Messico",
+      "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
     },
     {
       "title": "Sassuolo-Modena",
@@ -77,11 +92,6 @@
       "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
     },
     {
-      "title": "GP Messico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#GP%20Messico",
-      "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
-    },
-    {
       "title": "Cremonese-Salernitana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cremonese-Salernitana",
       "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "Michael Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Michael%20Schumacher",
       "pubdate": "Sat, 26 Oct 2024 03:00:00 +0200"
-    },
-    {
-      "title": "Solden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Solden",
-      "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
-    },
-    {
-      "title": "F1 qualifiche",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#F1%20qualifiche",
-      "pubdate": "Sat, 26 Oct 2024 22:00:00 +0200"
     }
   ]
 }
