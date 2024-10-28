@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2024 , 01:54:07",
+  "lastUpdate": "28-10-2024 , 02:53:02",
   "data": [
     {
       "title": "Line Renaud",
@@ -9,11 +9,6 @@
     {
       "title": "Arsenal – Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arsenal%20%E2%80%93%20Liverpool",
-      "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Nice – Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nice%20%E2%80%93%20Monaco",
       "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
     },
     {
@@ -70,6 +65,11 @@
       "title": "WTT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#WTT",
       "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
+    },
+    {
+      "title": "RMC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RMC",
+      "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
       "title": "Mpetshi Perricard",

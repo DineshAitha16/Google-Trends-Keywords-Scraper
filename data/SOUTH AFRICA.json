@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "28-10-2024 , 01:54:12",
+  "lastUpdate": "28-10-2024 , 02:53:08",
   "data": [
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
+      "pubdate": "Mon, 28 Oct 2024 04:00:00 +0200"
+    },
     {
       "title": "Real Sociedad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
@@ -29,7 +34,7 @@
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
-      "pubdate": "Sun, 27 Oct 2024 21:00:00 +0200"
+      "pubdate": "Sun, 27 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "LaLiga",
@@ -37,14 +42,14 @@
       "pubdate": "Sun, 27 Oct 2024 07:00:00 +0200"
     },
     {
+      "title": "Inter Vs Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Vs%20Juventus",
+      "pubdate": "Sun, 27 Oct 2024 19:00:00 +0200"
+    },
+    {
       "title": "Bayern Munich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
       "pubdate": "Sun, 27 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Shark attack Cape Town",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shark%20attack%20Cape%20Town",
-      "pubdate": "Sun, 27 Oct 2024 09:00:00 +0200"
     },
     {
       "title": "Fiorentina vs Roma",
@@ -55,6 +60,11 @@
       "title": "F1 Mexico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20Mexico",
       "pubdate": "Sun, 27 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
+      "pubdate": "Sun, 27 Oct 2024 18:00:00 +0200"
     },
     {
       "title": "Leeds United",
@@ -90,16 +100,6 @@
       "title": "Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atalanta",
       "pubdate": "Sun, 27 Oct 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Manchester city FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20city%20FC",
-      "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Real Madrid vs Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Barcelona",
-      "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
     }
   ]
 }
