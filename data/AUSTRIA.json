@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2024 , 00:37:49",
+  "lastUpdate": "30-10-2024 , 02:08:06",
   "data": [
     {
       "title": "Vienna Capitals",
@@ -19,6 +19,16 @@
     {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin",
+      "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Leverkusen – Elversberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20%E2%80%93%20Elversberg",
+      "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
+      "title": "U-Bahnsurfer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#U-Bahnsurfer",
       "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
@@ -42,9 +52,9 @@
       "pubdate": "Tue, 29 Oct 2024 10:00:00 +0100"
     },
     {
-      "title": "U4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#U4",
-      "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+      "title": "Nicola Cavanis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nicola%20Cavanis",
+      "pubdate": "Tue, 29 Oct 2024 03:00:00 +0100"
     },
     {
       "title": "Augsburg – Schalke",
@@ -67,14 +77,14 @@
       "pubdate": "Tue, 29 Oct 2024 01:00:00 +0100"
     },
     {
-      "title": "Ruben Amorim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ruben%20Amorim",
-      "pubdate": "Tue, 29 Oct 2024 10:00:00 +0100"
-    },
-    {
       "title": "Milan – Neapel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20%E2%80%93%20Neapel",
       "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Ruben Amorim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ruben%20Amorim",
+      "pubdate": "Tue, 29 Oct 2024 10:00:00 +0100"
     },
     {
       "title": "Russland Ukraine Krieg",
@@ -90,16 +100,6 @@
       "title": "Sarah Puntigam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sarah%20Puntigam",
       "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
-    },
-    {
-      "title": "MSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MSC",
-      "pubdate": "Tue, 29 Oct 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Wann ist Black Friday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wann%20ist%20Black%20Friday",
-      "pubdate": "Tue, 29 Oct 2024 17:00:00 +0100"
     }
   ]
 }
