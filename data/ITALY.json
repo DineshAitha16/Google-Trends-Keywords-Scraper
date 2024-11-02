@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2024 , 23:59:22",
+  "lastUpdate": "02-11-2024 , 01:47:52",
   "data": [
     {
       "title": "Sergio Endrigo",
@@ -10,6 +10,16 @@
       "title": "Don Lurio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Don%20Lurio",
       "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Liz Cheney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Liz%20Cheney",
+      "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Gyokeres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gyokeres",
+      "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
     },
     {
       "title": "Novi Sad",
@@ -25,6 +35,11 @@
       "title": "Leonardo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leonardo",
       "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Resident%20Evil:%20Welcome%20to%20Raccoon%20City",
+      "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
     },
     {
       "title": "Heidi Klum",
@@ -47,11 +62,6 @@
       "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Giovanni Tronchetti Provera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giovanni%20Tronchetti%20Provera",
-      "pubdate": "Fri, 01 Nov 2024 17:00:00 +0100"
-    },
-    {
       "title": "Formula 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Formula%201",
       "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
@@ -67,19 +77,14 @@
       "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
     },
     {
-      "title": "Holger Rune",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Holger%20Rune",
-      "pubdate": "Fri, 01 Nov 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Al-nassr  Al Hilal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Al-nassr%20%20Al%20Hilal",
-      "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
-    },
-    {
       "title": "Bianca Balti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bianca%20Balti",
       "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Al-Nassr  Al Hilal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Al-Nassr%20%20Al%20Hilal",
+      "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
     },
     {
       "title": "Piccoli Brividi",
@@ -95,11 +100,6 @@
       "title": "Lobotka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lobotka",
       "pubdate": "Fri, 01 Nov 2024 17:00:00 +0100"
-    },
-    {
-      "title": "OGGI in tv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#OGGI%20in%20tv",
-      "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
     }
   ]
 }
