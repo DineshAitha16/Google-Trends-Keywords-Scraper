@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2024 , 03:38:34",
+  "lastUpdate": "13-11-2024 , 03:48:54",
   "data": [
     {
       "title": "도지코인",
@@ -22,9 +22,9 @@
       "pubdate": "Wed, 13 Nov 2024 00:00:00 +0900"
     },
     {
-      "title": "이화여대",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%ED%99%94%EC%97%AC%EB%8C%80",
-      "pubdate": "Wed, 13 Nov 2024 00:00:00 +0900"
+      "title": "김호중",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%98%B8%EC%A4%91",
+      "pubdate": "Wed, 13 Nov 2024 12:00:00 +0900"
     },
     {
       "title": "CPI",
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 11 Nov 2024 20:00:00 +0900"
     },
     {
-      "title": "장현식",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%A5%ED%98%84%EC%8B%9D",
-      "pubdate": "Mon, 11 Nov 2024 15:00:00 +0900"
-    },
-    {
       "title": "양광준",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%96%91%EA%B4%91%EC%A4%80",
       "pubdate": "Mon, 11 Nov 2024 23:00:00 +0900"
+    },
+    {
+      "title": "장현식",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%A5%ED%98%84%EC%8B%9D",
+      "pubdate": "Mon, 11 Nov 2024 15:00:00 +0900"
     }
   ]
 }
