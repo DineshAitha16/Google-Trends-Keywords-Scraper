@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2024 , 01:37:12",
+  "lastUpdate": "03-12-2024 , 02:53:32",
   "data": [
     {
       "title": "Travel Tuesday",
@@ -62,13 +62,18 @@
       "pubdate": "Mon, 02 Dec 2024 14:00:00 +0100"
     },
     {
+      "title": "CYBERMONDAY",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CYBERMONDAY",
+      "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
+    },
+    {
       "title": "Didier Castella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Didier%20Castella",
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Roma: Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roma:%20Atalanta",
+      "title": "Roma  Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roma%20%20Atalanta",
       "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
     },
     {
@@ -82,6 +87,11 @@
       "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
     },
     {
+      "title": "Caren Miosga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Caren%20Miosga",
+      "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
+    },
+    {
       "title": "Stadt Zürich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stadt%20Z%C3%BCrich",
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Jacob Collier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jacob%20Collier",
       "pubdate": "Mon, 02 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Arne Slot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arne%20Slot",
-      "pubdate": "Mon, 02 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "DFB-Pokal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
-      "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
     }
   ]
 }
