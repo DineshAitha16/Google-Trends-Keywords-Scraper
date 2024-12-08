@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "08-12-2024 , 00:43:58",
+  "lastUpdate": "08-12-2024 , 02:25:10",
   "data": [
-    {
-      "title": "SCB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SCB",
-      "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
-    },
     {
       "title": "Sophia Thomalla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophia%20Thomalla",
+      "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "SCB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SCB",
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
     },
     {
@@ -32,6 +32,11 @@
       "pubdate": "Sat, 07 Dec 2024 12:00:00 +0100"
     },
     {
+      "title": "Fc Sion – Young Boys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fc%20Sion%20%E2%80%93%20Young%20Boys",
+      "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
+    },
+    {
       "title": "Notre-Dame",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Notre-Dame",
       "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
@@ -42,19 +47,14 @@
       "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Fc Sion – Young Boys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fc%20Sion%20%E2%80%93%20Young%20Boys",
-      "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Voice of Germany 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Voice%20of%20Germany%202024",
-      "pubdate": "Sat, 07 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Course de l'Escalade 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Course%20de%20l'Escalade%202024",
+      "title": "Course de l'escalade 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Course%20de%20l'escalade%202024",
       "pubdate": "Sat, 07 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+      "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Manchester City",
@@ -62,9 +62,9 @@
       "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
-      "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
+      "title": "Voice of Germany 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Voice%20of%20Germany%202024",
+      "pubdate": "Sat, 07 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Betis – Barcelona",
