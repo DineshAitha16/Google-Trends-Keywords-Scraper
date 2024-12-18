@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2024 , 00:38:58",
+  "lastUpdate": "18-12-2024 , 03:04:40",
   "data": [
     {
       "title": "Natalie Rupnow",
@@ -24,11 +24,6 @@
     {
       "title": "Bill Skarsgård",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bill%20Skarsg%C3%A5rd",
-      "pubdate": "Tue, 17 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Nosferatu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nosferatu",
       "pubdate": "Tue, 17 Dec 2024 20:00:00 +0100"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Galatasaray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Storm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Storm",
+      "pubdate": "Mon, 16 Dec 2024 07:00:00 +0100"
     }
   ]
 }
