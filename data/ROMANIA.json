@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2024 , 23:58:39",
+  "lastUpdate": "19-12-2024 , 01:55:24",
   "data": [
     {
       "title": "Adela Popescu",
@@ -52,9 +52,9 @@
       "pubdate": "Wed, 18 Dec 2024 14:00:00 +0200"
     },
     {
-      "title": "Arnold",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arnold",
-      "pubdate": "Wed, 18 Dec 2024 19:00:00 +0200"
+      "title": "Altex Brico Depot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Altex%20Brico%20Depot",
+      "pubdate": "Wed, 18 Dec 2024 22:00:00 +0200"
     },
     {
       "title": "Tom Cruise",
@@ -67,19 +67,9 @@
       "pubdate": "Wed, 18 Dec 2024 00:00:00 +0200"
     },
     {
-      "title": "Altex Brico Depot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Altex%20Brico%20Depot",
-      "pubdate": "Wed, 18 Dec 2024 22:00:00 +0200"
-    },
-    {
       "title": "Unirea Alba Iulia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Unirea%20Alba%20Iulia",
       "pubdate": "Wed, 18 Dec 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Kursk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kursk",
-      "pubdate": "Wed, 18 Dec 2024 22:00:00 +0200"
     },
     {
       "title": "Mar-a-Lago",
@@ -97,9 +87,19 @@
       "pubdate": "Wed, 18 Dec 2024 20:00:00 +0200"
     },
     {
-      "title": "FCSB - Universitatea Craiova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20Universitatea%20Craiova",
+      "title": "FCSB  Universitatea Craiova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20%20Universitatea%20Craiova",
       "pubdate": "Tue, 17 Dec 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Oțelul  Sepsi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20Sepsi",
+      "pubdate": "Tue, 17 Dec 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Pippidi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pippidi",
+      "pubdate": "Tue, 17 Dec 2024 20:00:00 +0200"
     }
   ]
 }
