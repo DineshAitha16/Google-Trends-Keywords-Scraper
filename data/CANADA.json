@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 23:59:38",
+  "lastUpdate": "30-12-2024 , 01:52:39",
   "data": [
     {
       "title": "Jimmy Carter",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 29 Dec 2024 17:00:00 -0500"
     },
     {
-      "title": "Leicester City vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leicester%20City%20vs%20Man%20City",
-      "pubdate": "Sun, 29 Dec 2024 10:00:00 -0500"
-    },
-    {
       "title": "Plane crash",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Plane%20crash",
       "pubdate": "Sun, 29 Dec 2024 01:00:00 -0500"
+    },
+    {
+      "title": "Leicester City vs Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leicester%20City%20vs%20Man%20City",
+      "pubdate": "Sun, 29 Dec 2024 10:00:00 -0500"
     },
     {
       "title": "West Ham vs Liverpool",
@@ -25,6 +25,11 @@
       "title": "Ottawa earthquake today",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20earthquake%20today",
       "pubdate": "Sun, 29 Dec 2024 10:00:00 -0500"
+    },
+    {
+      "title": "Packers vs Vikings",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Packers%20vs%20Vikings",
+      "pubdate": "Sun, 29 Dec 2024 18:00:00 -0500"
     },
     {
       "title": "Dorian Finney-Smith",
@@ -42,6 +47,11 @@
       "pubdate": "Sun, 29 Dec 2024 12:00:00 -0500"
     },
     {
+      "title": "Saquon Barkley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saquon%20Barkley",
+      "pubdate": "Sun, 29 Dec 2024 16:00:00 -0500"
+    },
+    {
       "title": "Festival of Lights",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Festival%20of%20Lights",
       "pubdate": "Sun, 29 Dec 2024 10:00:00 -0500"
@@ -52,9 +62,14 @@
       "pubdate": "Sun, 29 Dec 2024 15:00:00 -0500"
     },
     {
-      "title": "Saquon Barkley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saquon%20Barkley",
-      "pubdate": "Sun, 29 Dec 2024 16:00:00 -0500"
+      "title": "Canadiens – Lightning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Lightning",
+      "pubdate": "Sun, 29 Dec 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Aaron Rodgers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aaron%20Rodgers",
+      "pubdate": "Sun, 29 Dec 2024 19:00:00 -0500"
     },
     {
       "title": "Tottenham vs Wolves",
@@ -67,9 +82,9 @@
       "pubdate": "Sun, 29 Dec 2024 17:00:00 -0500"
     },
     {
-      "title": "Colts",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colts",
-      "pubdate": "Sun, 29 Dec 2024 16:00:00 -0500"
+      "title": "Canada vs Germany",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20vs%20Germany",
+      "pubdate": "Sun, 29 Dec 2024 20:00:00 -0500"
     },
     {
       "title": "Tua Tagovailoa",
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 29 Dec 2024 18:00:00 -0500"
     },
     {
-      "title": "Green Bay Packers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20Bay%20Packers",
-      "pubdate": "Sun, 29 Dec 2024 18:00:00 -0500"
+      "title": "Colts",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colts",
+      "pubdate": "Sun, 29 Dec 2024 16:00:00 -0500"
     },
     {
-      "title": "Rainfall warning",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rainfall%20warning",
-      "pubdate": "Sat, 28 Dec 2024 17:00:00 -0500"
-    },
-    {
-      "title": "Jeju Air",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeju%20Air",
-      "pubdate": "Sat, 28 Dec 2024 22:00:00 -0500"
-    },
-    {
-      "title": "Airplane crash Halifax Airport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Airplane%20crash%20Halifax%20Airport",
-      "pubdate": "Sat, 28 Dec 2024 23:00:00 -0500"
-    },
-    {
-      "title": "Dayle Haddon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dayle%20Haddon",
-      "pubdate": "Sat, 28 Dec 2024 12:00:00 -0500"
+      "title": "Dolphins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dolphins",
+      "pubdate": "Sun, 29 Dec 2024 20:00:00 -0500"
     }
   ]
 }
