@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 23:39:46",
+  "lastUpdate": "11-01-2025 , 23:49:58",
   "data": [
     {
       "title": "BCCI",
@@ -30,6 +30,11 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liverpool",
       "pubdate": "Sat, 11 Jan 2025 21:30:00 +0530"
+    },
+    {
+      "title": "Tiku Talsania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tiku%20Talsania",
+      "pubdate": "Sat, 11 Jan 2025 16:30:00 +0530"
     },
     {
       "title": "Dinesh Karthik",
@@ -85,11 +90,6 @@
       "title": "P Jayachandran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#P%20Jayachandran",
       "pubdate": "Thu, 09 Jan 2025 21:30:00 +0530"
-    },
-    {
-      "title": "Tirupati",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tirupati",
-      "pubdate": "Thu, 09 Jan 2025 01:30:00 +0530"
     },
     {
       "title": "IPO allotment status",
