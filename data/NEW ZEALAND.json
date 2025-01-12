@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "12-01-2025 , 00:00:11",
+  "lastUpdate": "12-01-2025 , 01:59:04",
   "data": [
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
+      "pubdate": "Sun, 12 Jan 2025 11:00:00 +1300"
+    },
     {
       "title": "Auckland FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
       "pubdate": "Sun, 12 Jan 2025 01:00:00 +1300"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
-      "pubdate": "Sun, 12 Jan 2025 11:00:00 +1300"
+      "title": "Australian Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australian%20Open",
+      "pubdate": "Sun, 12 Jan 2025 14:00:00 +1300"
     },
     {
       "title": "Liverpool",
@@ -50,11 +55,6 @@
       "title": "Blackcaps",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackcaps",
       "pubdate": "Sat, 11 Jan 2025 15:00:00 +1300"
-    },
-    {
-      "title": "The Goonies",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Goonies",
-      "pubdate": "Sat, 11 Jan 2025 21:00:00 +1300"
     },
     {
       "title": "Mel Gibson",
