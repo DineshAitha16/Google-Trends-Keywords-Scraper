@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 18:44:50",
+  "lastUpdate": "16-01-2025 , 18:55:05",
   "data": [
     {
       "title": "스위치2",
@@ -67,14 +67,19 @@
       "pubdate": "Thu, 16 Jan 2025 23:00:00 +0900"
     },
     {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
+      "pubdate": "Thu, 16 Jan 2025 11:00:00 +0900"
+    },
+    {
       "title": "장원삼",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%A5%EC%9B%90%EC%82%BC",
       "pubdate": "Thu, 16 Jan 2025 11:00:00 +0900"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 +0900"
+      "title": "리플 항소",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%ED%94%8C%20%ED%95%AD%EC%86%8C",
+      "pubdate": "Thu, 16 Jan 2025 10:00:00 +0900"
     },
     {
       "title": "보고타",
@@ -95,11 +100,6 @@
       "title": "윤석열 체포",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4%20%EC%B2%B4%ED%8F%AC",
       "pubdate": "Wed, 15 Jan 2025 06:00:00 +0900"
-    },
-    {
-      "title": "연말정산",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0",
-      "pubdate": "Wed, 15 Jan 2025 09:00:00 +0900"
     }
   ]
 }
