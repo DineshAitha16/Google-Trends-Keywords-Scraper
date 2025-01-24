@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 23:59:25",
+  "lastUpdate": "24-01-2025 , 01:46:56",
   "data": [
     {
       "title": "Rene Benko",
@@ -12,11 +12,6 @@
       "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Sabalenka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
-      "pubdate": "Thu, 23 Jan 2025 12:00:00 +0100"
-    },
-    {
       "title": "Hoffenheim – Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hoffenheim%20%E2%80%93%20Tottenham",
       "pubdate": "Thu, 23 Jan 2025 18:00:00 +0100"
@@ -27,6 +22,11 @@
       "pubdate": "Thu, 23 Jan 2025 17:00:00 +0100"
     },
     {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
+      "pubdate": "Thu, 23 Jan 2025 12:00:00 +0100"
+    },
+    {
       "title": "KTM",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KTM",
       "pubdate": "Thu, 23 Jan 2025 17:00:00 +0100"
@@ -35,6 +35,11 @@
       "title": "Holocaust",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Holocaust",
       "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Gottfried Neumeister",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gottfried%20Neumeister",
+      "pubdate": "Thu, 23 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "ManUnited – Rangers",
@@ -75,11 +80,6 @@
       "title": "Ai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ai",
       "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Deutschland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland",
-      "pubdate": "Thu, 23 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Bernhard Zimmermann",

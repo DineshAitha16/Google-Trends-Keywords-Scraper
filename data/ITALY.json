@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 23:59:30",
+  "lastUpdate": "24-01-2025 , 01:47:00",
   "data": [
     {
       "title": "Gessica Notaro",
@@ -7,9 +7,19 @@
       "pubdate": "Fri, 24 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "THE STRANGERS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#THE%20STRANGERS",
+      "title": "Davos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Davos",
+      "pubdate": "Fri, 24 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Europa League oggi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Europa%20League%20oggi",
       "pubdate": "Fri, 24 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "LEGO One Piece",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#LEGO%20One%20Piece",
+      "pubdate": "Fri, 24 Jan 2025 02:00:00 +0100"
     },
     {
       "title": "Europa League",
@@ -82,24 +92,14 @@
       "pubdate": "Thu, 23 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Giorni della Merla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorni%20della%20Merla",
+      "title": "Hoffenheim-Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hoffenheim-Tottenham",
       "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Emerson Royal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Emerson%20Royal",
-      "pubdate": "Thu, 23 Jan 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Fabio De Luigi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fabio%20De%20Luigi",
-      "pubdate": "Thu, 23 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Patrizia Caselli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Patrizia%20Caselli",
-      "pubdate": "Thu, 23 Jan 2025 00:00:00 +0100"
+      "title": "Giorni della Merla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorni%20della%20Merla",
+      "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
     }
   ]
 }
