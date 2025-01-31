@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2025 , 23:59:23",
+  "lastUpdate": "31-01-2025 , 01:47:08",
   "data": [
     {
       "title": "Marianne Faithfull",
@@ -12,11 +12,6 @@
       "pubdate": "Fri, 31 Jan 2025 07:00:00 +1100"
     },
     {
-      "title": "Salwan Momika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Salwan%20Momika",
-      "pubdate": "Fri, 31 Jan 2025 01:00:00 +1100"
-    },
-    {
       "title": "Bryce Mitchell",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bryce%20Mitchell",
       "pubdate": "Fri, 31 Jan 2025 09:00:00 +1100"
@@ -27,14 +22,34 @@
       "pubdate": "Fri, 31 Jan 2025 10:00:00 +1100"
     },
     {
+      "title": "Salwan Momika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Salwan%20Momika",
+      "pubdate": "Fri, 31 Jan 2025 01:00:00 +1100"
+    },
+    {
       "title": "The Recruit",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Recruit",
       "pubdate": "Fri, 31 Jan 2025 03:00:00 +1100"
     },
     {
+      "title": "Kash Patel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kash%20Patel",
+      "pubdate": "Fri, 31 Jan 2025 11:00:00 +1100"
+    },
+    {
       "title": "Hello Kitty Island Adventure",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hello%20Kitty%20Island%20Adventure",
       "pubdate": "Fri, 31 Jan 2025 09:00:00 +1100"
+    },
+    {
+      "title": "Palau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Palau",
+      "pubdate": "Fri, 31 Jan 2025 11:00:00 +1100"
+    },
+    {
+      "title": "John Summit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Summit",
+      "pubdate": "Fri, 31 Jan 2025 11:00:00 +1100"
     },
     {
       "title": "Plane crash Washington",
@@ -57,8 +72,8 @@
       "pubdate": "Thu, 30 Jan 2025 23:00:00 +1100"
     },
     {
-      "title": "RFK Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RFK%20Jr",
+      "title": "Rfk Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rfk%20Jr",
       "pubdate": "Thu, 30 Jan 2025 03:00:00 +1100"
     },
     {
@@ -77,29 +92,14 @@
       "pubdate": "Thu, 30 Jan 2025 13:00:00 +1100"
     },
     {
-      "title": "Parish",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parish",
-      "pubdate": "Thu, 30 Jan 2025 10:00:00 +1100"
-    },
-    {
       "title": "Foxtel subscription prices increase",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Foxtel%20subscription%20prices%20increase",
       "pubdate": "Thu, 30 Jan 2025 19:00:00 +1100"
     },
     {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
-      "pubdate": "Thu, 30 Jan 2025 09:00:00 +1100"
-    },
-    {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
+      "title": "Parish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parish",
       "pubdate": "Thu, 30 Jan 2025 10:00:00 +1100"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
-      "pubdate": "Thu, 30 Jan 2025 17:00:00 +1100"
     }
   ]
 }
