@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2025 , 23:58:59",
+  "lastUpdate": "03-02-2025 , 01:48:04",
   "data": [
     {
       "title": "Roma vs Napoli",
@@ -7,9 +7,9 @@
       "pubdate": "Mon, 03 Feb 2025 01:00:00 +0300"
     },
     {
-      "title": "Arsenal fixtures",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20fixtures",
-      "pubdate": "Mon, 03 Feb 2025 02:00:00 +0300"
+      "title": "Sporting San Miguelito vs Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sporting%20San%20Miguelito%20vs%20Inter%20Miami",
+      "pubdate": "Mon, 03 Feb 2025 03:00:00 +0300"
     },
     {
       "title": "Man United vs Crystal Palace",
@@ -87,11 +87,6 @@
       "pubdate": "Sat, 01 Feb 2025 16:00:00 +0300"
     },
     {
-      "title": "Everton vs Leicester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Leicester%20City",
-      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0300"
-    },
-    {
       "title": "Nottingham Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nottingham%20Forest",
       "pubdate": "Sat, 01 Feb 2025 16:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aston%20Villa",
       "pubdate": "Sat, 01 Feb 2025 19:00:00 +0300"
+    },
+    {
+      "title": "Transfer deadline day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Transfer%20deadline%20day",
+      "pubdate": "Sat, 01 Feb 2025 00:00:00 +0300"
     }
   ]
 }
