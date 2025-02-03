@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 11:48:48",
+  "lastUpdate": "03-02-2025 , 11:58:58",
   "data": [
     {
       "title": "WM Handball",
@@ -7,13 +7,13 @@
       "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Alice Weidel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
-      "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
+      "title": "Grammys 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grammys%202025",
+      "pubdate": "Sun, 02 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "Grammys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grammys",
+      "title": "Alice Weidel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
       "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
     },
     {
@@ -37,11 +37,6 @@
       "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Merz: CDU",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz:%20CDU",
-      "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
-    },
-    {
       "title": "Andre Silva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andre%20Silva",
       "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
@@ -57,8 +52,8 @@
       "pubdate": "Thu, 30 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Bundestag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
+      "title": "Merz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz",
       "pubdate": "Wed, 29 Jan 2025 15:00:00 +0100"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sinner",
       "pubdate": "Fri, 24 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Rene Benko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rene%20Benko",
+      "pubdate": "Thu, 23 Jan 2025 11:00:00 +0100"
     }
   ]
 }
