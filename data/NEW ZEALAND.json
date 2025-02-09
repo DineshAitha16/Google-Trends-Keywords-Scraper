@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 23:58:45",
+  "lastUpdate": "09-02-2025 , 01:52:39",
   "data": [
     {
       "title": "UFC 312",
@@ -12,14 +12,14 @@
       "pubdate": "Sun, 09 Feb 2025 10:00:00 +1300"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-      "pubdate": "Sun, 09 Feb 2025 07:00:00 +1300"
-    },
-    {
       "title": "England vs France",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20France",
       "pubdate": "Sun, 09 Feb 2025 09:00:00 +1300"
+    },
+    {
+      "title": "Anthony Davis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anthony%20Davis",
+      "pubdate": "Sun, 09 Feb 2025 13:00:00 +1300"
     },
     {
       "title": "Real Madrid vs atlético Madrid",
@@ -32,9 +32,19 @@
       "pubdate": "Sun, 09 Feb 2025 10:00:00 +1300"
     },
     {
+      "title": "Lakers vs Pacers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers%20vs%20Pacers",
+      "pubdate": "Sun, 09 Feb 2025 13:00:00 +1300"
+    },
+    {
       "title": "Miss Pacific Islands 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Miss%20Pacific%20Islands%202025",
       "pubdate": "Sun, 09 Feb 2025 08:00:00 +1300"
+    },
+    {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Carlos%20Alcaraz",
+      "pubdate": "Sun, 09 Feb 2025 14:00:00 +1300"
     },
     {
       "title": "PlayStation Network status",
@@ -42,14 +52,19 @@
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +1300"
     },
     {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FA%20Cup",
-      "pubdate": "Sat, 08 Feb 2025 09:00:00 +1300"
-    },
-    {
       "title": "New Zealand vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20Pakistan",
-      "pubdate": "Sat, 08 Feb 2025 23:00:00 +1300"
+      "pubdate": "Sat, 08 Feb 2025 21:00:00 +1300"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FA%20Cup",
+      "pubdate": "Sat, 08 Feb 2025 10:00:00 +1300"
+    },
+    {
+      "title": "Man United vs Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20United%20vs%20Leicester%20City",
+      "pubdate": "Sat, 08 Feb 2025 09:00:00 +1300"
     },
     {
       "title": "SailGP Sydney",
@@ -65,11 +80,6 @@
       "title": "Kanye West",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kanye%20West",
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +1300"
-    },
-    {
-      "title": "Black Caps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Caps",
-      "pubdate": "Sat, 08 Feb 2025 21:00:00 +1300"
     },
     {
       "title": "Martin Henderson",
@@ -90,16 +100,6 @@
       "title": "Apple Cider Vinegar Netflix",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Apple%20Cider%20Vinegar%20Netflix",
       "pubdate": "Fri, 07 Feb 2025 13:00:00 +1300"
-    },
-    {
-      "title": "NRL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL",
-      "pubdate": "Fri, 07 Feb 2025 19:00:00 +1300"
-    },
-    {
-      "title": "Coast to Coast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coast%20to%20Coast",
-      "pubdate": "Fri, 07 Feb 2025 08:00:00 +1300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 23:58:42",
+  "lastUpdate": "09-02-2025 , 01:52:36",
   "data": [
     {
       "title": "PlayStation Network",
@@ -37,11 +37,6 @@
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Victoria Abril",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victoria%20Abril",
-      "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
-    },
-    {
       "title": "Italie pays de Galles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Italie%20pays%20de%20Galles",
       "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
@@ -52,19 +47,19 @@
       "pubdate": "Sat, 08 Feb 2025 01:00:00 +0100"
     },
     {
-      "title": "Metz – Clermont",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Metz%20%E2%80%93%20Clermont",
+      "title": "Météo neige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#M%C3%A9t%C3%A9o%20neige",
+      "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Santa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Santa",
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Stromae",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stromae",
       "pubdate": "Sat, 08 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Santa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Santa",
-      "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Voiture électrique",
@@ -82,14 +77,14 @@
       "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
     },
     {
+      "title": "FC Metz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Metz",
+      "pubdate": "Sat, 08 Feb 2025 23:00:00 +0100"
+    },
+    {
       "title": "Michou",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michou",
       "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Lenie Danse avec les stars",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lenie%20Danse%20avec%20les%20stars",
-      "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Aliocha Schneider",
@@ -97,9 +92,14 @@
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "Haute-Loire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Haute-Loire",
-      "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
+      "title": "Bielle-Biarrey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bielle-Biarrey",
+      "pubdate": "Sat, 08 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
+      "pubdate": "Sat, 08 Feb 2025 23:00:00 +0100"
     }
   ]
 }

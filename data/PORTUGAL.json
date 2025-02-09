@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "08-02-2025 , 23:58:46",
+  "lastUpdate": "09-02-2025 , 01:52:40",
   "data": [
+    {
+      "title": "Honduras",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Honduras",
+      "pubdate": "Sun, 09 Feb 2025 01:00:00 +0000"
+    },
+    {
+      "title": "Bragantino  São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bragantino%20%20S%C3%A3o%20Paulo",
+      "pubdate": "Sun, 09 Feb 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Mitra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mitra",
+      "pubdate": "Sun, 09 Feb 2025 01:00:00 +0000"
+    },
     {
       "title": "PlayStation Network",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PlayStation%20Network",
@@ -12,13 +27,18 @@
       "pubdate": "Sat, 08 Feb 2025 12:00:00 +0000"
     },
     {
+      "title": "Real Madrid  Atlético Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Atl%C3%A9tico%20Madrid",
+      "pubdate": "Sat, 08 Feb 2025 20:00:00 +0000"
+    },
+    {
       "title": "Empoli  Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Empoli%20%20Milan",
       "pubdate": "Sat, 08 Feb 2025 17:00:00 +0000"
     },
     {
-      "title": "Real Madrid  Atlético Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Atl%C3%A9tico%20Madrid",
+      "title": "Famalicão  Vitória SC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Vit%C3%B3ria%20SC",
       "pubdate": "Sat, 08 Feb 2025 20:00:00 +0000"
     },
     {
@@ -27,13 +47,13 @@
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +0000"
     },
     {
-      "title": "Famalicão  Vitória SC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Vit%C3%B3ria%20SC",
-      "pubdate": "Sat, 08 Feb 2025 20:00:00 +0000"
-    },
-    {
       "title": "Flamengo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+      "pubdate": "Sat, 08 Feb 2025 19:00:00 +0000"
+    },
+    {
+      "title": "Slb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Slb",
       "pubdate": "Sat, 08 Feb 2025 19:00:00 +0000"
     },
     {
@@ -45,6 +65,11 @@
       "title": "Ana galvao",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ana%20galvao",
       "pubdate": "Sat, 08 Feb 2025 15:00:00 +0000"
+    },
+    {
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AC%20Milan",
+      "pubdate": "Sat, 08 Feb 2025 20:00:00 +0000"
     },
     {
       "title": "Marítimo  Portimonense",
@@ -62,16 +87,6 @@
       "pubdate": "Sat, 08 Feb 2025 08:00:00 +0000"
     },
     {
-      "title": "SL Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SL%20Benfica",
-      "pubdate": "Sat, 08 Feb 2025 20:00:00 +0000"
-    },
-    {
-      "title": "Critics Choice Awards 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Critics%20Choice%20Awards%202025",
-      "pubdate": "Sat, 08 Feb 2025 11:00:00 +0000"
-    },
-    {
       "title": "Peixe diabo negro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Peixe%20diabo%20negro",
       "pubdate": "Sat, 08 Feb 2025 20:00:00 +0000"
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 08 Feb 2025 15:00:00 +0000"
     },
     {
-      "title": "Real betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20betis",
-      "pubdate": "Sat, 08 Feb 2025 17:00:00 +0000"
-    },
-    {
-      "title": "Asteroide 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Asteroide%202024",
-      "pubdate": "Sat, 08 Feb 2025 15:00:00 +0000"
-    },
-    {
-      "title": "Felgueiras  Tondela",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felgueiras%20%20Tondela",
-      "pubdate": "Sat, 08 Feb 2025 17:00:00 +0000"
-    },
-    {
-      "title": "Emile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emile",
-      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0000"
+      "title": "Critics Choice Awards 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Critics%20Choice%20Awards%202025",
+      "pubdate": "Sat, 08 Feb 2025 11:00:00 +0000"
     }
   ]
 }
