@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2025 , 23:59:54",
+  "lastUpdate": "18-02-2025 , 01:48:59",
   "data": [
     {
       "title": "Twój e-PIT",
@@ -67,11 +67,6 @@
       "pubdate": "Mon, 17 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "Nowy sondaż prezydencki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nowy%20sonda%C5%BC%20prezydencki",
-      "pubdate": "Mon, 17 Feb 2025 19:00:00 +0100"
-    },
-    {
       "title": "Marcin Romanowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Romanowski",
       "pubdate": "Mon, 17 Feb 2025 21:00:00 +0100"
@@ -80,6 +75,11 @@
       "title": "sprawdzaMY Brzoska",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#sprawdzaMY%20Brzoska",
       "pubdate": "Mon, 17 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Emmanuel Macron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Emmanuel%20Macron",
+      "pubdate": "Mon, 17 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Piast Gliwice",
