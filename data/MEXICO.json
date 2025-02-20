@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 19:05:25",
+  "lastUpdate": "20-02-2025 , 21:21:05",
   "data": [
     {
       "title": "Roma  Porto",
@@ -7,13 +7,28 @@
       "pubdate": "Thu, 20 Feb 2025 11:00:00 -0600"
     },
     {
+      "title": "Betis  Gent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Betis%20%20Gent",
+      "pubdate": "Thu, 20 Feb 2025 12:00:00 -0600"
+    },
+    {
       "title": "Renuncia Papa Francisco Vaticano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Renuncia%20Papa%20Francisco%20Vaticano",
       "pubdate": "Thu, 20 Feb 2025 06:00:00 -0600"
     },
     {
-      "title": "Club america",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Club%20america",
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Galatasaray",
+      "pubdate": "Thu, 20 Feb 2025 12:00:00 -0600"
+    },
+    {
+      "title": "Anderlecht  Fenerbahçe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Anderlecht%20%20Fenerbah%C3%A7e",
+      "pubdate": "Thu, 20 Feb 2025 14:00:00 -0600"
+    },
+    {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
       "pubdate": "Thu, 20 Feb 2025 00:00:00 -0600"
     },
     {
@@ -22,9 +37,9 @@
       "pubdate": "Thu, 20 Feb 2025 00:00:00 -0600"
     },
     {
-      "title": "Betis - Gent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Betis%20-%20Gent",
-      "pubdate": "Thu, 20 Feb 2025 12:00:00 -0600"
+      "title": "Culiacan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Culiacan",
+      "pubdate": "Thu, 20 Feb 2025 03:00:00 -0600"
     },
     {
       "title": "Angelica Rivera",
@@ -32,24 +47,14 @@
       "pubdate": "Thu, 20 Feb 2025 07:00:00 -0600"
     },
     {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
-      "pubdate": "Thu, 20 Feb 2025 00:00:00 -0600"
-    },
-    {
-      "title": "Culiacan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Culiacan",
-      "pubdate": "Thu, 20 Feb 2025 03:00:00 -0600"
+      "title": "Dia del Gato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20del%20Gato",
+      "pubdate": "Thu, 20 Feb 2025 13:00:00 -0600"
     },
     {
       "title": "Olivia Rodrigo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Olivia%20Rodrigo",
       "pubdate": "Thu, 20 Feb 2025 09:00:00 -0600"
-    },
-    {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Galatasaray",
-      "pubdate": "Thu, 20 Feb 2025 12:00:00 -0600"
     },
     {
       "title": "Real Madrid  Manchester City",
@@ -94,12 +99,7 @@
     {
       "title": "Clima CDMX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20CDMX",
-      "pubdate": "Wed, 19 Feb 2025 10:00:00 -0600"
-    },
-    {
-      "title": "Dia del ejercito Mexicano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20del%20ejercito%20Mexicano",
-      "pubdate": "Wed, 19 Feb 2025 08:00:00 -0600"
+      "pubdate": "Wed, 19 Feb 2025 11:00:00 -0600"
     }
   ]
 }
