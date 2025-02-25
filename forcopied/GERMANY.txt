@@ -1,1 +1,1 @@
-Roberta Flack,NDR,MDR,Leipzig,Julia Klöckner,Bundestagswahl 2025,BSW,Die Linke,Christian Lindner,Grüne,CDU,Papst Franziskus,Klingbeil,Ergebnis Bundestagswahl,Hessenschau,Bundestagwahl,SWR,Thüringen,Hochrechnung Bundestagswahl,Söder
+Roberta Flack,NDR,MDR,Leipzig,Julia Klöckner,BSW,Die Linke,Grüne,Lindner,SPD,CDU,Papst Franziskus,Klingbeil,Ergebnis Bundestagswahl,Bundestag,Hessenschau,Bundestagwahl,SWR,Thüringen,Hochrechnung Bundestagswahl

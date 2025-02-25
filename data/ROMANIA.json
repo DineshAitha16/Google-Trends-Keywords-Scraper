@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2025 , 00:45:07",
+  "lastUpdate": "25-02-2025 , 02:10:31",
   "data": [
     {
       "title": "Macron",
@@ -17,19 +17,19 @@
       "pubdate": "Mon, 24 Feb 2025 20:00:00 +0200"
     },
     {
-      "title": "UTA Arad  Sepsi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20%20Sepsi",
+      "title": "UTA Arad - Sepsi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Sepsi",
       "pubdate": "Mon, 24 Feb 2025 17:00:00 +0200"
-    },
-    {
-      "title": "Andreea Raicu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20Raicu",
-      "pubdate": "Mon, 24 Feb 2025 11:00:00 +0200"
     },
     {
       "title": "Anca Alexandrescu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anca%20Alexandrescu",
       "pubdate": "Mon, 24 Feb 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Andreea Raicu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20Raicu",
+      "pubdate": "Mon, 24 Feb 2025 11:00:00 +0200"
     },
     {
       "title": "Roland Schatz",
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 23 Feb 2025 21:00:00 +0200"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
-      "pubdate": "Sun, 23 Feb 2025 19:00:00 +0200"
+      "title": "Lyon  PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lyon%20%20PSG",
+      "pubdate": "Sun, 23 Feb 2025 22:00:00 +0200"
     }
   ]
 }

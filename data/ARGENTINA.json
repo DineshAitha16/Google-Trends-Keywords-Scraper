@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2025 , 00:45:00",
+  "lastUpdate": "25-02-2025 , 02:10:25",
   "data": [
     {
       "title": "Barracas Central  Newell's",
@@ -9,6 +9,16 @@
     {
       "title": "Argentinos Juniors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentinos%20Juniors",
+      "pubdate": "Mon, 24 Feb 2025 19:00:00 -0300"
+    },
+    {
+      "title": "Tigre  Banfield",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tigre%20%20Banfield",
+      "pubdate": "Mon, 24 Feb 2025 21:00:00 -0300"
+    },
+    {
+      "title": "Nueva Chicago  Chacarita",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nueva%20Chicago%20%20Chacarita",
       "pubdate": "Mon, 24 Feb 2025 19:00:00 -0300"
     },
     {
@@ -27,9 +37,9 @@
       "pubdate": "Mon, 24 Feb 2025 10:00:00 -0300"
     },
     {
-      "title": "Nueva Chicago - Chacarita",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nueva%20Chicago%20-%20Chacarita",
-      "pubdate": "Mon, 24 Feb 2025 19:00:00 -0300"
+      "title": "Sevilla FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20FC",
+      "pubdate": "Mon, 24 Feb 2025 18:00:00 -0300"
     },
     {
       "title": "Galatasaray",
@@ -42,14 +52,9 @@
       "pubdate": "Mon, 24 Feb 2025 17:00:00 -0300"
     },
     {
-      "title": "Sevilla  - RCD Mallorca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20%20-%20RCD%20Mallorca",
-      "pubdate": "Mon, 24 Feb 2025 18:00:00 -0300"
-    },
-    {
-      "title": "Clima Santa Fe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima%20Santa%20Fe",
-      "pubdate": "Mon, 24 Feb 2025 16:00:00 -0300"
+      "title": "Roberta Flack",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roberta%20Flack",
+      "pubdate": "Mon, 24 Feb 2025 17:00:00 -0300"
     },
     {
       "title": "Telecom",
@@ -57,9 +62,14 @@
       "pubdate": "Mon, 24 Feb 2025 19:00:00 -0300"
     },
     {
-      "title": "Roberta Flack",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roberta%20Flack",
-      "pubdate": "Mon, 24 Feb 2025 17:00:00 -0300"
+      "title": "Clima Santa Fe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima%20Santa%20Fe",
+      "pubdate": "Mon, 24 Feb 2025 16:00:00 -0300"
+    },
+    {
+      "title": "Porto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Porto",
+      "pubdate": "Mon, 24 Feb 2025 19:00:00 -0300"
     },
     {
       "title": "River Plate  Peñarol",
@@ -70,11 +80,6 @@
       "title": "Paro docente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20docente",
       "pubdate": "Mon, 24 Feb 2025 09:00:00 -0300"
-    },
-    {
-      "title": "Sevilla FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20FC",
-      "pubdate": "Mon, 24 Feb 2025 19:00:00 -0300"
     },
     {
       "title": "SAG Awards 2025",
@@ -92,14 +97,9 @@
       "pubdate": "Mon, 24 Feb 2025 18:00:00 -0300"
     },
     {
-      "title": "Galatasaray  Fenerbahçe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Galatasaray%20%20Fenerbah%C3%A7e",
-      "pubdate": "Mon, 24 Feb 2025 18:00:00 -0300"
-    },
-    {
-      "title": "Grok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Grok",
-      "pubdate": "Mon, 24 Feb 2025 17:00:00 -0300"
+      "title": "Racing de Córdoba  Alvarado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20de%20C%C3%B3rdoba%20%20Alvarado",
+      "pubdate": "Mon, 24 Feb 2025 22:00:00 -0300"
     }
   ]
 }
